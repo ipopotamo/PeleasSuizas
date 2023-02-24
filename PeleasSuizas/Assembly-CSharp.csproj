@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Movimiento.cs" />
+    <Compile Include="Assets\Combo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

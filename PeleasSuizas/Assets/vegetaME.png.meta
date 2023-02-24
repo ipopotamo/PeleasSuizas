@@ -1,7 +1,469 @@
 fileFormatVersion: 2
 guid: 01fd24f7054e7d04eb4401fcfe35b433
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2393547346742498192
+    second: 7
+  - first:
+      213: 2102046360715443350
+    second: 10
+  - first:
+      213: 3259665259628085377
+    second: vegetaME_2
+  - first:
+      213: -5181431192288842482
+    second: vegetaME_3
+  - first:
+      213: 2617771497211130443
+    second: vegetaME_4
+  - first:
+      213: 3654562069816598632
+    second: 14
+  - first:
+      213: -1483107574579471904
+    second: 15
+  - first:
+      213: -7444881754181087028
+    second: 1
+  - first:
+      213: -863033869308945512
+    second: 2
+  - first:
+      213: -2765078738224355091
+    second: 3
+  - first:
+      213: 3671198554884446794
+    second: 4
+  - first:
+      213: 7394616227363259801
+    second: vegetaME_11
+  - first:
+      213: -4262707480457872686
+    second: 5
+  - first:
+      213: 2506398882425899964
+    second: 6
+  - first:
+      213: 4095216042841560648
+    second: 8
+  - first:
+      213: -8065989905133337757
+    second: 9
+  - first:
+      213: 676258314238414361
+    second: 11
+  - first:
+      213: -6605238280250176205
+    second: 12
+  - first:
+      213: -5129031627745079665
+    second: vegetaME_18
+  - first:
+      213: -6035598233484326234
+    second: vegetaME_19
+  - first:
+      213: -1303690311472905467
+    second: 13
+  - first:
+      213: 4542341793986085376
+    second: vegetaME_21
+  - first:
+      213: -1134073972504811893
+    second: vegetaME_22
+  - first:
+      213: 2443152490069808206
+    second: vegetaME_23
+  - first:
+      213: 4481987438876543312
+    second: A
+  - first:
+      213: -7445389253190263481
+    second: B
+  - first:
+      213: 1437666534146951744
+    second: C
+  - first:
+      213: -5413343572127454888
+    second: D
+  - first:
+      213: -8096752501112486943
+    second: E
+  - first:
+      213: 4708142802906888218
+    second: vegetaME_30
+  - first:
+      213: -2003904607298658043
+    second: vegetaME_31
+  - first:
+      213: -8569494950160554933
+    second: vegetaME_33
+  - first:
+      213: 139657067910148993
+    second: vegetaME_34
+  - first:
+      213: 4304037986001218330
+    second: vegetaME_36
+  - first:
+      213: 2658101153505006670
+    second: vegetaME_37
+  - first:
+      213: 5341207060834746375
+    second: vegetaME_38
+  - first:
+      213: -6173250410848282996
+    second: vegetaME_39
+  - first:
+      213: -1988522959099161562
+    second: vegetaME_40
+  - first:
+      213: 7027470609343639704
+    second: vegetaME_42
+  - first:
+      213: 8984713185850163033
+    second: vegetaME_43
+  - first:
+      213: -3281172605166251015
+    second: vegetaME_45
+  - first:
+      213: 2737913791842089076
+    second: vegetaME_46
+  - first:
+      213: 5778948906415418886
+    second: vegetaME_47
+  - first:
+      213: 2750352537750801647
+    second: vegetaME_48
+  - first:
+      213: 1357735161865358131
+    second: vegetaME_49
+  - first:
+      213: -2816064675668993941
+    second: vegetaME_50
+  - first:
+      213: -2450964777906123530
+    second: vegetaME_51
+  - first:
+      213: 6061974988124397529
+    second: vegetaME_52
+  - first:
+      213: -6942193352276707768
+    second: vegetaME_54
+  - first:
+      213: 661355407619105671
+    second: vegetaME_56
+  - first:
+      213: -4514453048805155859
+    second: vegetaME_57
+  - first:
+      213: -676812085180758890
+    second: vegetaME_58
+  - first:
+      213: -2320983827030879535
+    second: vegetaME_59
+  - first:
+      213: 2070904681884580620
+    second: vegetaME_60
+  - first:
+      213: -6732144062077595804
+    second: vegetaME_61
+  - first:
+      213: -400016642283741760
+    second: vegetaME_62
+  - first:
+      213: -917979299918153444
+    second: vegetaME_63
+  - first:
+      213: -261796964523351528
+    second: vegetaME_64
+  - first:
+      213: 3448220048630586320
+    second: vegetaME_65
+  - first:
+      213: 669524987884440822
+    second: vegetaME_66
+  - first:
+      213: 5670926379600275570
+    second: vegetaME_67
+  - first:
+      213: 6577356776594733006
+    second: vegetaME_68
+  - first:
+      213: -3097472680304014048
+    second: vegetaME_69
+  - first:
+      213: -7336312700327046648
+    second: vegetaME_70
+  - first:
+      213: -2547916666757958459
+    second: vegetaME_72
+  - first:
+      213: -7031135263834767505
+    second: vegetaME_73
+  - first:
+      213: 1177755157039184541
+    second: vegetaME_74
+  - first:
+      213: 8729639626930579899
+    second: vegetaME_75
+  - first:
+      213: -1876515537022015614
+    second: vegetaME_76
+  - first:
+      213: 7442906521993569625
+    second: vegetaME_77
+  - first:
+      213: -6469338758993238765
+    second: vegetaME_78
+  - first:
+      213: 7141641169649894300
+    second: vegetaME_79
+  - first:
+      213: -7335005623082933762
+    second: vegetaME_80
+  - first:
+      213: -6128416468564537638
+    second: vegetaME_81
+  - first:
+      213: -2571757080909514261
+    second: vegetaME_82
+  - first:
+      213: 6459100133187522113
+    second: vegetaME_83
+  - first:
+      213: -9012109131229844079
+    second: vegetaME_84
+  - first:
+      213: -2415658783345604628
+    second: vegetaME_85
+  - first:
+      213: 2113155563867575857
+    second: vegetaME_87
+  - first:
+      213: -7884068042456423885
+    second: vegetaME_88
+  - first:
+      213: -3591437416147280149
+    second: vegetaME_89
+  - first:
+      213: 1414178764898048144
+    second: vegetaME_90
+  - first:
+      213: -618534717846481864
+    second: vegetaME_91
+  - first:
+      213: 2383416515179694799
+    second: vegetaME_92
+  - first:
+      213: -8171646720396746702
+    second: vegetaME_93
+  - first:
+      213: 4183845051964432577
+    second: vegetaME_94
+  - first:
+      213: 7113251670839827718
+    second: vegetaME_95
+  - first:
+      213: 3064008742313897864
+    second: vegetaME_96
+  - first:
+      213: 4122928738556185252
+    second: vegetaME_97
+  - first:
+      213: -1151639713689497844
+    second: vegetaME_99
+  - first:
+      213: 6078417499649882253
+    second: vegetaME_100
+  - first:
+      213: 5906009729358257734
+    second: vegetaME_101
+  - first:
+      213: 4960839193822926497
+    second: vegetaME_103
+  - first:
+      213: -5345060371374737322
+    second: vegetaME_104
+  - first:
+      213: -5649874447613596279
+    second: vegetaME_105
+  - first:
+      213: -8400887207421231055
+    second: vegetaME_106
+  - first:
+      213: -4107774296860209134
+    second: vegetaME_108
+  - first:
+      213: -2747842965875983817
+    second: vegetaME_113
+  - first:
+      213: 6037955859986003785
+    second: vegetaME_114
+  - first:
+      213: 2999162152940240302
+    second: vegetaME_115
+  - first:
+      213: 3733210516521882507
+    second: vegetaME_116
+  - first:
+      213: 1733346135892065259
+    second: vegetaME_119
+  - first:
+      213: -222617083056305784
+    second: vegetaME_120
+  - first:
+      213: 1288337176891473659
+    second: vegetaME_128
+  - first:
+      213: 2107149882250576115
+    second: vegetaME_129
+  - first:
+      213: -5820487586301094630
+    second: vegetaME_133
+  - first:
+      213: -8926543359643221180
+    second: vegetaME_134
+  - first:
+      213: -5697300817535998745
+    second: vegetaME_135
+  - first:
+      213: -5590387644363363826
+    second: vegetaME_136
+  - first:
+      213: -8482930942862736356
+    second: vegetaME_137
+  - first:
+      213: 8192751811340498107
+    second: vegetaME_138
+  - first:
+      213: 7936693966974471726
+    second: vegetaME_139
+  - first:
+      213: -2853778448242173269
+    second: vegetaME_141
+  - first:
+      213: -2072989090349416454
+    second: vegetaME_142
+  - first:
+      213: 7908143143020596385
+    second: vegetaME_143
+  - first:
+      213: 3721834103271726599
+    second: vegetaME_144
+  - first:
+      213: 4742059411471703024
+    second: vegetaME_146
+  - first:
+      213: -1163154620911416037
+    second: vegetaME_147
+  - first:
+      213: 2330847784727917729
+    second: vegetaME_148
+  - first:
+      213: -35081547269450493
+    second: vegetaME_149
+  - first:
+      213: -7211416099385394143
+    second: vegetaME_150
+  - first:
+      213: 7979275714769790736
+    second: vegetaME_151
+  - first:
+      213: 5292312272983460797
+    second: vegetaME_152
+  - first:
+      213: 1126239708381112713
+    second: vegetaME_153
+  - first:
+      213: 1070716905890236684
+    second: vegetaME_154
+  - first:
+      213: -7589253754538991789
+    second: vegetaME_155
+  - first:
+      213: 4562160930838297207
+    second: vegetaME_156
+  - first:
+      213: 6238012441853399152
+    second: vegetaME_159
+  - first:
+      213: -2790776624023433172
+    second: vegetaME_160
+  - first:
+      213: 5470083877310133505
+    second: vegetaME_163
+  - first:
+      213: 2208213792832435130
+    second: vegetaME_164
+  - first:
+      213: -5760699769252490991
+    second: vegetaME_165
+  - first:
+      213: -7375046167254891039
+    second: vegetaME_167
+  - first:
+      213: -491665482863934790
+    second: vegetaME_169
+  - first:
+      213: -7355365180791999109
+    second: vegetaME_176
+  - first:
+      213: -6177753547774859960
+    second: vegetaME_179
+  - first:
+      213: 1552903752839295732
+    second: vegetaME_180
+  - first:
+      213: -8892513136882921133
+    second: vegetaME_181
+  - first:
+      213: -617162287017528982
+    second: vegetaME_184
+  - first:
+      213: 7307804798130187100
+    second: vegetaME_192
+  - first:
+      213: -6681990205708270158
+    second: vegetaME_193
+  - first:
+      213: -6021618850154523124
+    second: vegetaME_194
+  - first:
+      213: -5215999784947754648
+    second: vegetaME_195
+  - first:
+      213: 6468865274338060805
+    second: vegetaME_196
+  - first:
+      213: -3986928376678413361
+    second: vegetaME_197
+  - first:
+      213: -3126086825319424850
+    second: vegetaME_199
+  - first:
+      213: 6195403879960823198
+    second: vegetaME_200
+  - first:
+      213: -222762637965140021
+    second: vegetaME_201
+  - first:
+      213: -6478907259297677425
+    second: vegetaME_202
+  - first:
+      213: -2070975653918453249
+    second: vegetaME_204
+  - first:
+      213: -3038467898540185316
+    second: vegetaME_205
+  - first:
+      213: 6224557846888928107
+    second: vegetaME_206
+  - first:
+      213: 4526605471248458647
+    second: vegetaME_207
+  - first:
+      213: -5297769128999947827
+    second: vegetaME_44
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +494,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,11 +503,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
@@ -75,9 +537,3141 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1611
+        width: 43
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ca554ae5968ced0800000000000000
+      internalID: -2393547346742498192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1611
+        width: 64
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cb8d72708fb2d10800000000000000
+      internalID: 2102046360715443350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1611
+        width: 72
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e80df6dc97b230800000000000000
+      internalID: 3654562069816598632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1610
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9df7dc481fa6be0800000000000000
+      internalID: -1483107574579471904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1611
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0df3f3d777ea890800000000000000
+      internalID: -7444881754181087028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1611
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b95b6b443e504f0800000000000000
+      internalID: -863033869308945512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1611
+        width: 29
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8e620a98770a9d0800000000000000
+      internalID: -2765078738224355091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1611
+        width: 29
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a90d382a7b2f230800000000000000
+      internalID: 3671198554884446794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1611
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995835ac744fe9660800000000000000
+      internalID: 7394616227363259801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1611
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da78ed9122d7d4c0800000000000000
+      internalID: -4262707480457872686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1611
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb8e6c018488c220800000000000000
+      internalID: 2506398882425899964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1611
+        width: 39
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8465d082b4125d830800000000000000
+      internalID: 4095216042841560648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1611
+        width: 42
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36304aeaae8df0090800000000000000
+      internalID: -8065989905133337757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1611
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec5949a5d826900800000000000000
+      internalID: 676258314238414361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1611
+        width: 78
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d40e8b7ca7554a0800000000000000
+      internalID: -6605238280250176205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1611
+        width: 52
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5030a87a19c58ede0800000000000000
+      internalID: -1303690311472905467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1615
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86a5d70bb5f240f0800000000000000
+      internalID: -1134073972504811893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1618
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d8bece32d7e120800000000000000
+      internalID: 2443152490069808206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1531
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059cffd34d7333e30800000000000000
+      internalID: 4481987438876543312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1531
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d551debe9aca890800000000000000
+      internalID: -7445389253190263481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1531
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04acb41881e93f310800000000000000
+      internalID: 1437666534146951744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1531
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e238c3b0ffd4b0800000000000000
+      internalID: -5413343572127454888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1531
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e34fe8af7e82af80800000000000000
+      internalID: -8096752501112486943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1531
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b3173feea65140800000000000000
+      internalID: 4708142802906888218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1531
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e1367063b034e0800000000000000
+      internalID: -2003904607298658043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1531
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b442d27feb9031980800000000000000
+      internalID: -8569494950160554933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1531
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18338230d5920f100800000000000000
+      internalID: 139657067910148993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1450
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1be3679eb30bbb30800000000000000
+      internalID: 4304037986001218330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1450
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d8b77ae873e420800000000000000
+      internalID: 2658101153505006670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1450
+        width: 41
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7000ddcd587cf1a40800000000000000
+      internalID: 5341207060834746375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1457
+        width: 51
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c869ad76575345aa0800000000000000
+      internalID: -6173250410848282996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_40
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1460
+        width: 51
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6249f2387e85764e0800000000000000
+      internalID: -1988522959099161562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_42
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1452
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890fc6b3947968160800000000000000
+      internalID: 7027470609343639704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1452
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ffd5b1a0d10bc70800000000000000
+      internalID: 8984713185850163033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1450
+        width: 24
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3925666eee672d0800000000000000
+      internalID: -3281172605166251015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1450
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478f36c66160ff520800000000000000
+      internalID: 2737913791842089076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_47
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1367
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ee5068963f23050800000000000000
+      internalID: 5778948906415418886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1367
+        width: 31
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec0bb3af073b2620800000000000000
+      internalID: 2750352537750801647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1373
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bca06afe4a7d210800000000000000
+      internalID: 1357735161865358131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_50
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1367
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68593ef8145be8d0800000000000000
+      internalID: -2816064675668993941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_51
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1367
+        width: 28
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc49ef258c6cfdd0800000000000000
+      internalID: -2450964777906123530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1367
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df157c4226702450800000000000000
+      internalID: 6061974988124397529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_54
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1367
+        width: 26
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846f77b6def58af90800000000000000
+      internalID: -6942193352276707768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1290
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ab6d3d3b9d2900800000000000000
+      internalID: 661355407619105671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_57
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1290
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb1ac6eed07951c0800000000000000
+      internalID: -4514453048805155859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1290
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6940c139efa7b96f0800000000000000
+      internalID: -676812085180758890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1290
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2d564a1853acfd0800000000000000
+      internalID: -2320983827030879535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_60
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1290
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b7c6706d45dbc10800000000000000
+      internalID: 2070904681884580620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_61
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1290
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f0c1bd4ae9292a0800000000000000
+      internalID: -6732144062077595804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_62
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1295
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdde64bbfad27af0800000000000000
+      internalID: -400016642283741760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_63
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1298
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19773db0bea243f0800000000000000
+      internalID: -917979299918153444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_64
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1296
+        width: 37
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8126f4e3c09ed5cf0800000000000000
+      internalID: -261796964523351528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1298
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db91026dd98adf20800000000000000
+      internalID: 3448220048630586320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_66
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1290
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc891fdd61aa4900800000000000000
+      internalID: 669524987884440822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_67
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1290
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27867731f7d23be40800000000000000
+      internalID: 5670926379600275570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_68
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1297
+        width: 39
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7ffe5d327774b50800000000000000
+      internalID: 6577356776594733006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_69
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1301
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d800522019305d0800000000000000
+      internalID: -3097472680304014048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_70
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1301
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802d1dfe77e203a90800000000000000
+      internalID: -7336312700327046648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_72
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1229
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c438908a4bf3acd0800000000000000
+      internalID: -2547916666757958459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_73
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1220
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ff767eab36c6e90800000000000000
+      internalID: -7031135263834767505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1220
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a74b7431a385010800000000000000
+      internalID: 1177755157039184541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_75
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1221
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9ee543df8e52970800000000000000
+      internalID: 8729639626930579899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1230
+        width: 66
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2872d40bf0745f5e0800000000000000
+      internalID: -1876515537022015614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_77
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1230
+        width: 51
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9556ddb2c048a4760800000000000000
+      internalID: 7442906521993569625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_78
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1229
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315aa8abcaa4836a0800000000000000
+      internalID: -6469338758993238765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_79
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1231
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9389464ec43c1360800000000000000
+      internalID: 7141641169649894300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_80
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1231
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef126a29f33d43a90800000000000000
+      internalID: -7335005623082933762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_81
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1220
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade8e8b01bd73faa0800000000000000
+      internalID: -6128416468564537638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_82
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1215
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9fac78f884f4cd0800000000000000
+      internalID: -2571757080909514261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_83
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1222
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e025f695553a950800000000000000
+      internalID: 6459100133187522113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_84
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1236
+        width: 60
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dadfb4e7e8ee280800000000000000
+      internalID: -9012109131229844079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_85
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1236
+        width: 54
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce70220a22bd97ed0800000000000000
+      internalID: -2415658783345604628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_87
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1148
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13697731acf635d10800000000000000
+      internalID: 2113155563867575857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_88
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1148
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332206013e9269290800000000000000
+      internalID: -7884068042456423885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_89
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1148
+        width: 27
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee9e71c2b6a82ec0800000000000000
+      internalID: -3591437416147280149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_90
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1148
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09816a2181c20a310800000000000000
+      internalID: 1414178764898048144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_91
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1163
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834938583f58a67f0800000000000000
+      internalID: -618534717846481864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_92
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1144
+        width: 47
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac51351b8931120800000000000000
+      internalID: 2383416515179694799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_93
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1144
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23024c06a9a789e80800000000000000
+      internalID: -8171646720396746702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_94
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1160
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0ad9568e0001a30800000000000000
+      internalID: 4183845051964432577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_95
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1144
+        width: 45
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d9c5ef4b857b260800000000000000
+      internalID: 7113251670839827718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_96
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1144
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88faf42a7bb858a20800000000000000
+      internalID: 3064008742313897864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_97
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1161
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa04efe7d5973930800000000000000
+      internalID: 4122928738556185252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_99
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1147
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f0e4438cd8400f0800000000000000
+      internalID: -1151639713689497844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_100
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1147
+        width: 58
+        height: 48
+      alignment: 9
+      pivot: {x: 0.30170414, y: 0.005844116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d883627d280ea5450800000000000000
+      internalID: 6078417499649882253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_101
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1147
+        width: 117
+        height: 47
+      alignment: 9
+      pivot: {x: 0.15474968, y: 0.005968459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5666be8c56f150800000000000000
+      internalID: 5906009729358257734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_103
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1075
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a696af86f078d440800000000000000
+      internalID: 4960839193822926497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1075
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658f03d59e782d5b0800000000000000
+      internalID: -5345060371374737322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_105
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1075
+        width: 65
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d6f6ccf1d9791b0800000000000000
+      internalID: -5649874447613596279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_106
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1074
+        width: 50
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130c88b389d0a6b80800000000000000
+      internalID: -8400887207421231055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_108
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1078
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210da2a7a014ef6c0800000000000000
+      internalID: -4107774296860209134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_113
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1078
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af7689163bdd9d0800000000000000
+      internalID: -2747842965875983817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_114
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1078
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94734fb3dd02bc350800000000000000
+      internalID: 6037955859986003785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1078
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead7ccd761a2f9920800000000000000
+      internalID: 2999162152940240302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_116
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1085
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b831a057f270fc330800000000000000
+      internalID: 3733210516521882507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_119
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1090
+        width: 62
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb74ae70251e0810800000000000000
+      internalID: 1733346135892065259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_120
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1089
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889ce7341fa19ecf0800000000000000
+      internalID: -222617083056305784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_128
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1078
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfebb8326d711e110800000000000000
+      internalID: 1288337176891473659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_129
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1078
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f04d0c57a91e3d10800000000000000
+      internalID: 2107149882250576115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_133
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1074
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15d3f6e069793fa0800000000000000
+      internalID: -5820487586301094630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_134
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1000
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4430858fb1c8e1480800000000000000
+      internalID: -8926543359643221180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_135
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1000
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e46930971f1fe0b0800000000000000
+      internalID: -5697300817535998745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_136
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1000
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a2dfc7e04fa62b0800000000000000
+      internalID: -5590387644363363826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_137
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1000
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144f708043964a80800000000000000
+      internalID: -8482930942862736356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_138
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1000
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb473e78d5082b170800000000000000
+      internalID: 8192751811340498107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_139
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 996
+        width: 54
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ecf70dc1dc42e60800000000000000
+      internalID: 7936693966974471726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_141
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 901
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa1cdc0f975568d0800000000000000
+      internalID: -2853778448242173269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_142
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 901
+        width: 53
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff767ec7634b33e0800000000000000
+      internalID: -2072989090349416454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_143
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 901
+        width: 72
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac0fa81a4e5fbd60800000000000000
+      internalID: 7908143143020596385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_144
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 901
+        width: 79
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e1276d56c96a330800000000000000
+      internalID: 3721834103271726599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_146
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 800
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb919409ed2fc140800000000000000
+      internalID: 4742059411471703024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_147
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 800
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d88b1f805abdfe0800000000000000
+      internalID: -1163154620911416037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_148
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 800
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4b63af5b5d85020800000000000000
+      internalID: 2330847784727917729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_149
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 800
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30555d4c48d538ff0800000000000000
+      internalID: -35081547269450493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_150
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 800
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cb99ce347ebeb90800000000000000
+      internalID: -7211416099385394143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_151
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 767
+        width: 320
+        height: 113
+      alignment: 9
+      pivot: {x: 0.049133968, y: 0.26499358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01721cf8cf41cbe60800000000000000
+      internalID: 7979275714769790736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_152
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 825
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb8e9fe8f1127940800000000000000
+      internalID: 5292312272983460797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_153
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 655
+        width: 109
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989eef53c0531af00800000000000000
+      internalID: 1126239708381112713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_154
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 575
+        width: 109
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09c79e5a53fbde00800000000000000
+      internalID: 1070716905890236684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_155
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 549
+        width: 128
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f576a7bed8da690800000000000000
+      internalID: -7589253754538991789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_156
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 551
+        width: 119
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a38caf13d005f30800000000000000
+      internalID: 4562160930838297207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_159
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 594
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0709325f34fd19650800000000000000
+      internalID: 6238012441853399152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_160
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 597
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c209e95527b2549d0800000000000000
+      internalID: -2790776624023433172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_163
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 594
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10579aefd44a9eb40800000000000000
+      internalID: 5470083877310133505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_164
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 596
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab335e5beb625ae10800000000000000
+      internalID: 2208213792832435130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_165
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 598
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111d704d412ed00b0800000000000000
+      internalID: -5760699769252490991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_167
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 601
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e58aa6e59296a990800000000000000
+      internalID: -7375046167254891039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_169
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 544
+        width: 133
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2039929d04d29f0800000000000000
+      internalID: -491665482863934790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_176
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 439
+        width: 88
+        height: 77
+      alignment: 9
+      pivot: {x: 0.1896664, y: 0.005542309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75bd95a65e7ce990800000000000000
+      internalID: -7355365180791999109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_179
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 441
+        width: 73
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84568f221e5344aa0800000000000000
+      internalID: -6177753547774859960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_180
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 446
+        width: 28
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f27b5e4cb50d8510800000000000000
+      internalID: 1552903752839295732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_181
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 446
+        width: 36
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3515993aa62779480800000000000000
+      internalID: -8892513136882921133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_184
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 430
+        width: 102
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a617d897b266f67f0800000000000000
+      internalID: -617162287017528982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_192
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 344
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5be178deb98a6560800000000000000
+      internalID: 7307804798130187100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_193
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 344
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58e148f4dc443a0800000000000000
+      internalID: -6681990205708270158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_194
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 344
+        width: 59
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c065eb74f89ee6ca0800000000000000
+      internalID: -6021618850154523124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_195
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 344
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869dca5c4db0d97b0800000000000000
+      internalID: -5215999784947754648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_196
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 344
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aa7c881b606c950800000000000000
+      internalID: 6468865274338060805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_197
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 305
+        width: 352
+        height: 125
+      alignment: 9
+      pivot: {x: 0.12290876, y: 0.28811035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb882bd3c59ba8c0800000000000000
+      internalID: -3986928376678413361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_199
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 230
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac9ec75898ed94d0800000000000000
+      internalID: -3126086825319424850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_200
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 230
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e954421110f7af550800000000000000
+      internalID: 6195403879960823198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_201
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 230
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfdbde9f8698ecf0800000000000000
+      internalID: -222762637965140021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 230
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fbcd4ac2c4616a0800000000000000
+      internalID: -6478907259297677425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_204
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 230
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff155b18d9a6243e0800000000000000
+      internalID: -2070975653918453249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_205
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 230
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a5167b8135d5d0800000000000000
+      internalID: -3038467898540185316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_206
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 230
+        width: 29
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b635fa3f162126650800000000000000
+      internalID: 6224557846888928107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_207
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 230
+        width: 29
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793aa1071bbb1de30800000000000000
+      internalID: 4526605471248458647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetaME_44
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1452
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc17de3cb0b8a76b0800000000000000
+      internalID: -5297769128999947827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
