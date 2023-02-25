@@ -7,8 +7,6 @@ public class Movimiento : MonoBehaviour
      private Animator PlayerAnimator;
     private Rigidbody2D RB2D;
 
-
-
     private float MovX = 0;
     private float MOvY = 0;
     
@@ -32,15 +30,15 @@ public class Movimiento : MonoBehaviour
         
         if(Input.GetKey("a"))
         {
-            MovX = -1;            
+            MovX = -1*velocidadDeMovimiento;            
         }
         if(!Input.GetKey("a"))
         {
-            MovX = 0; 
+            MovX = 0*velocidadDeMovimiento; 
         }
          if(Input.GetKey("d"))
         {
-            MovX = 1;           
+            MovX = 1*velocidadDeMovimiento;           
         }
        
         movi = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento , MOvY * Time.deltaTime * velocidadDeMovimiento).normalized;
@@ -55,7 +53,8 @@ public class Movimiento : MonoBehaviour
 
     private void Mover(float m)
     {
-        RB2D.velocity = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento,0).normalized;
+        Vector3 velocidadObjetivo = new Vector2(m, RB2D.velocity.y);
+        RB2D.velocity = Vector3.SmoothDamp(RB2D.velocity, velocidadObjetivo, ref velocidad,0);
         
         if (m > 0 && !MirandoDerecha) {
             Girar();

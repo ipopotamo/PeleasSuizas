@@ -22,7 +22,7 @@ public class Movimiento2 : MonoBehaviour
     void Start()
     {
         RB2D = GetComponent<Rigidbody2D>();
-      //  PlayerAnimator = GetComponent<Animator>();
+        PlayerAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -32,20 +32,20 @@ public class Movimiento2 : MonoBehaviour
         
         if(Input.GetKey("left"))
         {
-            MovX = -1;            
+            MovX = -1*velocidadDeMovimiento;            
         }
         if(!Input.GetKey("left"))
         {
-            MovX = 0; 
+            MovX = 0*velocidadDeMovimiento; 
         }
          if(Input.GetKey("right"))
         {
-            MovX = 1;           
+            MovX = 1*velocidadDeMovimiento;           
         }
        
-        movi = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento , MOvY * Time.deltaTime * velocidadDeMovimiento).normalized;
+         movi = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento , MOvY * Time.deltaTime * velocidadDeMovimiento).normalized;
         
-        //PlayerAnimator.SetFloat("velocidad", movi.magnitude);
+        PlayerAnimator.SetFloat("velocidad", movi.magnitude);
     }
 
     private void FixedUpdate()
@@ -55,12 +55,13 @@ public class Movimiento2 : MonoBehaviour
 
     private void Mover(float m)
     {
-        RB2D.velocity = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento,0).normalized;
+        Vector3 velocidadObjetivo = new Vector2(m, RB2D.velocity.y);
+        RB2D.velocity = Vector3.SmoothDamp(RB2D.velocity, velocidadObjetivo, ref velocidad,0);
         
-        if (m < 0 && !MirandoDerecha) {
+        if (m > 0 && !MirandoDerecha) {
             Girar();
         }
-        else if (m > 0 && MirandoDerecha) {
+        else if (m < 0 && MirandoDerecha) {
             Girar();
         }
     }
