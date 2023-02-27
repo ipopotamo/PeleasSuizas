@@ -7,8 +7,7 @@ public class Movimiento : MonoBehaviour
      private Animator PlayerAnimator;
     private Rigidbody2D RB2D;
 
-    private float MovX = 0;
-    private float MOvY = 0;
+    private float MovX;
     
     [SerializeField] private float velocidadDeMovimiento;
     [SerializeField] private float SuavisadoMovimiento;
@@ -16,9 +15,14 @@ public class Movimiento : MonoBehaviour
     private Vector3 velocidad = Vector3.zero;
     private bool MirandoDerecha = true;
 
-    private bool salto = true;
-    [SerializeField] private float Tiempoenelaire; 
-    [SerializeField] private float Sigsalto;
+    
+    [SerializeField] private float Fsalto; 
+    [SerializeField] private LayerMask EnSuelo;
+    [SerializeField] private Transform controladorS; 
+    [SerializeField] private Vector3 dimensioncaja;
+    [SerializeField] private bool eSuelo; 
+    private bool salto = false;
+
 
     void Start()
     {
@@ -33,42 +37,39 @@ public class Movimiento : MonoBehaviour
         
         if(Input.GetKey("a"))
         {
-            MovX = -1*velocidadDeMovimiento;            
+            MovX = -1 * velocidadDeMovimiento;            
         }
         if(!Input.GetKey("a"))
         {
-            MovX = 0*velocidadDeMovimiento; 
+            MovX = 0 * velocidadDeMovimiento; 
         }
         if(Input.GetKey("d"))
         {
-            MovX = 1*velocidadDeMovimiento;           
+            MovX = 1 * velocidadDeMovimiento;           
         }
 
-        if(salto == true && Sigsalto > 0 && Input.GetKey("space")){
-            
-            Salto();
-
-            if(salto == false && Tiempoenelaire < 0){
-            MOvY = -1;
-            }
+        if(Input.GetButtonDown("Jump"))
+        {
+         salto = true;        
         }
-        
 
-        movi = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento , MOvY * Time.deltaTime * velocidadDeMovimiento).normalized;
+        movi = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento ,0f).normalized;
         
         PlayerAnimator.SetFloat("velocidad", movi.magnitude);
     }
 
     private void FixedUpdate()
     {
-       Mover(MovX * Time.fixedDeltaTime);
-       
+       eSuelo = Physics2D.OverlapBox(controladorS.position,dimensioncaja,0f,EnSuelo);
+       Mover(MovX * Time.fixedDeltaTime, salto);
+       salto = false;
+          
     }
 
-    private void Mover(float m)
+    private void Mover(float m, bool saltar)
     {
-        Vector3 velocidadObjetivo = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento , MOvY * Time.deltaTime * velocidadDeMovimiento).normalized;
-        RB2D.velocity = Vector3.SmoothDamp(RB2D.velocity, velocidadObjetivo, ref velocidad,0);
+        Vector3 velocidadObjetivo = new Vector2(m, RB2D.velocity.y);
+        RB2D.velocity = Vector3.SmoothDamp(RB2D.velocity, velocidadObjetivo, ref velocidad ,SuavisadoMovimiento);
         
         if (m > 0 && !MirandoDerecha) {
             Girar();
@@ -76,15 +77,17 @@ public class Movimiento : MonoBehaviour
         else if (m < 0 && MirandoDerecha) {
             Girar();
         }
+        if(eSuelo && saltar)
+        {
+            eSuelo = false;
+            RB2D.AddForce(new Vector2(0f,Fsalto));
+        }
     }
 
     private void Salto()
-    {
-        Sigsalto -= Time.deltaTime; 
+    {    
         salto = false;
-        MOvY  = 1;
-        Sigsalto = Tiempoenelaire; 
-      
+        RB2D.AddForce(new Vector2(0f, Fsalto));      
     }
 
 
@@ -93,5 +96,11 @@ public class Movimiento : MonoBehaviour
         Vector3 escala = transform.localScale;
         escala.x *= -1;
         transform.localScale = escala;
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.blue;
+        Gizmos.DrawWireCube(controladorS.position,dimensioncaja);
     }
 }
