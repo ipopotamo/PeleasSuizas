@@ -15,7 +15,10 @@ public class Movimiento : MonoBehaviour
     private Vector2 movi;
     private Vector3 velocidad = Vector3.zero;
     private bool MirandoDerecha = true;
-    
+
+    private bool salto = true;
+    [SerializeField] private float Tiempoenelaire; 
+    [SerializeField] private float Sigsalto;
 
     void Start()
     {
@@ -36,11 +39,21 @@ public class Movimiento : MonoBehaviour
         {
             MovX = 0*velocidadDeMovimiento; 
         }
-         if(Input.GetKey("d"))
+        if(Input.GetKey("d"))
         {
             MovX = 1*velocidadDeMovimiento;           
         }
-       
+
+        if(salto == true && Sigsalto > 0 && Input.GetKey("space")){
+            
+            Salto();
+
+            if(salto == false && Tiempoenelaire < 0){
+            MOvY = -1;
+            }
+        }
+        
+
         movi = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento , MOvY * Time.deltaTime * velocidadDeMovimiento).normalized;
         
         PlayerAnimator.SetFloat("velocidad", movi.magnitude);
@@ -49,11 +62,12 @@ public class Movimiento : MonoBehaviour
     private void FixedUpdate()
     {
        Mover(MovX * Time.fixedDeltaTime);
+       
     }
 
     private void Mover(float m)
     {
-        Vector3 velocidadObjetivo = new Vector2(m, RB2D.velocity.y);
+        Vector3 velocidadObjetivo = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento , MOvY * Time.deltaTime * velocidadDeMovimiento).normalized;
         RB2D.velocity = Vector3.SmoothDamp(RB2D.velocity, velocidadObjetivo, ref velocidad,0);
         
         if (m > 0 && !MirandoDerecha) {
@@ -63,6 +77,16 @@ public class Movimiento : MonoBehaviour
             Girar();
         }
     }
+
+    private void Salto()
+    {
+        Sigsalto -= Time.deltaTime; 
+        salto = false;
+        MOvY  = 1;
+        Sigsalto = Tiempoenelaire; 
+      
+    }
+
 
     private void Girar() {
         MirandoDerecha = !MirandoDerecha;
