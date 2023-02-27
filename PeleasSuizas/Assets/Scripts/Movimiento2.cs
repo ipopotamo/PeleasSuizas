@@ -6,9 +6,6 @@ public class Movimiento2 : MonoBehaviour
 {
    private Animator PlayerAnimator;
     private Rigidbody2D RB2D;
-
-
-
     private float MovX = 0;
 
     [SerializeField] private float Fsalto; 
@@ -49,9 +46,10 @@ public class Movimiento2 : MonoBehaviour
             MovX = 1*velocidadDeMovimiento;           
         }
 
-        if(Input.GetKey("g"))
+        if(Input.GetKeyDown(KeyCode.UpArrow))
         {
-         salto = true;        
+          PlayerAnimator.SetTrigger("saltando");  
+          salto = true;        
         }
        
         movi = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento , 0f).normalized;
@@ -80,6 +78,7 @@ public class Movimiento2 : MonoBehaviour
         }
         if(eSuelo && saltar)
         {
+            
             eSuelo = false;
             RB2D.AddForce(new Vector2(0f,Fsalto));
         }
@@ -96,5 +95,11 @@ public class Movimiento2 : MonoBehaviour
     {
         Gizmos.color = Color.blue;
         Gizmos.DrawWireCube(controladorS.position,dimensioncaja);
+    }
+    private void Salto()
+    {    
+        
+        salto = false;
+        RB2D.AddForce(new Vector2(0f, Fsalto));      
     }
 }
