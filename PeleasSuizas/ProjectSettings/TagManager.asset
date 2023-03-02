@@ -8,6 +8,8 @@ TagManager:
   - EnergiaPJ1
   - VidaPJ2
   - EnergiaPJ2
+  - Jugador2
+  - Jugador1
   layers:
   - Default
   - TransparentFX

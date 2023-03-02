@@ -15,7 +15,7 @@ public class Movimiento2 : MonoBehaviour
     [SerializeField] private bool eSuelo; 
     private bool salto = false;
     
-    [SerializeField] private float velocidadDeMovimiento;
+    [SerializeField] public float velocidadDeMovimiento;
     [SerializeField] private float SuavisadoMovimiento;
     private Vector2 movi;
     private Vector3 velocidad = Vector3.zero;
