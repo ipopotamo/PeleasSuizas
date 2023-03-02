@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Movimiento : MonoBehaviour
 {
-     private Animator PlayerAnimator;
+    private Animator PlayerAnimator;
     private Rigidbody2D RB2D;
 
     private float MovX;
     
-    [SerializeField] private float velocidadDeMovimiento;
+    [SerializeField] public float velocidadDeMovimiento;
     [SerializeField] private float SuavisadoMovimiento;
     private Vector2 movi;
     private Vector3 velocidad = Vector3.zero;
@@ -48,9 +48,10 @@ public class Movimiento : MonoBehaviour
             MovX = 1 * velocidadDeMovimiento;           
         }
 
-        if(Input.GetButtonDown("Jump"))
+        if(Input.GetKeyDown(KeyCode.W))
         {
-         salto = true;        
+            PlayerAnimator.SetTrigger("saltando"); 
+            salto = true;        
         }
 
         movi = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento ,0f).normalized;

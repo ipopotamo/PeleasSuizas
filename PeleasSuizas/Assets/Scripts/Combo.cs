@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class Combo : MonoBehaviour
 {
+    [SerializeField] private Transform control;
+    [SerializeField] private float radioAtaque;
+    [SerializeField] private float Dano;
+
+
     public Animator anim;
     public int combo;
    // [SerializeField] public Movimiento moviminto;
@@ -18,9 +23,19 @@ public class Combo : MonoBehaviour
         audio_s = GetComponent<AudioSource>();
 
     }
+    private void Golpe() {
+        Collider2D[] objetos = Physics2D.OverlapCircleAll(control.position, radioAtaque);
 
+        foreach (Collider2D colisionador in objetos) {
+            if (colisionador.CompareTag("Jugador2")) 
+            {
+                colisionador.transform.GetComponent<VidaPJ2>().TomarDaño(Dano);
+            }
+        }
+    }
     public void Combos() {
         if (Input.GetKeyDown(KeyCode.C) && !atacando) {
+            Golpe();
             atacando = true;
             anim.SetTrigger("" + combo);
             audio_s.clip = sonido[combo];
@@ -45,5 +60,10 @@ public class Combo : MonoBehaviour
     void Update()
     {
         Combos();
+    }
+
+    private void OnDrawGizmos() {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(control.position, radioAtaque);
     }
 }
