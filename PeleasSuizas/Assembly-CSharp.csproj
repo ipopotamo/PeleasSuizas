@@ -48,9 +48,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Combo.cs" />
-     <Compile Include="Assets\Scripts\Movimiento\Movimiento.cs" />
+     <Compile Include="Assets\Scripts\Movimiento.cs" />
      <Compile Include="Assets\comboPJ2.cs" />
-     <Compile Include="Assets\Scripts\Movimiento\Movimiento2.cs" />
+     <Compile Include="Assets\Scripts\Movimiento2.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
