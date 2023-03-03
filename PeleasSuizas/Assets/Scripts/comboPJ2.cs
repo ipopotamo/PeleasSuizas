@@ -17,15 +17,19 @@ public class comboPJ2 : MonoBehaviour
 
     private void Golpe()
     {
-        Collider2D[] objetos = Physics2D.OverlapCircleAll(control.position, radioAtaque);
-
-        foreach (Collider2D colisionador in objetos)
+        if (!Input.GetKeyDown(KeyCode.P)) 
         {
-            if (colisionador.CompareTag("Jugador1"))
+            Collider2D[] objetos = Physics2D.OverlapCircleAll(control.position, radioAtaque);
+
+            foreach (Collider2D colisionador in objetos)
             {
-                colisionador.transform.GetComponent<VidaPJ1>().TomarDaño1(Dano);
+                if (colisionador.CompareTag("Jugador1"))
+                {
+                    colisionador.transform.GetComponent<VidaPJ1>().TomarDaño1(Dano);
+                }
             }
         }
+ 
     }
 
     void Start()
@@ -37,7 +41,7 @@ public class comboPJ2 : MonoBehaviour
     }
 
     public void Combos2() {
-        if (Input.GetKeyDown(KeyCode.I) && !atacando) {
+        if (Input.GetKeyDown(KeyCode.I) && !atacando ) {
             Golpe();
             atacando = true;
             anim.SetTrigger("" + combo);

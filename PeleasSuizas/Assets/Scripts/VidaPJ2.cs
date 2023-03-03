@@ -30,6 +30,11 @@ public class VidaPJ2 : MonoBehaviour
         {
             anim.SetTrigger("Defensa");
         }
+
+        if (Input.GetKey("p") && Input.GetKey("i")) 
+        {
+            anim.SetTrigger("0");
+        }
     }
 
      public void def()
@@ -40,18 +45,18 @@ public class VidaPJ2 : MonoBehaviour
 
     public void TomarDaño(float dano)
     {
-         if(Input.GetKey("p"))
+         if(Input.GetKey("p") && !Input.GetKey("i"))
         {
             
             dano  = dano - defe;
             vida -= dano;           
         }
         
-        if(!Input.GetKey("p"))
+        if(!Input.GetKey("p") && vida>0)
         {
-           vida -= dano;
+            anim.SetTrigger("LePegan");
+            vida -= dano;
         }
-        
 
         if (vida <= 0)
         {

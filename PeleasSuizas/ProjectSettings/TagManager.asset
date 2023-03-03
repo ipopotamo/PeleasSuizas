@@ -10,6 +10,8 @@ TagManager:
   - EnergiaPJ2
   - Jugador2
   - Jugador1
+  - Ronda1PJ1
+  - Ronda1PJ2
   layers:
   - Default
   - TransparentFX
