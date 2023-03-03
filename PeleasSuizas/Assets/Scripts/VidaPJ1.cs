@@ -28,20 +28,22 @@ public class VidaPJ1 : MonoBehaviour
     void Update()
     {
         slider.value = vida;
+
+        if (Input.GetKey("v"))
+        {
+            anim.SetTrigger("Defensa");
+        }
     }
-
-  
-
     public void TomarDaño1(float dano)
     {
         
-        if(Input.GetKey("f"))
+        if(Input.GetKey("v"))
         {
             dano  = dano - defe;
             vida -= dano;           
         }
         
-        if(!Input.GetKey("f"))
+        if(!Input.GetKey("v"))
         {
            vida -= dano;
         }

@@ -25,7 +25,11 @@ public class VidaPJ2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        slider.value = vida;        
+        slider.value = vida;
+        if (Input.GetKey("p"))
+        {
+            anim.SetTrigger("Defensa");
+        }
     }
 
      public void def()
@@ -38,6 +42,7 @@ public class VidaPJ2 : MonoBehaviour
     {
          if(Input.GetKey("p"))
         {
+            
             dano  = dano - defe;
             vida -= dano;           
         }
