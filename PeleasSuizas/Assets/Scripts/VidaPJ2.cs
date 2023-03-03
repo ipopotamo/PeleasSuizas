@@ -6,7 +6,8 @@ using UnityEngine.UI;
 
 public class VidaPJ2 : MonoBehaviour
 {
-    [SerializeField]private float vida;
+    [SerializeField]public float vida;
+    [SerializeField] public float defe;
     private Slider slider;
     private Animator anim;
     private Movimiento2 movi;
@@ -24,12 +25,29 @@ public class VidaPJ2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        slider.value = vida;
-        
+        slider.value = vida;        
     }
-    public void TomarDaño(float dano)
+
+     public void def()
     {
-        vida -= dano;
+      
+
+    }
+
+    public void TomarDaÃ±o(float dano)
+    {
+         if(Input.GetKey("p"))
+        {
+            dano  = dano - defe;
+            vida -= dano;           
+        }
+        
+        if(!Input.GetKey("p"))
+        {
+           vida -= dano;
+        }
+        
+
         if (vida <= 0)
         {
             anim.SetTrigger("Muerto");

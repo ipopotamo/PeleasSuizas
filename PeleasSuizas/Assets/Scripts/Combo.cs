@@ -29,7 +29,7 @@ public class Combo : MonoBehaviour
         foreach (Collider2D colisionador in objetos) {
             if (colisionador.CompareTag("Jugador2")) 
             {
-                colisionador.transform.GetComponent<VidaPJ2>().TomarDaño(Dano);
+                colisionador.transform.GetComponent<VidaPJ2>().TomarDaÃ±o(Dano);
             }
         }
     }

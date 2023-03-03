@@ -5,10 +5,14 @@ using UnityEngine.UI;
 
 public class VidaPJ1 : MonoBehaviour
 {
-    [SerializeField] private float vida;
+    [SerializeField] public float vida;
+    [SerializeField] public float defe;
     private Slider slider;
     private Animator anim;
     private Movimiento movi;
+
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -24,12 +28,25 @@ public class VidaPJ1 : MonoBehaviour
     void Update()
     {
         slider.value = vida;
-
     }
-    public void TomarDaño1(float dano)
+
+  
+
+    public void TomarDaÃ±o1(float dano)
     {
-        vida -= dano;
-        Debug.Log("Me atacan ayudaaaaaaaaaaa");
+        
+        if(Input.GetKey("f"))
+        {
+            dano  = dano - defe;
+            vida -= dano;           
+        }
+        
+        if(!Input.GetKey("f"))
+        {
+           vida -= dano;
+        }
+        
+
         if (vida <= 0)
         {
             anim.SetTrigger("Muerto");

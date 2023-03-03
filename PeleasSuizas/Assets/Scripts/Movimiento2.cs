@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class Movimiento2 : MonoBehaviour
 {
-   private Animator PlayerAnimator;
+    private Animator PlayerAnimator;
     private Rigidbody2D RB2D;
     private float MovX = 0;
 
+
+    public VidaPJ2 vidaUwU;
     [SerializeField] private float Fsalto; 
     [SerializeField] private LayerMask EnSuelo;
     [SerializeField] private Transform controladorS; 
@@ -32,26 +34,27 @@ public class Movimiento2 : MonoBehaviour
     void Update()
     {
        
-        
-        if(Input.GetKey("left"))
-        {
+        if(vidaUwU.vida > 0){
+          if(Input.GetKey("left"))
+          {
             MovX = -1*velocidadDeMovimiento;            
-        }
-        if(!Input.GetKey("left"))
-        {
+          }
+          if(!Input.GetKey("left"))
+          {
             MovX = 0*velocidadDeMovimiento; 
-        }
-         if(Input.GetKey("right"))
-        {
+          }
+          if(Input.GetKey("right"))
+          {
             MovX = 1*velocidadDeMovimiento;           
-        }
-
-        if(Input.GetKeyDown(KeyCode.UpArrow))
-        {
+          }
+          if(Input.GetKeyDown(KeyCode.UpArrow))
+          {
           PlayerAnimator.SetTrigger("saltando");  
           salto = true;        
+          }
+          
         }
-       
+
         movi = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento , 0f).normalized;
         
         PlayerAnimator.SetFloat("velocidad", movi.magnitude);

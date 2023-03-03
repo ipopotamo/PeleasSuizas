@@ -8,6 +8,8 @@ public class Movimiento : MonoBehaviour
     private Rigidbody2D RB2D;
 
     private float MovX;
+
+    public VidaPJ1 vidaUwU;
     
     [SerializeField] public float velocidadDeMovimiento;
     [SerializeField] private float SuavisadoMovimiento;
@@ -34,8 +36,8 @@ public class Movimiento : MonoBehaviour
     void Update()
     {
        
-        
-        if(Input.GetKey("a"))
+        if(vidaUwU.vida > 0){
+         if(Input.GetKey("a"))
         {
             MovX = -1 * velocidadDeMovimiento;            
         }
@@ -54,6 +56,8 @@ public class Movimiento : MonoBehaviour
             salto = true;        
         }
 
+        }
+       
         movi = new Vector2(MovX * Time.deltaTime * velocidadDeMovimiento ,0f).normalized;
         
         PlayerAnimator.SetFloat("velocidad", movi.magnitude);
