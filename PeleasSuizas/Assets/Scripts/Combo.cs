@@ -23,6 +23,9 @@ public class Combo : MonoBehaviour
         audio_s = GetComponent<AudioSource>();
 
     }
+
+    
+
     private void Golpe() {
         Collider2D[] objetos = Physics2D.OverlapCircleAll(control.position, radioAtaque);
 
@@ -43,6 +46,8 @@ public class Combo : MonoBehaviour
         }
     }
 
+
+
     public void EMPEZAR_COMBO() {
         //moviminto.velocidadDeMovimiento = 0;
         atacando = false;
@@ -60,6 +65,11 @@ public class Combo : MonoBehaviour
     void Update()
     {
         Combos();
+        if(Input.GetKey("e"))
+        {
+            anim.SetTrigger("tranformer");
+        }
+
     }
 
     private void OnDrawGizmos() {

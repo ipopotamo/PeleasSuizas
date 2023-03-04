@@ -26,6 +26,9 @@ public class CRonrdas : MonoBehaviour
         CartelVictoria = GameObject.FindGameObjectWithTag("CartelVictoria");
         ronda1win  = GameObject.FindGameObjectWithTag("Ronda1PJ1");
         ronda1win2 = GameObject.FindGameObjectWithTag("Ronda1PJ2");
+        vidaUwU2   = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
+        vidaUwU1   = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
+
         contador = 5f;
         CartelVictoria.SetActive(false);
     }
