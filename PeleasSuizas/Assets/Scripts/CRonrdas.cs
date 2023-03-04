@@ -8,7 +8,9 @@ public class CRonrdas : MonoBehaviour
 {
     public GameObject ronda1win;
     public GameObject ronda1win2;
-   
+    public float contador;
+    public GameObject CartelVictoria;
+
     [SerializeField] private GameObject controlador; 
 
 
@@ -21,10 +23,11 @@ public class CRonrdas : MonoBehaviour
 
     private void Start()
     {
-       
+        CartelVictoria = GameObject.FindGameObjectWithTag("CartelVictoria");
         ronda1win  = GameObject.FindGameObjectWithTag("Ronda1PJ1");
         ronda1win2 = GameObject.FindGameObjectWithTag("Ronda1PJ2");
-
+        contador = 5f;
+        CartelVictoria.SetActive(false);
     }
     void Awake()
     {
@@ -35,7 +38,8 @@ public class CRonrdas : MonoBehaviour
 
     void Update()
     {
-        if(vidaUwU1.vida <= 0)
+
+        if (vidaUwU1.vida <= 0)
         {        
             win1P2++;     
             if(win1P2 == 1f){
@@ -46,22 +50,29 @@ public class CRonrdas : MonoBehaviour
             }    
             if(win1P2 == 3f)
             {
-                SceneManager.LoadScene("Ganador");
+                Time.timeScale = 0f;
+                CartelVictoria.SetActive(true);
+                //SceneManager.LoadScene("Ganador");
+                Debug.Log(win1P1 + "/" + win1P2);
             }  
         }
 
-
-        if(vidaUwU2.vida <= 0)
+        if (vidaUwU2.vida <= 0)
         {
             win1P1++;
+        
             if(win1P1 == 1f){
                round2();
             } 
             if(win1P1 == 2f){
                round2();
             }  
-            if(win1P1 == 3f){
-               SceneManager.LoadScene("Ganador");
+            if(win1P1 == 3f)
+            {
+                Time.timeScale = 0f;
+                //SceneManager.LoadScene("Ganador");
+                CartelVictoria.SetActive(true);
+                Debug.Log(win1P1 + "/" + win1P2);
             }   
         
         }
@@ -72,18 +83,12 @@ public class CRonrdas : MonoBehaviour
     {  
         if(vidaUwU1.vida <= 0){
          SceneManager.LoadScene("SampleScene");
-        
-         print(win1P2);
-         print("-----------");
-         print(win1P1);
+         Debug.Log(win1P1 + "/" + win1P2);
+         
         }
         if(vidaUwU2.vida <= 0){
          SceneManager.LoadScene("SampleScene");
-         
-         print(win1P1);
-         print("-----------");
-         print(win1P2);
-         
+         Debug.Log(win1P1 + "/" + win1P2);
          
         }
         

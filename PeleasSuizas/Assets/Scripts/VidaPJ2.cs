@@ -35,6 +35,10 @@ public class VidaPJ2 : MonoBehaviour
         {
             anim.SetTrigger("0");
         }
+        if (vida <= 0) 
+        {
+            anim.SetTrigger("Muerto");
+        }
     }
 
      public void def()

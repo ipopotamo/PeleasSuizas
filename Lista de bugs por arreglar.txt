@@ -1,0 +1,8 @@
+1) La animacion de salto
+Solucion: restringir el salto unos segundos (2s) para que no pulsen varias veces y se trabe
+2)Saltar mientras te cubris
+Solucion: velocidad = 0 si pulsas cubrirte, y normal si no lo pulsas (esto ultimo en el update)
+3)Dar tiempo entre salto de round en round para ver la animacion de caida 
+Solucion: (ni idea, con un contador tal vez)
+4) Mejorar la coordinacion entre las animaciones de ataque y recibir daño (o no, por las risas)
+Solucion: A practicar

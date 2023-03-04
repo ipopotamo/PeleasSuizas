@@ -33,6 +33,14 @@ public class VidaPJ1 : MonoBehaviour
         {
             anim.SetTrigger("Defensa");
         }
+        if (Input.GetKey("v") && Input.GetKey("c"))
+        {
+            anim.SetTrigger("0");
+        }
+        if (vida <= 0)
+        {
+            anim.SetTrigger("Muerto");
+        }
     }
     public void TomarDaño1(float dano)
     {
@@ -43,9 +51,10 @@ public class VidaPJ1 : MonoBehaviour
             vida -= dano;           
         }
         
-        if(!Input.GetKey("v"))
+        if(!Input.GetKey("v") && vida > 0)
         {
-           vida -= dano;
+            anim.SetTrigger("LePegan");
+            vida -= dano;
         }
         
 

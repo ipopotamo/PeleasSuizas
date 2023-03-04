@@ -461,11 +461,11 @@ GameObject:
   - component: {fileID: 266481818}
   m_Layer: 5
   m_Name: Image
-  m_TagString: Untagged
+  m_TagString: CartelVictoria
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &266481817
 RectTransform:
   m_ObjectHideFlags: 0
@@ -482,8 +482,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 18.7883, y: 126.1496}
-  m_SizeDelta: {x: 287.8823, y: 1066.2517}
+  m_AnchoredPosition: {x: 14.27, y: 180.373}
+  m_SizeDelta: {x: 396.329, y: 1075.289}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &266481818
 MonoBehaviour:
@@ -1839,7 +1839,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   control: {fileID: 917338989}
   radioAtaque: 0.5
-  Dano: 200
+  Dano: 20
   anim: {fileID: 805015228}
   combo: 0
   atacando: 0
@@ -3312,6 +3312,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ronda1win: {fileID: 0}
   ronda1win2: {fileID: 0}
+  contador: 0
+  CartelVictoria: {fileID: 0}
   controlador: {fileID: 584114200}
   vidaUwU1: {fileID: 805015236}
   vidaUwU2: {fileID: 848069829}
