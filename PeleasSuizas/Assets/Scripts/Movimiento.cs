@@ -30,6 +30,7 @@ public class Movimiento : MonoBehaviour
     {
         RB2D = GetComponent<Rigidbody2D>();
         PlayerAnimator = GetComponent<Animator>();
+        vidaUwU = GameObject.FindGameObjectWithTag("Jugador1");
     }
 
     // Update is called once per frame

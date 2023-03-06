@@ -21,7 +21,7 @@ public class Combo : MonoBehaviour
         //moviminto = GetComponent<Moviminto>();
         anim = GetComponent<Animator>();
         audio_s = GetComponent<AudioSource>();
-
+        
     }
 
     

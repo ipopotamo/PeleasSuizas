@@ -100,8 +100,7 @@ public class Movimiento2 : MonoBehaviour
         Gizmos.DrawWireCube(controladorS.position,dimensioncaja);
     }
     private void Salto()
-    {    
-        
+    {            
         salto = false;
         RB2D.AddForce(new Vector2(0f, Fsalto));      
     }
