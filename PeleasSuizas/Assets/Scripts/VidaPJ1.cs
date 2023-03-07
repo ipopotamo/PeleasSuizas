@@ -11,8 +11,6 @@ public class VidaPJ1 : MonoBehaviour
     private Animator anim;
     private Movimiento movi;
 
-
-
     // Start is called before the first frame update
     void Start()
     {

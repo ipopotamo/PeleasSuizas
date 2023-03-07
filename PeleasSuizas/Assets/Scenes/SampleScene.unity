@@ -442,7 +442,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 217710217}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.94279665, y: 0.11954992, z: 0}
+  m_LocalPosition: {x: -0.034, y: 0.01, z: 0}
   m_LocalScale: {x: 1.0251504, y: 0.8790436, z: 3}
   m_Children: []
   m_Father: {fileID: 1545864790}
@@ -1606,7 +1606,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 54449cbb98b97c842a90bc5bcf6a32e6, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -2957,7 +2957,7 @@ GameObject:
   - component: {fileID: 1545864795}
   m_Layer: 0
   m_Name: ichigo_1
-  m_TagString: Untagged
+  m_TagString: Jugador1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3063,7 +3063,7 @@ MonoBehaviour:
   vidaUwU: {fileID: 1545864792}
   velocidadDeMovimiento: 400
   SuavisadoMovimiento: 0
-  Fsalto: 20
+  Fsalto: 300
   EnSuelo:
     serializedVersion: 2
     m_Bits: 64
@@ -3100,7 +3100,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 54449cbb98b97c842a90bc5bcf6a32e6, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -3146,7 +3146,7 @@ AudioSource:
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
-  Mute: 0
+  Mute: 1
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128
@@ -3240,13 +3240,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   control: {fileID: 1152805865}
-  radioAtaque: 1
+  radioAtaque: 0.5
   Dano: 78
   anim: {fileID: 0}
   combo: 0
   atacando: 0
   audio_s: {fileID: 0}
-  sonido: []
+  sonido:
+  - {fileID: 8300000, guid: 257218746de98244098520c94a35c329, type: 3}
+  - {fileID: 8300000, guid: d3622ec3313fc014ea0d228e7e2268e0, type: 3}
+  - {fileID: 8300000, guid: 378facc5d7c4dce499fb3f6885fa6176, type: 3}
 --- !u!1 &1549648769
 GameObject:
   m_ObjectHideFlags: 0
@@ -3879,6 +3882,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vegeta
       objectReference: {fileID: 0}
+    - target: {fileID: 7383952479993217859, guid: 4b7dbd3e24011634691501ef64c93281, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 54449cbb98b97c842a90bc5bcf6a32e6, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4b7dbd3e24011634691501ef64c93281, type: 3}
 --- !u!1 &1951116453

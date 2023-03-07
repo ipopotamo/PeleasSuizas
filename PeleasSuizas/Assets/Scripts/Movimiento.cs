@@ -30,7 +30,7 @@ public class Movimiento : MonoBehaviour
     {
         RB2D = GetComponent<Rigidbody2D>();
         PlayerAnimator = GetComponent<Animator>();
-        vidaUwU = GameObject.FindGameObjectWithTag("Jugador1");
+        vidaUwU = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
     }
 
     // Update is called once per frame
@@ -51,10 +51,10 @@ public class Movimiento : MonoBehaviour
             MovX = 1 * velocidadDeMovimiento;           
         }
 
-        if(Input.GetKeyDown(KeyCode.W))
+        if(Input.GetKeyDown(KeyCode.W) && eSuelo)
         {
-            PlayerAnimator.SetTrigger("saltando"); 
-            salto = true;        
+                PlayerAnimator.SetTrigger("saltando"); 
+                salto = true;        
         }
 
         }
@@ -67,7 +67,8 @@ public class Movimiento : MonoBehaviour
     private void FixedUpdate()
     {
        eSuelo = Physics2D.OverlapBox(controladorS.position,dimensioncaja,0f,EnSuelo);
-       Mover(MovX * Time.fixedDeltaTime, salto);
+        //PlayerAnimator.SetBool("saltando", salto);
+        Mover(MovX * Time.fixedDeltaTime, salto);
        salto = false;
           
     }

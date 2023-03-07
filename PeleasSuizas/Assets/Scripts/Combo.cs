@@ -8,6 +8,7 @@ public class Combo : MonoBehaviour
     [SerializeField] private float radioAtaque;
     [SerializeField] private float Dano;
 
+    private bool transformado = false;
 
     public Animator anim;
     public int combo;
@@ -68,6 +69,15 @@ public class Combo : MonoBehaviour
         if(Input.GetKey("e"))
         {
             anim.SetTrigger("tranformer");
+            transformado = true;
+            if (transformado)
+            {
+                anim.SetTrigger("tranformer");
+                anim.SetLayerWeight(0, 0);
+                anim.SetLayerWeight(1, 1);
+            }
+            
+            //anim.SetTrigger("tranformer");
         }
 
     }

@@ -47,7 +47,7 @@ public class Movimiento2 : MonoBehaviour
           {
             MovX = 1*velocidadDeMovimiento;           
           }
-          if(Input.GetKeyDown(KeyCode.UpArrow))
+          if(Input.GetKeyDown(KeyCode.UpArrow) && eSuelo)
           {
           PlayerAnimator.SetTrigger("saltando");  
           salto = true;        
