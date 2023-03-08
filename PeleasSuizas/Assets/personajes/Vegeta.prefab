@@ -184,7 +184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   control: {fileID: 7383952479912702337}
   radioAtaque: 0.5
-  Dano: 900
+  Dano: 10
   anim: {fileID: 7383952479993217850}
   combo: 0
   atacando: 0
@@ -327,7 +327,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 54449cbb98b97c842a90bc5bcf6a32e6, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -371,4 +371,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 100
-  defe: 5
+  defe: 10

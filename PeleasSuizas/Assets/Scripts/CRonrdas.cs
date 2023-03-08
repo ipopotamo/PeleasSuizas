@@ -11,8 +11,13 @@ public class CRonrdas : MonoBehaviour
     public float contador;
     public GameObject CartelVictoria;
 
-    [SerializeField] private GameObject controlador; 
+    [SerializeField] private GameObject controlador;
 
+    private Movimiento  PJ1;
+    private Movimiento2 PJ2;
+
+    private Animator Personaje;
+    private Animator Personaje2;
 
     static private float win1P1;
     static private float win1P2;
@@ -26,10 +31,17 @@ public class CRonrdas : MonoBehaviour
         CartelVictoria = GameObject.FindGameObjectWithTag("CartelVictoria");
         ronda1win  = GameObject.FindGameObjectWithTag("Ronda1PJ1");
         ronda1win2 = GameObject.FindGameObjectWithTag("Ronda1PJ2");
+
         vidaUwU2   = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
         vidaUwU1   = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
 
-        contador = 5f;
+        Personaje = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Animator>();
+        Personaje2 = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Animator>();
+
+
+        PJ2 = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Movimiento2>();
+        PJ1 = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Movimiento>();
+
         CartelVictoria.SetActive(false);
     }
     void Awake()
@@ -53,7 +65,14 @@ public class CRonrdas : MonoBehaviour
             }    
             if(win1P2 == 3f)
             {
-                Time.timeScale = 0f;
+                Personaje2.SetTrigger("Victoria");
+                PJ2.Fsalto = 0;
+                if (Input.GetKey("p") || Input.GetKey("i") || Input.GetKeyDown(KeyCode.UpArrow)) 
+                {
+                    Debug.Log("Nada");
+                }
+                PJ2.velocidadDeMovimiento = 0;
+                //Time.timeScale = 0f;
                 CartelVictoria.SetActive(true);
                 //SceneManager.LoadScene("Ganador");
                 Debug.Log(win1P1 + "/" + win1P2);
@@ -72,7 +91,8 @@ public class CRonrdas : MonoBehaviour
             }  
             if(win1P1 == 3f)
             {
-                Time.timeScale = 0f;
+                PJ1.velocidadDeMovimiento = 0; 
+                //Time.timeScale = 0f;
                 //SceneManager.LoadScene("Ganador");
                 CartelVictoria.SetActive(true);
                 Debug.Log(win1P1 + "/" + win1P2);

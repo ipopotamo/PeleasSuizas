@@ -10,7 +10,7 @@ public class Movimiento2 : MonoBehaviour
 
 
     public VidaPJ2 vidaUwU;
-    [SerializeField] private float Fsalto; 
+    [SerializeField] public float Fsalto; 
     [SerializeField] private LayerMask EnSuelo;
     [SerializeField] private Transform controladorS; 
     [SerializeField] private Vector3 dimensioncaja;

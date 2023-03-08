@@ -54,13 +54,10 @@ public class VidaPJ1 : MonoBehaviour
             anim.SetTrigger("LePegan");
             vida -= dano;
         }
-        
-
         if (vida <= 0)
         {
             anim.SetTrigger("Muerto");
             movi.velocidadDeMovimiento = 0;
-            //Debug.Log("Gana el jugador 2");
         }
     }
 }
