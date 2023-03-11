@@ -18,7 +18,7 @@ public class Movimiento : MonoBehaviour
     private bool MirandoDerecha = true;
 
     
-    [SerializeField] private float Fsalto; 
+    [SerializeField] public float Fsalto; 
     [SerializeField] private LayerMask EnSuelo;
     [SerializeField] private Transform controladorS; 
     [SerializeField] private Vector3 dimensioncaja;

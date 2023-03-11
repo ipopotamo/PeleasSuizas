@@ -7,24 +7,26 @@ public class VidaPJ1 : MonoBehaviour
 {
     [SerializeField] public float vida;
     [SerializeField] public float defe;
-    private Slider slider;
+    public Slider slider;
     private Animator anim;
     private Movimiento movi;
 
     // Start is called before the first frame update
     void Start()
     {
-
-        vida = 100;
+        vida = 200;
+        
         movi = GetComponent<Movimiento>();
         slider = GameObject.FindGameObjectWithTag("VidaPJ1").GetComponent<Slider>();
         slider.value = vida;
         anim = GetComponent<Animator>();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+        
         slider.value = vida;
 
         if (Input.GetKey("v"))

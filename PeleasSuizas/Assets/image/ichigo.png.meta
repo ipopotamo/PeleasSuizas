@@ -3595,132 +3595,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ichigo_149
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 412
-        width: 8
-        height: 7
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f860c52a39fc05720800000000000000
-      internalID: 2832992398607124111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_150
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 407
-        width: 15
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a0cf2e0070c932e00800000000000000
-      internalID: 1018829494609443850
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_151
-      rect:
-        serializedVersion: 2
-        x: 236
-        y: 410
-        width: 14
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e82a4cd6f0c7dea0800000000000000
-      internalID: -5847993424626964249
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_152
-      rect:
-        serializedVersion: 2
-        x: 350
-        y: 404
-        width: 10
-        height: 14
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d849abc16fad1ce50800000000000000
-      internalID: 6827979260649182349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_153
-      rect:
-        serializedVersion: 2
-        x: 363
-        y: 412
-        width: 5
-        height: 7
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ca40e66130048920800000000000000
-      internalID: 2991516264660224709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_154
-      rect:
-        serializedVersion: 2
-        x: 370
-        y: 414
-        width: 6
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b1ea872ea72cc900800000000000000
-      internalID: 705982870531531189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ichigo_155
       rect:
         serializedVersion: 2
@@ -3768,8 +3642,8 @@ TextureImporter:
         serializedVersion: 2
         x: 55
         y: 337
-        width: 116
-        height: 67
+        width: 117
+        height: 82
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3790,7 +3664,7 @@ TextureImporter:
         x: 182
         y: 337
         width: 115
-        height: 74
+        height: 83
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3810,8 +3684,8 @@ TextureImporter:
         serializedVersion: 2
         x: 309
         y: 337
-        width: 116
-        height: 75
+        width: 115
+        height: 83
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3863,69 +3737,6 @@ TextureImporter:
       bones: []
       spriteID: 10082b164b10d8110800000000000000
       internalID: 1264668944605806593
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_162
-      rect:
-        serializedVersion: 2
-        x: 402
-        y: 258
-        width: 24
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: caa128746c4e70880800000000000000
-      internalID: -8644689419460011348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_163
-      rect:
-        serializedVersion: 2
-        x: 426
-        y: 272
-        width: 4
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af0e70755906b19e0800000000000000
-      internalID: -1649618643974627078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_164
-      rect:
-        serializedVersion: 2
-        x: 437
-        y: 272
-        width: 20
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9594a723d4721caf0800000000000000
-      internalID: -377977681209570983
       vertices: []
       indices: 
       edges: []
@@ -4041,8 +3852,8 @@ TextureImporter:
         serializedVersion: 2
         x: 396
         y: 217
-        width: 78
-        height: 51
+        width: 79
+        height: 64
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4052,48 +3863,6 @@ TextureImporter:
       bones: []
       spriteID: 5d1a2efef63ab0070800000000000000
       internalID: 8073726458153050581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_171
-      rect:
-        serializedVersion: 2
-        x: 447
-        y: 266
-        width: 4
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9ef4d5ee611bb200800000000000000
-      internalID: 196770176720764570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_172
-      rect:
-        serializedVersion: 2
-        x: 455
-        y: 258
-        width: 21
-        height: 12
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ca93c7adffafc5c0800000000000000
-      internalID: -4192939224082441530
       vertices: []
       indices: 
       edges: []
@@ -4136,69 +3905,6 @@ TextureImporter:
       bones: []
       spriteID: ce7baf5ab6636c8a0800000000000000
       internalID: -6285276393974876180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_175
-      rect:
-        serializedVersion: 2
-        x: 857
-        y: 246
-        width: 24
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a755f11c017916850800000000000000
-      internalID: 6368537446293919098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_176
-      rect:
-        serializedVersion: 2
-        x: 881
-        y: 260
-        width: 4
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04b20bd695202e430800000000000000
-      internalID: 3810610817824467776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_177
-      rect:
-        serializedVersion: 2
-        x: 907
-        y: 257
-        width: 21
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb9d00ff244ed46c0800000000000000
-      internalID: -4157415904595879490
       vertices: []
       indices: 
       edges: []
@@ -4314,8 +4020,8 @@ TextureImporter:
         serializedVersion: 2
         x: 851
         y: 208
-        width: 71
-        height: 52
+        width: 88
+        height: 59
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4325,27 +4031,6 @@ TextureImporter:
       bones: []
       spriteID: 2b8844c104302b1e0800000000000000
       internalID: -2183679295434225486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_184
-      rect:
-        serializedVersion: 2
-        x: 909
-        y: 236
-        width: 21
-        height: 12
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ba3dca8e82cac7b0800000000000000
-      internalID: -5203132502003336521
       vertices: []
       indices: 
       edges: []
@@ -4367,69 +4052,6 @@ TextureImporter:
       bones: []
       spriteID: 256fe32f70ab69ca0800000000000000
       internalID: -6010412109387598254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_186
-      rect:
-        serializedVersion: 2
-        x: 913
-        y: 229
-        width: 7
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 242493a26fb07db00800000000000000
-      internalID: 853163806308254274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_187
-      rect:
-        serializedVersion: 2
-        x: 915
-        y: 212
-        width: 4
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a275f236280c00d90800000000000000
-      internalID: -7133490143512537302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ichigo_188
-      rect:
-        serializedVersion: 2
-        x: 915
-        y: 213
-        width: 24
-        height: 15
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 039a0f3d42213c2c0800000000000000
-      internalID: -4412663260509066960
       vertices: []
       indices: 
       edges: []

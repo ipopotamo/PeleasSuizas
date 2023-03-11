@@ -91,6 +91,12 @@ public class CRonrdas : MonoBehaviour
             }  
             if(win1P1 == 3f)
             {
+                Personaje.SetTrigger("Victoria");
+                PJ1.Fsalto = 0;
+                if (Input.GetKey("c") || Input.GetKey("v") || Input.GetKey("w")) 
+                {
+                    Debug.Log("Nada");
+                }
                 PJ1.velocidadDeMovimiento = 0; 
                 //Time.timeScale = 0f;
                 //SceneManager.LoadScene("Ganador");

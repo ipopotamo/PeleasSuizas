@@ -8,7 +8,11 @@ public class Combo : MonoBehaviour
     [SerializeField] private float radioAtaque;
     [SerializeField] private float Dano;
 
+    private bool puedeTransformarse = false;
     private bool transformado = false;
+
+    private VidaPJ1 Mivida;
+    [SerializeField] private float LaPutaVidaQueMeTieneQueQuedar;
 
     public Animator anim;
     public int combo;
@@ -19,10 +23,10 @@ public class Combo : MonoBehaviour
     
     void Start()
     {
+        Mivida = GetComponent<VidaPJ1>();
         //moviminto = GetComponent<Moviminto>();
         anim = GetComponent<Animator>();
         audio_s = GetComponent<AudioSource>();
-        
     }
 
     
@@ -42,8 +46,8 @@ public class Combo : MonoBehaviour
             Golpe();
             atacando = true;
             anim.SetTrigger("" + combo);
-            audio_s.clip = sonido[combo];
-            audio_s.Play();
+            //audio_s.clip = sonido[combo];
+            //audio_s.Play();
         }
     }
 
@@ -65,10 +69,13 @@ public class Combo : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         Combos();
-        if(Input.GetKey("e"))
+        
+        
+        if(Input.GetKey("e") && Mivida.vida <= LaPutaVidaQueMeTieneQueQuedar)
         {
-            anim.SetTrigger("tranformer");
+            anim.SetBool("tranformer", true);
             transformado = true;
             if (transformado)
             {
