@@ -1,0 +1,3135 @@
+fileFormatVersion: 2
+guid: ba16e2ee495dfd844a1f712b305806b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5761037175873287231
+    second: goku ssBlueR_33
+  - first:
+      213: 3826530342518257091
+    second: goku ssBlueR_34
+  - first:
+      213: -3344677983136665494
+    second: goku ssBlueR_35
+  - first:
+      213: -8619382903550709533
+    second: goku ssBlueR_36
+  - first:
+      213: -896622473704500230
+    second: goku ssBlueR_37
+  - first:
+      213: 787378527220049044
+    second: goku ssBlueR_38
+  - first:
+      213: 5990137645691595431
+    second: goku ssBlueR_39
+  - first:
+      213: 5041858686911718362
+    second: goku ssBlueR_40
+  - first:
+      213: 3680156122851108701
+    second: goku ssBlueR_41
+  - first:
+      213: 4018476029089474401
+    second: goku ssBlueR_42
+  - first:
+      213: 2926844853006205884
+    second: goku ssBlueR_43
+  - first:
+      213: -6836638099052425182
+    second: goku ssBlueR_44
+  - first:
+      213: 7255116581787043646
+    second: goku ssBlueR_48
+  - first:
+      213: -2669055514143568557
+    second: goku ssBlueR_49
+  - first:
+      213: -8206847538898767684
+    second: goku ssBlueR_50
+  - first:
+      213: -4972062768159435737
+    second: goku ssBlueR_51
+  - first:
+      213: 4108641998245081691
+    second: goku ssBlueR_52
+  - first:
+      213: 8386936019324117808
+    second: goku ssBlueR_53
+  - first:
+      213: -3851852088492220883
+    second: goku ssBlueR_54
+  - first:
+      213: 8192905107089816251
+    second: goku ssBlueR_58
+  - first:
+      213: -6796083546100720439
+    second: goku ssBlueR_59
+  - first:
+      213: -1246770635256087828
+    second: goku ssBlueR_60
+  - first:
+      213: -6885549427137624547
+    second: goku ssBlueR_61
+  - first:
+      213: 5864832949339334640
+    second: goku ssBlueR_62
+  - first:
+      213: -5490261565448228681
+    second: goku ssBlueR_63
+  - first:
+      213: 7502129404033704845
+    second: goku ssBlueR_64
+  - first:
+      213: -7173837404436373516
+    second: goku ssBlueR_65
+  - first:
+      213: -7635582655596636910
+    second: goku ssBlueR_66
+  - first:
+      213: -5442386549411473976
+    second: goku ssBlueR_67
+  - first:
+      213: -1853412519777821223
+    second: goku ssBlueR_68
+  - first:
+      213: 1451092158431769806
+    second: goku ssBlueR_69
+  - first:
+      213: -3407866306255580690
+    second: goku ssBlueR_70
+  - first:
+      213: -2745799988068060401
+    second: goku ssBlueR_71
+  - first:
+      213: -4017599011025318846
+    second: goku ssBlueR_72
+  - first:
+      213: 672041233387199924
+    second: goku ssBlueR_73
+  - first:
+      213: 3393921460807297958
+    second: goku ssBlueR_74
+  - first:
+      213: -4520667865666065329
+    second: goku ssBlueR_75
+  - first:
+      213: 2545862334502838959
+    second: goku ssBlueR_76
+  - first:
+      213: 5174337983602602409
+    second: goku ssBlueR_77
+  - first:
+      213: -8734305355531866086
+    second: goku ssBlueR_78
+  - first:
+      213: 8171243185556830725
+    second: goku ssBlueR_79
+  - first:
+      213: -7623472076503840607
+    second: goku ssBlueR_80
+  - first:
+      213: -4717325072606114723
+    second: goku ssBlueR_81
+  - first:
+      213: 6327834412154050223
+    second: goku ssBlueR_82
+  - first:
+      213: -3854132488008013512
+    second: goku ssBlueR_83
+  - first:
+      213: -7637767050536267301
+    second: goku ssBlueR_84
+  - first:
+      213: -2838592320824655657
+    second: goku ssBlueR_85
+  - first:
+      213: 4701656143439527494
+    second: goku ssBlueR_86
+  - first:
+      213: 3031053196644082811
+    second: goku ssBlueR_87
+  - first:
+      213: -44786925196535898
+    second: goku ssBlueR_88
+  - first:
+      213: -981744448572179850
+    second: goku ssBlueR_89
+  - first:
+      213: -9125046437256236042
+    second: goku ssBlueR_90
+  - first:
+      213: -5878544408911430028
+    second: goku ssBlueR_91
+  - first:
+      213: -2968788447585508977
+    second: goku ssBlueR_92
+  - first:
+      213: -4453623806732556094
+    second: goku ssBlueR_93
+  - first:
+      213: -4447673897100365891
+    second: goku ssBlueR_94
+  - first:
+      213: -3509559568785095824
+    second: goku ssBlueR_95
+  - first:
+      213: -4903524129684254508
+    second: goku ssBlueR_96
+  - first:
+      213: 9003157172726861233
+    second: goku ssBlueR_97
+  - first:
+      213: 241891715689179282
+    second: goku ssBlueR_98
+  - first:
+      213: -2760649806409298743
+    second: goku ssBlueR_99
+  - first:
+      213: -6336964589546956056
+    second: goku ssBlueR_100
+  - first:
+      213: -1445237039653722458
+    second: goku ssBlueR_101
+  - first:
+      213: 6829199024932013511
+    second: goku ssBlueR_102
+  - first:
+      213: -4712257499411461315
+    second: goku ssBlueR_103
+  - first:
+      213: -7316402656153000475
+    second: goku ssBlueR_104
+  - first:
+      213: 2717839224404073213
+    second: goku ssBlueR_105
+  - first:
+      213: 8238889566621894752
+    second: goku ssBlueR_106
+  - first:
+      213: 6613818137423024025
+    second: goku ssBlueR_107
+  - first:
+      213: -7003863252656288270
+    second: goku ssBlueR_108
+  - first:
+      213: 2281886374995448683
+    second: goku ssBlueR_109
+  - first:
+      213: 2090343179372887230
+    second: goku ssBlueR_110
+  - first:
+      213: -1867545067533591159
+    second: goku ssBlueR_111
+  - first:
+      213: -5799005303450830789
+    second: goku ssBlueR_112
+  - first:
+      213: 2301596915094000051
+    second: goku ssBlueR_113
+  - first:
+      213: -777313367983419421
+    second: goku ssBlueR_114
+  - first:
+      213: 8908550494392690309
+    second: goku ssBlueR_115
+  - first:
+      213: -7363861783149211497
+    second: goku ssBlueR_116
+  - first:
+      213: -1100293711340833457
+    second: goku ssBlueR_117
+  - first:
+      213: 8387046048979091093
+    second: goku ssBlueR_118
+  - first:
+      213: -4884171354284815802
+    second: goku ssBlueR_119
+  - first:
+      213: -3239107992257274223
+    second: goku ssBlueR_120
+  - first:
+      213: 5675330142357732940
+    second: goku ssBlueR_121
+  - first:
+      213: 2554572384898609231
+    second: goku ssBlueR_122
+  - first:
+      213: 7203419699483804715
+    second: goku ssBlueR_123
+  - first:
+      213: 5486010055953664369
+    second: goku ssBlueR_124
+  - first:
+      213: -1100472141784297244
+    second: goku ssBlueR_125
+  - first:
+      213: 3846996380465754244
+    second: goku ssBlueR_126
+  - first:
+      213: 1589324666344676287
+    second: goku ssBlueR_127
+  - first:
+      213: 2309429527998526266
+    second: goku ssBlueR_128
+  - first:
+      213: -7648320452632928727
+    second: goku ssBlueR_129
+  - first:
+      213: 5167436026253475841
+    second: goku ssBlueR_130
+  - first:
+      213: -7178010432126361614
+    second: goku ssBlueR_131
+  - first:
+      213: -7821885008656456994
+    second: goku ssBlueR_132
+  - first:
+      213: 5374926110198499403
+    second: goku ssBlueR_133
+  - first:
+      213: -4201393546480160818
+    second: goku ssBlueR_134
+  - first:
+      213: -8589134694033245286
+    second: goku ssBlueR_135
+  - first:
+      213: -4163466698315413828
+    second: goku ssBlueR_136
+  - first:
+      213: 1615605449504584262
+    second: goku ssBlueR_137
+  - first:
+      213: -178392608178400727
+    second: goku ssBlueR_138
+  - first:
+      213: 7823207669511128783
+    second: goku ssBlueR_139
+  - first:
+      213: -3759563151122963530
+    second: goku ssBlueR_140
+  - first:
+      213: -2197038632173176973
+    second: goku ssBlueR_141
+  - first:
+      213: -6249583146648480798
+    second: goku ssBlueR_142
+  - first:
+      213: -317484184997368957
+    second: goku ssBlueR_143
+  - first:
+      213: 3069670813367465786
+    second: goku ssBlueR_144
+  - first:
+      213: 9127179159166124642
+    second: goku ssBlueR_145
+  - first:
+      213: 4812419649483208028
+    second: goku ssBlueR_146
+  - first:
+      213: 8215851092696328470
+    second: goku ssBlueR_147
+  - first:
+      213: -5723789759889853838
+    second: goku ssBlueR_148
+  - first:
+      213: -589711035311763122
+    second: goku ssBlueR_149
+  - first:
+      213: 9119016625244351975
+    second: goku ssBlueR_150
+  - first:
+      213: -3209324103966612076
+    second: goku ssBlueR_151
+  - first:
+      213: 6702101687135844256
+    second: goku ssBlueR_152
+  - first:
+      213: -723358993232596504
+    second: goku ssBlueR_153
+  - first:
+      213: 8412900065567361941
+    second: goku ssBlueR_154
+  - first:
+      213: 4758374636495301245
+    second: goku ssBlueR_155
+  - first:
+      213: 9083833430120968343
+    second: goku ssBlueR_156
+  - first:
+      213: 8191423377975430708
+    second: goku ssBlueR_157
+  - first:
+      213: 301189079921150277
+    second: goku ssBlueR_158
+  - first:
+      213: -2991729523053829723
+    second: goku ssBlueR_159
+  - first:
+      213: 268934314214026687
+    second: goku ssBlueR_160
+  - first:
+      213: 9049528305749104635
+    second: goku ssBlueR_161
+  - first:
+      213: 5771894845916172537
+    second: goku ssBlueR_162
+  - first:
+      213: 6867304721695299404
+    second: goku ssBlueR_163
+  - first:
+      213: -1951110927712191080
+    second: goku ssBlueR_164
+  - first:
+      213: -3556419948189207767
+    second: goku ssBlueR_165
+  - first:
+      213: -667138936264529679
+    second: goku ssBlueR_166
+  - first:
+      213: 2979730830665609161
+    second: goku ssBlueR_167
+  - first:
+      213: -7470399400953242071
+    second: goku ssBlueR_168
+  - first:
+      213: -2170774708858628095
+    second: goku ssBlueR_169
+  - first:
+      213: 9145620813965522657
+    second: goku ssBlueR_170
+  - first:
+      213: -2866570144903386999
+    second: goku ssBlueR_171
+  - first:
+      213: -6394774889630285084
+    second: goku ssBlueR_172
+  - first:
+      213: -6566676220114296550
+    second: goku ssBlueR_173
+  - first:
+      213: 2413005159910275589
+    second: goku ssBlueR_174
+  - first:
+      213: 862355828987613081
+    second: goku ssBlueR_175
+  - first:
+      213: -7492160358351753282
+    second: goku ssBlueR_176
+  - first:
+      213: 2111982909075065496
+    second: goku ssBlueR_177
+  - first:
+      213: -6295136913524111443
+    second: goku ssBlueR_178
+  - first:
+      213: -8379852318678096621
+    second: goku ssBlueR_179
+  - first:
+      213: -7203124443176236993
+    second: goku ssBlueR_180
+  - first:
+      213: -2282222375316122552
+    second: goku ssBlueR_181
+  - first:
+      213: 4383724048667898993
+    second: goku ssBlueR_182
+  - first:
+      213: 2783472445139678368
+    second: goku ssBlueR_183
+  - first:
+      213: 2564145704752713598
+    second: goku ssBlueR_184
+  - first:
+      213: -5440677548493061953
+    second: goku ssBlueR_185
+  - first:
+      213: -5161202777359754047
+    second: goku ssBlueR_186
+  - first:
+      213: -3926540914701288923
+    second: goku ssBlueR_187
+  - first:
+      213: -3237193513837855505
+    second: goku ssBlueR_188
+  - first:
+      213: 3657433925119522163
+    second: goku ssBlueR_189
+  - first:
+      213: 8144767061661947252
+    second: goku ssBlueR_190
+  - first:
+      213: -7101983942649866649
+    second: goku ssBlueR_191
+  - first:
+      213: -7566199524291464364
+    second: goku ssBlueR_192
+  - first:
+      213: 5303630852377114074
+    second: goku ssBlueR_193
+  - first:
+      213: -5433050180347394322
+    second: goku ssBlueR_194
+  - first:
+      213: -8095797610466155619
+    second: goku ssBlueR_195
+  - first:
+      213: 8097764680901180436
+    second: goku ssBlueR_196
+  - first:
+      213: 216036388931058182
+    second: goku ssBlueR_197
+  - first:
+      213: 7446453774677597059
+    second: goku ssBlueR_198
+  - first:
+      213: 4696015923965687025
+    second: goku ssBlueR_199
+  - first:
+      213: 1937850824612260431
+    second: goku ssBlueR_200
+  - first:
+      213: 1245058652019553671
+    second: goku ssBlueR_201
+  - first:
+      213: -7966303932063313258
+    second: goku ssBlueR_202
+  - first:
+      213: 2624698468582469288
+    second: goku ssBlueR_203
+  - first:
+      213: -4985314575726651757
+    second: goku ssBlueR_204
+  - first:
+      213: 8780881460053880379
+    second: goku ssBlueR_205
+  - first:
+      213: 5115420595916164669
+    second: goku ssBlueR_206
+  - first:
+      213: 3623074236915202980
+    second: goku ssBlueR_207
+  - first:
+      213: 3235036262894668113
+    second: goku ssBlueR_208
+  - first:
+      213: 1411995581453458219
+    second: goku ssBlueR_209
+  - first:
+      213: -1827571926118454327
+    second: goku ssBlueR_210
+  - first:
+      213: 976561229292224764
+    second: goku ssBlueR_211
+  - first:
+      213: 805947552348962246
+    second: goku ssBlueR_212
+  - first:
+      213: 7681087077407743244
+    second: goku ssBlueR_213
+  - first:
+      213: -7227169521175684265
+    second: goku ssBlueR_214
+  - first:
+      213: 8108403468460271013
+    second: goku ssBlueR_215
+  - first:
+      213: 8856644763041930308
+    second: goku ssBlueR_216
+  - first:
+      213: -8080048735087427857
+    second: goku ssBlueR_217
+  - first:
+      213: -2235933459523760900
+    second: goku ssBlueR_218
+  - first:
+      213: -6550471707752873475
+    second: goku ssBlueR_219
+  - first:
+      213: -8134691542218968001
+    second: goku ssBlueR_220
+  - first:
+      213: 47021365372987549
+    second: goku ssBlueR_221
+  - first:
+      213: -5662058141180336715
+    second: goku ssBlueR_222
+  - first:
+      213: 6349085155888276838
+    second: goku ssBlueR_223
+  - first:
+      213: 6267545237841756176
+    second: goku ssBlueR_224
+  - first:
+      213: -6863141059492199127
+    second: goku ssBlueR_225
+  - first:
+      213: -6099891765144193627
+    second: goku ssBlueR_226
+  - first:
+      213: -1762032052943553298
+    second: goku ssBlueR_227
+  - first:
+      213: -1778332213700987019
+    second: goku ssBlueR_228
+  - first:
+      213: -3545338358772383739
+    second: goku ssBlueR_229
+  - first:
+      213: -4673978378736186172
+    second: goku ssBlueR_230
+  - first:
+      213: -9150916055677726161
+    second: goku ssBlueR_231
+  - first:
+      213: -867801085618132283
+    second: goku ssBlueR_232
+  - first:
+      213: -6808517724864491869
+    second: goku ssBlueR_233
+  - first:
+      213: -2395066285520235674
+    second: goku ssBlueR_234
+  - first:
+      213: -3751798579212714694
+    second: goku ssBlueR_235
+  - first:
+      213: -2480455176986726879
+    second: goku ssBlueR_236
+  - first:
+      213: -639876567005421224
+    second: goku ssBlueR_237
+  - first:
+      213: -6318213068165767423
+    second: goku ssBlueR_238
+  - first:
+      213: 8873696771428588529
+    second: goku ssBlueR_239
+  - first:
+      213: -5627536198640236185
+    second: goku ssBlueR_240
+  - first:
+      213: -1943175347075684578
+    second: goku ssBlueR_241
+  - first:
+      213: -3534576241773570527
+    second: goku ssBlueR_242
+  - first:
+      213: -6713380099663852230
+    second: goku ssBlueR_243
+  - first:
+      213: 8962143223326923271
+    second: goku ssBlueR_244
+  - first:
+      213: -7142282250481611072
+    second: goku ssBlueR_245
+  - first:
+      213: -1621923846304740195
+    second: goku ssBlueR_246
+  - first:
+      213: -5222814904251832650
+    second: goku ssBlueR_247
+  - first:
+      213: 600020927111441358
+    second: goku ssBlueR_248
+  - first:
+      213: 2155245457286985934
+    second: goku ssBlueR_249
+  - first:
+      213: 6734528291023934300
+    second: goku ssBlueR_250
+  - first:
+      213: -8685926687357538142
+    second: goku ssBlueR_251
+  - first:
+      213: -8774203294385483437
+    second: goku ssBlueR_252
+  - first:
+      213: 4301353876421370879
+    second: goku ssBlueR_253
+  - first:
+      213: -6595532791965834627
+    second: goku ssBlueR_254
+  - first:
+      213: -1493437533654102967
+    second: goku ssBlueR_255
+  - first:
+      213: 960922794504343677
+    second: goku ssBlueR_256
+  - first:
+      213: 1431621880209880559
+    second: goku ssBlueR_257
+  - first:
+      213: 7908668917629950880
+    second: goku ssBlueR_258
+  - first:
+      213: 6731400541023266468
+    second: goku ssBlueR_259
+  - first:
+      213: 6102411051348638878
+    second: goku ssBlueR_260
+  - first:
+      213: -3566405093926892061
+    second: goku ssBlueR_261
+  - first:
+      213: 7727002209388314277
+    second: goku ssBlueR_262
+  - first:
+      213: -7340697188941538684
+    second: goku ssBlueR_263
+  - first:
+      213: 592595714089601851
+    second: goku ssBlueR_264
+  - first:
+      213: -6143008434897476143
+    second: goku ssBlueR_265
+  - first:
+      213: 1437889640100486473
+    second: goku ssBlueR_266
+  - first:
+      213: 3100514085258794882
+    second: goku ssBlueR_267
+  - first:
+      213: -8613911176170402157
+    second: goku ssBlueR_268
+  - first:
+      213: -6549613726085717212
+    second: goku ssBlueR_269
+  - first:
+      213: -8315349192514526780
+    second: goku ssBlueR_270
+  - first:
+      213: 1640144098623029333
+    second: goku ssBlueR_271
+  - first:
+      213: 8307898660999696631
+    second: goku ssBlueR_272
+  - first:
+      213: -963511620968400741
+    second: goku ssBlueR_273
+  - first:
+      213: -6224222704647295498
+    second: goku ssBlueR_274
+  - first:
+      213: -6032045379977479732
+    second: goku ssBlueR_275
+  - first:
+      213: 2003284542229686715
+    second: goku ssBlueR_276
+  - first:
+      213: 5035489263396938166
+    second: goku ssBlueR_277
+  - first:
+      213: -1221992028601161637
+    second: goku ssBlueR_278
+  - first:
+      213: 143366871933538005
+    second: goku ssBlueR_279
+  - first:
+      213: -9155305457521277295
+    second: goku ssBlueR_280
+  - first:
+      213: 2376699663279500014
+    second: goku ssBlueR_281
+  - first:
+      213: -4543217690750637371
+    second: goku ssBlueR_282
+  - first:
+      213: 595138244374112541
+    second: goku ssBlueR_283
+  - first:
+      213: -15954108375346191
+    second: goku ssBlueR_284
+  - first:
+      213: 8349854333919432413
+    second: goku ssBlueR_0
+  - first:
+      213: 6188487393030725352
+    second: goku ssBlueR_1
+  - first:
+      213: 4206024069941812661
+    second: goku ssBlueR_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku ssBlueR_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1180
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f343fb5c9c053ff40800000000000000
+      internalID: 5761037175873287231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1181
+        width: 72
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5fd0c92119a1530800000000000000
+      internalID: 3826530342518257091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1181
+        width: 71
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5337933, y: 0.0000016061883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b11f58115591d0800000000000000
+      internalID: -3344677983136665494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1181
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0f8caaaecc16880800000000000000
+      internalID: -8619382903550709533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1181
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af316355c9e8e83f0800000000000000
+      internalID: -896622473704500230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_38
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1181
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a8ba49945dea00800000000000000
+      internalID: 787378527220049044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1181
+        width: 72
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa642f937e312350800000000000000
+      internalID: 5990137645691595431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1181
+        width: 64
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3271943c748f540800000000000000
+      internalID: 5041858686911718362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_41
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1181
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57e484de7a821330800000000000000
+      internalID: 3680156122851108701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_42
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1181
+        width: 88
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ec4c58ae74c730800000000000000
+      internalID: 4018476029089474401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_44
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1181
+        width: 83
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2201418fed16f11a0800000000000000
+      internalID: -6836638099052425182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1105
+        width: 27
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e378675871a5fa460800000000000000
+      internalID: 7255116581787043646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_49
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1105
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dcca1b62c95fad0800000000000000
+      internalID: -2669055514143568557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_50
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1105
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0762625ab6b1e80800000000000000
+      internalID: -8206847538898767684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1105
+        width: 30
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72459e6614faffab0800000000000000
+      internalID: -4972062768159435737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_52
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1105
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5236aef024d40930800000000000000
+      internalID: 4108641998245081691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_53
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1105
+        width: 26
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0332eb9afd1646470800000000000000
+      internalID: 8386936019324117808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1105
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e131afee87b8ac0800000000000000
+      internalID: -3851852088492220883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1037
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba729a79cb03b170800000000000000
+      internalID: 8192905107089816251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_59
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1037
+        width: 59
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc1ac2a5067fa1a0800000000000000
+      internalID: -6796083546100720439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1037
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea3c2186b492bee0800000000000000
+      internalID: -1246770635256087828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1036
+        width: 68
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6577193, y: -0.004031533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d164118f64d9170a0800000000000000
+      internalID: -6885549427137624547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_62
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1044
+        width: 51
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7a0648e72146150800000000000000
+      internalID: 5864832949339334640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_63
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1047
+        width: 51
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b07a73e13caec3b0800000000000000
+      internalID: -5490261565448228681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_64
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1037
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83217ae1faec1860800000000000000
+      internalID: 7502129404033704845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_65
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1037
+        width: 34
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffd828a3e8617c90800000000000000
+      internalID: -7173837404436373516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_66
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1037
+        width: 28
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2155700a706f80690800000000000000
+      internalID: -7635582655596636910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_67
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1037
+        width: 28
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c517ffa442c874b0800000000000000
+      internalID: -5442386549411473976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_68
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1037
+        width: 27
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd9160122b5746e0800000000000000
+      internalID: -1853412519777821223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 962
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee11d9d66a3d4b0d0800000000000000
+      internalID: -3407866306255580690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_71
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 972
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f037eee6575f4e9d0800000000000000
+      internalID: -2745799988068060401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_72
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 964
+        width: 29
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c00e15cfe9e38c0800000000000000
+      internalID: -4017599011025318846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_73
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 962
+        width: 26
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd957ee0f1935900800000000000000
+      internalID: 672041233387199924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_74
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 962
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab6efa3691a91f20800000000000000
+      internalID: 3393921460807297958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_75
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 962
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c6377178c5341c0800000000000000
+      internalID: -4520667865666065329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 962
+        width: 31
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a61ffd48b45320800000000000000
+      internalID: 2545862334502838959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 962
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1b1743bf0fec740800000000000000
+      internalID: 5174337983602602409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_81
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 887
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cc44507d1b88eb0800000000000000
+      internalID: -4717325072606114723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 887
+        width: 46
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa65fed1fdbf0d750800000000000000
+      internalID: 6327834412154050223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 887
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8396df61cee538ac0800000000000000
+      internalID: -3854132488008013512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_84
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 887
+        width: 43
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd15a9b8553310690800000000000000
+      internalID: -7637767050536267301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_85
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 887
+        width: 34
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0481fd25b4b98d0800000000000000
+      internalID: -2838592320824655657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_86
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 887
+        width: 45
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5917535, y: -0.006478104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64efebd1a53af3140800000000000000
+      internalID: 4701656143439527494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_87
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 887
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b746849b2d6701a20800000000000000
+      internalID: 3031053196644082811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_88
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 887
+        width: 27
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a714116782e06ff0800000000000000
+      internalID: -44786925196535898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_89
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 891
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab4a220a42062f0800000000000000
+      internalID: -981744448572179850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_90
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 894
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3f564ac925d5180800000000000000
+      internalID: -9125046437256236042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_91
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 894
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eb97681073b6ea0800000000000000
+      internalID: -5878544408911430028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_92
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 887
+        width: 33
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81e160e2aebcc6d0800000000000000
+      internalID: -2968788447585508977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_103
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 807
+        width: 35
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bc86955c2ba9eb0800000000000000
+      internalID: -4712257499411461315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_104
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 807
+        width: 32
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a6465c8ae67a90800000000000000
+      internalID: -7316402656153000475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_105
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 812
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa5a37ff54b7b520800000000000000
+      internalID: 2717839224404073213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_106
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 812
+        width: 50
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688b2ac86a665270800000000000000
+      internalID: 8238889566621894752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_107
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 807
+        width: 34
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f8222fd8009cb50800000000000000
+      internalID: 6613818137423024025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_108
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 806
+        width: 31
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8202da774dce90800000000000000
+      internalID: -7003863252656288270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_109
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 812
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63586f6193eaaf10800000000000000
+      internalID: 2281886374995448683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_110
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 812
+        width: 46
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc7e29eb04620d10800000000000000
+      internalID: 2090343179372887230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_111
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 810
+        width: 30
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d90afd7a52516e0800000000000000
+      internalID: -1867545067533591159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_119
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 724
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a07bdd700f73cb0800000000000000
+      internalID: -4884171354284815802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_120
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 724
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e506c41706c03d0800000000000000
+      internalID: -3239107992257274223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_121
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 724
+        width: 26
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ebc4ef1b2d2ce40800000000000000
+      internalID: 5675330142357732940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_122
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 724
+        width: 33
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4077e2ac0aa37320800000000000000
+      internalID: 2554572384898609231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_123
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 724
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2488c32d00b7f360800000000000000
+      internalID: 7203419699483804715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_124
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 724
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c65b6419322c40800000000000000
+      internalID: 5486010055953664369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_147
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 630
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6196ba31a01940270800000000000000
+      internalID: 8215851092696328470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_148
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 630
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2723fb01a830190b0800000000000000
+      internalID: -5723789759889853838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_149
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 630
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e415d1410fce0d7f0800000000000000
+      internalID: -589711035311763122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_150
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 630
+        width: 27
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed22985e414d8e70800000000000000
+      internalID: 9119016625244351975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_151
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 630
+        width: 35
+        height: 55
+      alignment: 9
+      pivot: {x: 0.29934168, y: 0.0038130328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495a8fd2bb03673d0800000000000000
+      internalID: -3209324103966612076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 630
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a73746a9f5a20d50800000000000000
+      internalID: 6702101687135844256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_153
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 630
+        width: 43
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1794304dc16f5f0800000000000000
+      internalID: -723358993232596504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_154
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 630
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc0034900a0c470800000000000000
+      internalID: 8412900065567361941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_162
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 534
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ddb318c3e91050800000000000000
+      internalID: 5771894845916172537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_163
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 534
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47d20582419d4f50800000000000000
+      internalID: 6867304721695299404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_164
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 534
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89df45cd2f24ce4e0800000000000000
+      internalID: -1951110927712191080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_165
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 534
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923b11c56ee05aec0800000000000000
+      internalID: -3556419948189207767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_166
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 534
+        width: 43
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8ee101ca8ddb6f0800000000000000
+      internalID: -667138936264529679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_167
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 536
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf6a1837612a5920800000000000000
+      internalID: 2979730830665609161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_168
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 530
+        width: 56
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e14ef135fc35890800000000000000
+      internalID: -7470399400953242071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_192
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 438
+        width: 32
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453b0eebe957ff690800000000000000
+      internalID: -7566199524291464364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_193
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 438
+        width: 54
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad57dbf09284a9940800000000000000
+      internalID: 5303630852377114074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_194
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 438
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6858185ade994b0800000000000000
+      internalID: -5433050180347394322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_195
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 438
+        width: 82
+        height: 51
+      alignment: 9
+      pivot: {x: 0.182561, y: 0.0049079447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9365b677f2f5af80800000000000000
+      internalID: -8095797610466155619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_196
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 438
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cb1dfc21a016070800000000000000
+      internalID: 8097764680901180436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_197
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 438
+        width: 80
+        height: 51
+      alignment: 9
+      pivot: {x: 0.19963837, y: 0.008413278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a3bcc73f38ff200800000000000000
+      internalID: 216036388931058182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_200
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 344
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a26bcce01a4ea10800000000000000
+      internalID: 1937850824612260431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_201
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 344
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f6265f36574110800000000000000
+      internalID: 1245058652019553671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_202
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 344
+        width: 92
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6929194f7c0027190800000000000000
+      internalID: -7966303932063313258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_203
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 344
+        width: 102
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeae56d95dcc6420800000000000000
+      internalID: 2624698468582469288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_209
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 271
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b54f0108a689310800000000000000
+      internalID: 1411995581453458219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_210
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 271
+        width: 33
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbab3e140923a6e0800000000000000
+      internalID: -1827571926118454327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_211
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 271
+        width: 33
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0c16593417d8d00800000000000000
+      internalID: 976561229292224764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_212
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 271
+        width: 64
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6395283, y: -0.0020616876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdfa5d570d4f2b00800000000000000
+      internalID: 805947552348962246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_213
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 271
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d5bb13004b89a60800000000000000
+      internalID: 7681087077407743244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_214
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 271
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b1bc69c9fe3bb90800000000000000
+      internalID: -7227169521175684265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_217
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 238
+        width: 185
+        height: 125
+      alignment: 9
+      pivot: {x: 0.09890054, y: 0.26233983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feef4414c76eddf80800000000000000
+      internalID: -8080048735087427857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_218
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 270
+        width: 103
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc0da37d5e58f0e0800000000000000
+      internalID: -2235933459523760900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_220
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 239
+        width: 129
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f9ac4425cb1f80800000000000000
+      internalID: -8134691542218968001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_237
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 187
+        width: 27
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ab8b07a3be17f0800000000000000
+      internalID: -639876567005421224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_238
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 187
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f9fb890b23158a0800000000000000
+      internalID: -6318213068165767423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_239
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 186
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1881e234b52b70800000000000000
+      internalID: 8873696771428588529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_241
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 186
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17e14531547805e0800000000000000
+      internalID: -1943175347075684578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_242
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 188
+        width: 37
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1261d8592a9a2fec0800000000000000
+      internalID: -3534576241773570527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_243
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 186
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d0c5d4e5845d2a0800000000000000
+      internalID: -6713380099663852230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_244
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 186
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a539437cdef5c70800000000000000
+      internalID: 8962143223326923271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 809
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde068bf644a0e370800000000000000
+      internalID: 8349854333919432413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 187
+        width: 27
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5496fe7ce1e550800000000000000
+      internalID: 6188487393030725352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 186
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bddf9d6b9cce5a30800000000000000
+      internalID: 4206024069941812661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

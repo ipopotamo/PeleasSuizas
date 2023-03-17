@@ -11,6 +11,8 @@ public class VidaPJ2 : MonoBehaviour
     private Slider slider;
     private Animator anim;
     private Movimiento2 movi;
+
+    private VidaPJ1 LavidaDelOtro;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,21 +22,27 @@ public class VidaPJ2 : MonoBehaviour
         slider = GameObject.FindGameObjectWithTag("VidaPJ2").GetComponent<Slider>();
         slider.value = vida;
         anim = GetComponent<Animator>();
+
+        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
     }
 
     // Update is called once per frame
     void Update()
     {
         slider.value = vida;
-        if (Input.GetKey("p"))
-        {
-            anim.SetTrigger("Defensa");
-        }
+            if (vida > 0 && LavidaDelOtro.vida > 0)
+            {
+                if (Input.GetKey("p"))
+                {
+                    anim.SetTrigger("Defensa");
+                }
 
-        if (Input.GetKey("p") && Input.GetKey("i")) 
-        {
-            anim.SetTrigger("0");
-        }
+                if (Input.GetKey("p") && Input.GetKey("i")) 
+                {
+                    anim.SetTrigger("0");
+                }
+            
+            }
         if (vida <= 0) 
         {
             anim.SetTrigger("Muerto");

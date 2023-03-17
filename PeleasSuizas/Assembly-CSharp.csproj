@@ -47,14 +47,17 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\EncontrarJugadores.cs" />
      <Compile Include="Assets\Scripts\Combo.cs" />
      <Compile Include="Assets\Scripts\VidaPJ1.cs" />
      <Compile Include="Assets\Scripts\Movimiento.cs" />
+     <Compile Include="Assets\ScripstsMCharacter\Iniciopeleita2.cs" />
      <Compile Include="Assets\ScripstsMCharacter\GameManager.cs" />
      <Compile Include="Assets\ScripstsMCharacter\CHARACTER.cs" />
      <Compile Include="Assets\ScripstsMCharacter\MSO2.cs" />
      <Compile Include="Assets\Scripts\VidaPJ2.cs" />
      <Compile Include="Assets\ScripstsMCharacter\MSP.cs" />
+     <Compile Include="Assets\ScripstsMCharacter\Iniciopeleita.cs" />
      <Compile Include="Assets\Scripts\comboPJ2.cs" />
      <Compile Include="Assets\Scripts\CRonrdas.cs" />
      <Compile Include="Assets\Scripts\Movimiento2.cs" />

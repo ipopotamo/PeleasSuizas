@@ -11,13 +11,14 @@ public class VidaPJ1 : MonoBehaviour
     private Animator anim;
     private Movimiento movi;
 
+    private VidaPJ2 LavidaDelOtro;
     // Start is called before the first frame update
     void Start()
     {
         vida = 200;
-        
         movi = GetComponent<Movimiento>();
         slider = GameObject.FindGameObjectWithTag("VidaPJ1").GetComponent<Slider>();
+        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
         slider.value = vida;
         anim = GetComponent<Animator>();
         
@@ -28,24 +29,27 @@ public class VidaPJ1 : MonoBehaviour
     {
         
         slider.value = vida;
+        if(vida > 0 && LavidaDelOtro.vida >0){
+            
+            if (Input.GetKey("v") && vida > 0)
+            {
+                anim.SetTrigger("Defensa");
+            }
+            if (Input.GetKey("v") && Input.GetKey("c"))
+            {
+                anim.SetTrigger("0");
+            }
+        }
 
-        if (Input.GetKey("v"))
-        {
-            anim.SetTrigger("Defensa");
-        }
-        if (Input.GetKey("v") && Input.GetKey("c"))
-        {
-            anim.SetTrigger("0");
-        }
         if (vida <= 0)
-        {
-            anim.SetTrigger("Muerto");
-        }
+            {
+                anim.SetTrigger("Muerto");
+            }
     }
     public void TomarDaño1(float dano)
     {
         
-        if(Input.GetKey("v"))
+        if(Input.GetKey("v") && !Input.GetKey("c"))
         {
             dano  = dano - defe;
             vida -= dano;           

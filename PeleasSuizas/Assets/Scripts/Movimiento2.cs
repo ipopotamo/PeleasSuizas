@@ -8,6 +8,7 @@ public class Movimiento2 : MonoBehaviour
     private Rigidbody2D RB2D;
     private float MovX = 0;
 
+    private VidaPJ1 LavidaDelOtro;
 
     public VidaPJ2 vidaUwU;
     [SerializeField] public float Fsalto; 
@@ -26,15 +27,17 @@ public class Movimiento2 : MonoBehaviour
 
     void Start()
     {
+        vidaUwU = GetComponent<VidaPJ2>();
         RB2D = GetComponent<Rigidbody2D>();
         PlayerAnimator = GetComponent<Animator>();
+        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
     }
 
     // Update is called once per frame
     void Update()
     {
        
-        if(vidaUwU.vida > 0){
+        if(vidaUwU.vida > 0 && LavidaDelOtro.vida > 0){
           if(Input.GetKey("left"))
           {
             MovX = -1*velocidadDeMovimiento;            
@@ -47,7 +50,7 @@ public class Movimiento2 : MonoBehaviour
           {
             MovX = 1*velocidadDeMovimiento;           
           }
-          if(Input.GetKeyDown(KeyCode.UpArrow) && eSuelo)
+          if(Input.GetKeyDown(KeyCode.UpArrow) && eSuelo && vidaUwU.vida > 0)
           {
           PlayerAnimator.SetTrigger("saltando");  
           salto = true;        
