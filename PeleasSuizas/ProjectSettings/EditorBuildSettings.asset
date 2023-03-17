@@ -8,13 +8,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/Inicio.unity
-    guid: ecf2dc110823e2447a2be83bfaf22239
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Ganador.unity
     guid: 2efce6c2a089a074ea3748c924781211
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: e4f721a7bf2290747a922c60d445fa2a
+  - enabled: 1
+    path: Assets/Scenes/PELEAEJEMPLO.unity
+    guid: dcecd8d8c7f363a4495fd2d6fbd1d14a
+  - enabled: 1
+    path: Assets/Scenes/SelecterCharacter.unity
+    guid: 37fb2479c22b3504fa9426f288779abf
   m_configObjects: {}
