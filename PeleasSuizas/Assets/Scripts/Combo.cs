@@ -12,7 +12,6 @@ public class Combo : MonoBehaviour
     private bool transformado = false;
 
     private VidaPJ1 Mivida;
-    [SerializeField] private float LaPutaVidaQueMeTieneQueQuedar;
 
     public Animator anim;
     public int combo;
@@ -32,17 +31,22 @@ public class Combo : MonoBehaviour
     
 
     private void Golpe() {
-        Collider2D[] objetos = Physics2D.OverlapCircleAll(control.position, radioAtaque);
 
-        foreach (Collider2D colisionador in objetos) {
-            if (colisionador.CompareTag("Jugador2")) 
-            {
-                colisionador.transform.GetComponent<VidaPJ2>().TomarDaño(Dano);
+        if (!Input.GetKeyDown(KeyCode.V)) 
+        {
+            Collider2D[] objetos = Physics2D.OverlapCircleAll(control.position, radioAtaque);
+
+            foreach (Collider2D colisionador in objetos) {
+                if (colisionador.CompareTag("Jugador2")) 
+                {
+                    colisionador.transform.GetComponent<VidaPJ2>().TomarDaño(Dano);
+                }
             }
+
         }
     }
     public void Combos() {
-        if (Input.GetKeyDown(KeyCode.C) && !atacando) {
+        if (Input.GetKeyDown(KeyCode.C) && !atacando && Mivida.vida > 0) {
             Golpe();
             atacando = true;
             anim.SetTrigger("" + combo);
@@ -71,22 +75,24 @@ public class Combo : MonoBehaviour
     {
 
         Combos();
+        if (Mivida.vida <= 100){
+            puedeTransformarse = true;
+
+        }
         
-        
-        if(Input.GetKey("e") && Mivida.vida <= LaPutaVidaQueMeTieneQueQuedar)
-        {
-            anim.SetBool("tranformer", true);
-            transformado = true;
-            if (transformado)
+        if(Input.GetKey("e") && puedeTransformarse == true && transformado == false)
             {
                 anim.SetTrigger("tranformer");
-                anim.SetLayerWeight(0, 0);
-                anim.SetLayerWeight(1, 1);
-            }
-            
-            //anim.SetTrigger("tranformer");
-        }
-
+                transformado = true;
+                    if (transformado)
+                        {
+                            anim.SetTrigger("tranformer");
+                            anim.SetLayerWeight(0, 0);
+                            anim.SetLayerWeight(1, 1);
+                            
+                        }
+                    //anim.SetTrigger("tranformer");
+            } 
     }
 
     private void OnDrawGizmos() {

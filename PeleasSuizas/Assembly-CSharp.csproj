@@ -43,6 +43,7 @@
      <Compile Include="Assets\Scripts\comboPJ2.cs" />
      <Compile Include="Assets\Scripts\CRonrdas.cs" />
      <Compile Include="Assets\Scripts\Movimiento2.cs" />
+     <Compile Include="Assets\EncontrarJugadores.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

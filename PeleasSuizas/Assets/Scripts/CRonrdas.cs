@@ -93,7 +93,7 @@ public class CRonrdas : MonoBehaviour
             {
                 Personaje.SetTrigger("Victoria");
                 PJ1.Fsalto = 0;
-                if (Input.GetKey("c") || Input.GetKey("v") || Input.GetKey("w")) 
+                if (Input.GetKey("c") || Input.GetKey("v") || Input.GetKeyDown(KeyCode.W)) 
                 {
                     Debug.Log("Nada");
                 }
