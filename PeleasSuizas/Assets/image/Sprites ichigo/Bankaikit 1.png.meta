@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 9b69436953194924caafd2372bc5ac97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7822648553167660655
+    second: Bankaikit 1_0
+  - first:
+      213: -5876593786746586487
+    second: Bankaikit 1_1
+  - first:
+      213: -634895427146950873
+    second: Bankaikit 1_2
+  - first:
+      213: -5785637495216842703
+    second: Bankaikit 1_3
+  - first:
+      213: 54993611556530513
+    second: Bankaikit 1_4
+  - first:
+      213: -5491911850565801537
+    second: Bankaikit 1_5
+  - first:
+      213: 882349628790958184
+    second: Bankaikit 1_6
+  - first:
+      213: 8561802944052270017
+    second: Bankaikit 1_7
+  - first:
+      213: 4257543617413894048
+    second: Bankaikit 1_8
+  - first:
+      213: 8641564727472368965
+    second: Bankaikit 1_9
+  - first:
+      213: 2940868142165550235
+    second: Bankaikit 1_10
+  - first:
+      213: 157835342778160565
+    second: Bankaikit 1_11
+  - first:
+      213: -1566751704749950595
+    second: Bankaikit 1_12
+  - first:
+      213: 1983714330548925990
+    second: Bankaikit 1_13
+  - first:
+      213: -8188827282921811628
+    second: Bankaikit 1_14
+  - first:
+      213: 1713609447414352157
+    second: Bankaikit 1_15
+  - first:
+      213: -2327380587305894008
+    second: Bankaikit 1_16
+  - first:
+      213: -3734622334157848198
+    second: Bankaikit 1_17
+  - first:
+      213: 3680501011448298309
+    second: Bankaikit 1_18
+  - first:
+      213: 2516958861868909148
+    second: Bankaikit 1_19
+  - first:
+      213: -1622312487112545130
+    second: Bankaikit 1_20
+  - first:
+      213: -2345942804609083363
+    second: Bankaikit 1_21
+  - first:
+      213: -4541432642605351477
+    second: Bankaikit 1_22
+  - first:
+      213: -7545093371479966382
+    second: Bankaikit 1_23
+  - first:
+      213: -1351194317907165659
+    second: Bankaikit 1_24
+  - first:
+      213: 7650676216379710039
+    second: Bankaikit 1_25
+  - first:
+      213: -7383981301928173400
+    second: Bankaikit 1_26
+  - first:
+      213: -8005883579980367462
+    second: Bankaikit 1_27
+  - first:
+      213: 6093674983807861975
+    second: Bankaikit 1_28
+  - first:
+      213: -7629764494423811014
+    second: Bankaikit 1_32
+  - first:
+      213: -5769736566427201415
+    second: Bankaikit 1_33
+  - first:
+      213: 5881008745937688203
+    second: Bankaikit 1_34
+  - first:
+      213: -8625958899714174690
+    second: Bankaikit 1_35
+  - first:
+      213: 3043493259173582262
+    second: Bankaikit 1_38
+  - first:
+      213: -373791461571171905
+    second: Bankaikit 1_40
+  - first:
+      213: -2888160695842111927
+    second: Bankaikit 1_41
+  - first:
+      213: -7906068442600267140
+    second: Bankaikit 1_42
+  - first:
+      213: -1384336340376859573
+    second: Bankaikit 1_43
+  - first:
+      213: -5660686676928632425
+    second: Bankaikit 1_44
+  - first:
+      213: 7872459615734057741
+    second: Bankaikit 1_45
+  - first:
+      213: 5739266944901051645
+    second: Bankaikit 1_46
+  - first:
+      213: 3670262894394759810
+    second: Bankaikit 1_47
+  - first:
+      213: 8757958750856584377
+    second: Bankaikit 1_48
+  - first:
+      213: -150215666860671957
+    second: Bankaikit 1_49
+  - first:
+      213: 2024007387124238849
+    second: Bankaikit 1_50
+  - first:
+      213: -5018197393217993169
+    second: Bankaikit 1_54
+  - first:
+      213: 4871818453854405757
+    second: Bankaikit 1_55
+  - first:
+      213: 8391814635588293672
+    second: Bankaikit 1_56
+  - first:
+      213: 4506017373285720242
+    second: Bankaikit 1_57
+  - first:
+      213: -593972491624191002
+    second: Bankaikit 1_58
+  - first:
+      213: 8770608206936644697
+    second: Bankaikit 1_59
+  - first:
+      213: 3133017172778479918
+    second: Bankaikit 1_60
+  - first:
+      213: 410356356154537590
+    second: Bankaikit 1_61
+  - first:
+      213: 9047192330302708825
+    second: Bankaikit 1_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bankaikit 1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 661
+        width: 48
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6554201, y: 0.010433682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199d7b9469e507390800000000000000
+      internalID: -7822648553167660655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 661
+        width: 53
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6804588, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab3b32615227ea0800000000000000
+      internalID: -5876593786746586487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 661
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.70172006, y: 0.010433682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d26b09f56037f0800000000000000
+      internalID: -634895427146950873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 661
+        width: 52
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6876077, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1385b6a0a5945bfa0800000000000000
+      internalID: -5785637495216842703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 575
+        width: 56
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1592eb9f56063c000800000000000000
+      internalID: 54993611556530513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 575
+        width: 56
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb96441f44fc8c3b0800000000000000
+      internalID: -5491911850565801537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 575
+        width: 56
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86868cfff4cbe3c00800000000000000
+      internalID: 882349628790958184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 575
+        width: 56
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3112d4a62a1d670800000000000000
+      internalID: 8561802944052270017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 575
+        width: 55
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afcfa3dc55d51b30800000000000000
+      internalID: 4257543617413894048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 575
+        width: 56
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d298ca5510de770800000000000000
+      internalID: 8641564727472368965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 575
+        width: 56
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b946a017eff00d820800000000000000
+      internalID: 2940868142165550235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 575
+        width: 56
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b55b43786eb03200800000000000000
+      internalID: 157835342778160565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_12
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 575
+        width: 51
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79342320a7c14ae0800000000000000
+      internalID: -1566751704749950595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 575
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62678386ca1978b10800000000000000
+      internalID: 1983714330548925990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 463
+        width: 50
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4511b62f8f07b5e80800000000000000
+      internalID: -8188827282921811628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 487
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19c2ec96b6f7c710800000000000000
+      internalID: 1713609447414352157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 486
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ffd74dfab73bfd0800000000000000
+      internalID: -2327380587305894008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 494
+        width: 44
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71084226c4fb2cc0800000000000000
+      internalID: -3734622334157848198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 487
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b77d67b24c31330800000000000000
+      internalID: 3680501011448298309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 487
+        width: 51
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c7fbdfb80ee220800000000000000
+      internalID: 2516958861868909148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 463
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce9fa63636c79e0800000000000000
+      internalID: -1622312487112545130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_21
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 463
+        width: 50
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1854e3d279817fd0800000000000000
+      internalID: -2345942804609083363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 463
+        width: 50
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdf426b21799f0c0800000000000000
+      internalID: -4541432642605351477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_23
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 463
+        width: 58
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d38c3ed817a4790800000000000000
+      internalID: -7545093371479966382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_24
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 463
+        width: 52
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52efd924de79f3de0800000000000000
+      internalID: -1351194317907165659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_25
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 462
+        width: 58
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a97d8db79ac2a60800000000000000
+      internalID: 7650676216379710039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_26
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 365
+        width: 57
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e17eb024d68990800000000000000
+      internalID: -7383981301928173400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_27
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 375
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99332e0d4365e090800000000000000
+      internalID: -8005883579980367462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_28
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 376
+        width: 60
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d44d82bc15119450800000000000000
+      internalID: 6093674983807861975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 361
+        width: 56
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c1bf5dd91ad1690800000000000000
+      internalID: -7629764494423811014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 361
+        width: 56
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97056868927cdefa0800000000000000
+      internalID: -5769736566427201415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 361
+        width: 47
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d496ab4a8d9150800000000000000
+      internalID: 5881008745937688203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 361
+        width: 51
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11da6f35107a4880800000000000000
+      internalID: -8625958899714174690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_38
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 361
+        width: 61
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5565d7ef8ac3a20800000000000000
+      internalID: 3043493259173582262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 296
+        width: 59
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9e9f865a600daf0800000000000000
+      internalID: -373791461571171905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 296
+        width: 61
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef51636213be7d0800000000000000
+      internalID: -2888160695842111927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_42
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 300
+        width: 60
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72a2ecb3a0084290800000000000000
+      internalID: -7906068442600267140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 303
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c4c26de69d9cce0800000000000000
+      internalID: -1384336340376859573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_44
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 290
+        width: 54
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e1ec75733171b0800000000000000
+      internalID: -5660686676928632425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_45
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 288
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bcf687f48904d60800000000000000
+      internalID: 7872459615734057741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_46
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 273
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4f7f1e0e8f5af40800000000000000
+      internalID: 5739266944901051645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_47
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 273
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a52b418a46fe230800000000000000
+      internalID: 3670262894394759810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_48
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 273
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc945e05158a8970800000000000000
+      internalID: 8757958750856584377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_49
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 273
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c321995a35aedf0800000000000000
+      internalID: -150215666860671957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_50
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 273
+        width: 63
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a8e44bef7b61c10800000000000000
+      internalID: 2024007387124238849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_54
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 122
+        width: 36
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f264374fe08cb5ab0800000000000000
+      internalID: -5018197393217993169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 132
+        width: 49
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d744f20621d2c9340800000000000000
+      internalID: 4871818453854405757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 172
+        width: 57
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8241a2703f6b57470800000000000000
+      internalID: 8391814635588293672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_57
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 187
+        width: 47
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02f665de6988e30800000000000000
+      internalID: 4506017373285720242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_58
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 187
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe2667a29c1c7f0800000000000000
+      internalID: -593972491624191002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_59
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 183
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c959e02b577b970800000000000000
+      internalID: 8770608206936644697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_60
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 187
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21f8aae486ba7b20800000000000000
+      internalID: 3133017172778479918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_61
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 182
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763ae78ee0e1b500800000000000000
+      internalID: 410356356154537590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bankaikit 1_62
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 187
+        width: 50
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd4568d751e8d70800000000000000
+      internalID: 9047192330302708825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
