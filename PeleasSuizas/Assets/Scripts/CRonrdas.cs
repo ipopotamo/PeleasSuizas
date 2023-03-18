@@ -54,6 +54,8 @@ public class CRonrdas : MonoBehaviour
     void Update()
     {
 
+        vidaUwU2   = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
+        vidaUwU1   = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
         if (vidaUwU1.vida <= 0)
         {        
             win1P2++;     

@@ -17,7 +17,7 @@ public class VidaPJ2 : MonoBehaviour
     void Start()
     {
 
-        vida = 100;
+        //vida = 100;
         movi = GetComponent<Movimiento2>();
         slider = GameObject.FindGameObjectWithTag("VidaPJ2").GetComponent<Slider>();
         slider.value = vida;
