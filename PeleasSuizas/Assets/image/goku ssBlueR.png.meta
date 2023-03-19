@@ -598,13 +598,13 @@ TextureImporter:
     second: goku ssBlueR_236
   - first:
       213: -639876567005421224
-    second: goku ssBlueR_237
+    second: win2
   - first:
       213: -6318213068165767423
-    second: goku ssBlueR_238
+    second: win3
   - first:
       213: 8873696771428588529
-    second: goku ssBlueR_239
+    second: win4
   - first:
       213: -5627536198640236185
     second: goku ssBlueR_240
@@ -745,7 +745,7 @@ TextureImporter:
     second: goku ssBlueR_0
   - first:
       213: 6188487393030725352
-    second: goku ssBlueR_1
+    second: win1
   - first:
       213: 4206024069941812661
     second: goku ssBlueR_2
@@ -2908,7 +2908,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goku ssBlueR_237
+      name: win2
       rect:
         serializedVersion: 2
         x: 103
@@ -2929,7 +2929,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goku ssBlueR_238
+      name: win3
       rect:
         serializedVersion: 2
         x: 143
@@ -2950,7 +2950,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goku ssBlueR_239
+      name: win4
       rect:
         serializedVersion: 2
         x: 183
@@ -3063,7 +3063,7 @@ TextureImporter:
         width: 28
         height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3076,7 +3076,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goku ssBlueR_1
+      name: win1
       rect:
         serializedVersion: 2
         x: 62

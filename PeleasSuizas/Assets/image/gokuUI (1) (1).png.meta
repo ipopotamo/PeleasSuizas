@@ -256,15 +256,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_114.5
+      name: golpe2 5
       rect:
         serializedVersion: 2
         x: 312
         y: 1215
         width: 35
         height: 57
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49216223, y: 0.01394814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1222,13 +1222,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_106
+      name: golpe2 6
       rect:
         serializedVersion: 2
         x: 360
-        y: 1237
+        y: 1216
         width: 34
-        height: 45
+        height: 66
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1243,7 +1243,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_111
+      name: golpe2 1
       rect:
         serializedVersion: 2
         x: 130
@@ -1264,7 +1264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_112
+      name: golpe2 2
       rect:
         serializedVersion: 2
         x: 170
@@ -1285,7 +1285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_113
+      name: golpe2 3
       rect:
         serializedVersion: 2
         x: 222
@@ -1306,7 +1306,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_114
+      name: golpe2 4
       rect:
         serializedVersion: 2
         x: 270
@@ -1327,13 +1327,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_115
+      name: golpe2 7
       rect:
         serializedVersion: 2
         x: 399
-        y: 1228
+        y: 1216
         width: 34
-        height: 45
+        height: 57
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1348,7 +1348,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_116
+      name: golpe2 8
       rect:
         serializedVersion: 2
         x: 442
@@ -1684,7 +1684,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_135
+      name: golpe2 9
       rect:
         serializedVersion: 2
         x: 487
@@ -1978,7 +1978,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_165
+      name: golpe1
       rect:
         serializedVersion: 2
         x: 133
@@ -1999,7 +1999,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_166
+      name: golpe1 2
       rect:
         serializedVersion: 2
         x: 177
@@ -2020,7 +2020,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_167
+      name: golpe1 3
       rect:
         serializedVersion: 2
         x: 236
@@ -2041,7 +2041,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_168
+      name: golpe1 4
       rect:
         serializedVersion: 2
         x: 280
@@ -2062,7 +2062,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_169
+      name: golpe1 5
       rect:
         serializedVersion: 2
         x: 329
@@ -2083,7 +2083,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_170
+      name: golpe1 6
       rect:
         serializedVersion: 2
         x: 378
@@ -2104,7 +2104,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_171
+      name: golpe1 7
       rect:
         serializedVersion: 2
         x: 420
@@ -2125,7 +2125,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_172
+      name: golpe1 8
       rect:
         serializedVersion: 2
         x: 488
@@ -3889,7 +3889,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_354
+      name: golpe3 1
       rect:
         serializedVersion: 2
         x: 1235
@@ -3910,7 +3910,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_355
+      name: golpe3 2
       rect:
         serializedVersion: 2
         x: 1272
@@ -3931,7 +3931,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_356
+      name: golpe3 3
       rect:
         serializedVersion: 2
         x: 1319
@@ -4939,7 +4939,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_510
+      name: win1
       rect:
         serializedVersion: 2
         x: 958
@@ -4960,7 +4960,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_511
+      name: win2
       rect:
         serializedVersion: 2
         x: 993
@@ -4981,7 +4981,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_512
+      name: win3
       rect:
         serializedVersion: 2
         x: 1032
@@ -5002,7 +5002,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_513
+      name: win4
       rect:
         serializedVersion: 2
         x: 1069
@@ -5023,7 +5023,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_514
+      name: win5
       rect:
         serializedVersion: 2
         x: 1105
@@ -5044,7 +5044,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_515
+      name: win6
       rect:
         serializedVersion: 2
         x: 1141
@@ -5065,7 +5065,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_516
+      name: win7
       rect:
         serializedVersion: 2
         x: 1177
@@ -5086,7 +5086,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_517
+      name: win8
       rect:
         serializedVersion: 2
         x: 1215
@@ -5107,7 +5107,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_518
+      name: win9
       rect:
         serializedVersion: 2
         x: 1250
@@ -5128,7 +5128,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_519
+      name: win10
       rect:
         serializedVersion: 2
         x: 1286
@@ -5149,7 +5149,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_520
+      name: win11
       rect:
         serializedVersion: 2
         x: 1324
@@ -5170,7 +5170,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_521
+      name: win12
       rect:
         serializedVersion: 2
         x: 1365
@@ -5191,7 +5191,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_522
+      name: win13
       rect:
         serializedVersion: 2
         x: 1403
@@ -5212,7 +5212,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_537
+      name: win14
       rect:
         serializedVersion: 2
         x: 961
@@ -5233,7 +5233,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_542
+      name: win15
       rect:
         serializedVersion: 2
         x: 1002
@@ -5254,7 +5254,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_543
+      name: win16
       rect:
         serializedVersion: 2
         x: 1045
@@ -5275,13 +5275,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_544
+      name: win17
       rect:
         serializedVersion: 2
         x: 1088
         y: 410
         width: 34
-        height: 75
+        height: 70
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5296,7 +5296,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_545
+      name: win18
       rect:
         serializedVersion: 2
         x: 1134
@@ -5317,7 +5317,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gokuUI (1) (1)_546
+      name: win19
       rect:
         serializedVersion: 2
         x: 1176
@@ -6269,8 +6269,8 @@ TextureImporter:
         y: 304
         width: 32
         height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
