@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bda686ea371f50b45be62a413065f7e5, type: 3}
+  m_Name: Goku
+  m_EditorClassIdentifier: 
+  persoJugable: {fileID: 2355687464233849000, guid: 87cf2e18bc7d8d04197e895023adcec5, type: 3}
+  imagen: {fileID: 1915700340260346637, guid: ecad1ccddaeb5c845995f682e79fc9b8, type: 3}
+  nombre: goku ssBlueR_1

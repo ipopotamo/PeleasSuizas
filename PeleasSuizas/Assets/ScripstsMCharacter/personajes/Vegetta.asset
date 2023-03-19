@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   persoJugable: {fileID: 7383952479993217851, guid: 4b7dbd3e24011634691501ef64c93281, type: 3}
   imagen: {fileID: 21300000, guid: 2635b44a7dfcf2c48a51857dec0efbfb, type: 3}
-  nombre: VEGETA
+  nombre: Vegeta

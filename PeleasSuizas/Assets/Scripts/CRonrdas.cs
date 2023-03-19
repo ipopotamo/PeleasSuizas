@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class CRonrdas : MonoBehaviour
 {
+    
     public GameObject ronda1win;
     public GameObject ronda1win2;
     public float contador;
@@ -23,7 +24,7 @@ public class CRonrdas : MonoBehaviour
     static private float win1P2;
 
     public VidaPJ1 vidaUwU1;
-    public VidaPJ2 vidaUwU2;
+    public VidaPJ2 vidaUwU2 ;
   
 
     private void Start()
