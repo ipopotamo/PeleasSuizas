@@ -1087,7 +1087,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d7c2a0a22d57cdf419735514f8b2b3c6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d7876be9ca947cc40b1a47b4bc7af035, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1583,9 +1583,14 @@ MonoBehaviour:
   Personajes:
   - {fileID: 11400000, guid: be2553c09e1f0034b9db7968b4bf1a72, type: 2}
   - {fileID: 11400000, guid: 60b4264a6cfa4f8419e34a6f99dac970, type: 2}
+  - {fileID: 11400000, guid: 60b4264a6cfa4f8419e34a6f99dac970, type: 2}
+  - {fileID: 11400000, guid: 6abd9b7ba92d6b84e9ce86aaefe8daf4, type: 2}
+  - {fileID: 11400000, guid: b29578479b0107a4ca6109c285dc8ec7, type: 2}
   PersonajesJugador2:
   - {fileID: 11400000, guid: e9c13096a8b8c004aafa62847fb33e76, type: 2}
   - {fileID: 11400000, guid: a3ef30e9d13a05e4796213fccb98783c, type: 2}
+  - {fileID: 11400000, guid: 7761084378f4218469a8b86d48cc0316, type: 2}
+  - {fileID: 11400000, guid: cb26c9ab53c29f84aa42dbb3e5a5671e, type: 2}
 --- !u!4 &1794612600
 Transform:
   m_ObjectHideFlags: 0

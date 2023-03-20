@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class InicioJugador1 : MonoBehaviour
 {
-    // Start is called before the first frame update
+    
     void Start()
     {
         int indexJugador = PlayerPrefs.GetInt("JugadorIndex");
