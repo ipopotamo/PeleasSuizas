@@ -56,7 +56,7 @@ public class comboPJ2 : MonoBehaviour
         }
     }
 
-    public void EMPEZAR_COMBO2() {
+    public void EMPEZAR_COMBO() {
         //moviminto.velocidadDeMovimiento = 0;
         atacando = false;
         if (combo < 3) {
@@ -64,7 +64,7 @@ public class comboPJ2 : MonoBehaviour
         }
     }
 
-    public void Final_Combo2() {
+    public void Final_Combo() {
         //movimiento.velocidadDeMovimiento = 400;
         atacando = false;
         combo = 0;

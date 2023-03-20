@@ -97,8 +97,6 @@ public class CRonrdas : MonoBehaviour
                     Debug.Log("Nada");
                 }
                 PJ1.velocidadDeMovimiento = 0; 
-                //Time.timeScale = 0f;
-                //SceneManager.LoadScene("Ganador");
                 CartelVictoria.SetActive(true);
                 Debug.Log(win1P1 + "/" + win1P2);
             }   

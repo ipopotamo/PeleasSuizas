@@ -315,7 +315,7 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0.71428573
-    functionName: Final_Combo2
+    functionName: Final_Combo
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0

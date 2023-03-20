@@ -25,6 +25,15 @@ public class MenuSeleccionDePersonas : MonoBehaviour
     private void Update() {
         index   = PlayerPrefs.GetInt("JugadorIndex");
         indexJ2 = PlayerPrefs.GetInt("JugadorIndex2");
+
+
+        if(Input.GetKey("a")){
+            AnteriorPersonaje();
+        }
+
+        if(Input.GetKey("d")){
+            SiguientePersonaje();
+        }
     }
 
     private void CambiarPantalla(){

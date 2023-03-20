@@ -4,10 +4,10 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -2393547346742498192
-    second: vegetaME_0
+    second: vegetaME_13.5
   - first:
       213: 2102046360715443350
-    second: vegetaME_1
+    second: vegetaME_15.5
   - first:
       213: 3259665259628085377
     second: vegetaME_2
@@ -19,10 +19,10 @@ TextureImporter:
     second: vegetaME_4
   - first:
       213: 3654562069816598632
-    second: vegetaME_5
+    second: vegetaME_20.1
   - first:
       213: -1483107574579471904
-    second: vegetaME_6
+    second: vegetaME_20.2
   - first:
       213: -7444881754181087028
     second: vegetaME_7
@@ -730,7 +730,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: vegetaME_0
+      name: vegetaME_13.5
       rect:
         serializedVersion: 2
         x: 360
@@ -751,7 +751,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vegetaME_1
+      name: vegetaME_15.5
       rect:
         serializedVersion: 2
         x: 527
@@ -772,7 +772,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vegetaME_5
+      name: vegetaME_20.1
       rect:
         serializedVersion: 2
         x: 832
@@ -793,13 +793,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vegetaME_6
+      name: vegetaME_20.2
       rect:
         serializedVersion: 2
         x: 917
-        y: 1600
-        width: 95
-        height: 90
+        y: 1610
+        width: 79
+        height: 80
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1029,8 +1029,8 @@ TextureImporter:
         serializedVersion: 2
         x: 679
         y: 1611
-        width: 69
-        height: 51
+        width: 77
+        height: 67
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1061,48 +1061,6 @@ TextureImporter:
       bones: []
       spriteID: 5030a87a19c58ede0800000000000000
       internalID: -1303690311472905467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetaME_22
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 1615
-        width: 6
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b86a5d70bb5f240f0800000000000000
-      internalID: -1134073972504811893
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetaME_23
-      rect:
-        serializedVersion: 2
-        x: 395
-        y: 1618
-        width: 6
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e44d8bece32d7e120800000000000000
-      internalID: 2443152490069808206
       vertices: []
       indices: 
       edges: []
@@ -3749,132 +3707,6 @@ TextureImporter:
       bones: []
       spriteID: dc17de3cb0b8a76b0800000000000000
       internalID: -5297769128999947827
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetaME_2
-      rect:
-        serializedVersion: 2
-        x: 692
-        y: 1656
-        width: 10
-        height: 14
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18040de7848ac3d20800000000000000
-      internalID: 3259665259628085377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetaME_3
-      rect:
-        serializedVersion: 2
-        x: 706
-        y: 1668
-        width: 4
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0dae7378cbd718b0800000000000000
-      internalID: -5181431192288842482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetaME_4
-      rect:
-        serializedVersion: 2
-        x: 735
-        y: 1664
-        width: 6
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b427962ae41345420800000000000000
-      internalID: 2617771497211130443
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetaME_18
-      rect:
-        serializedVersion: 2
-        x: 732
-        y: 1651
-        width: 17
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f8ec28ac8e402d8b0800000000000000
-      internalID: -5129031627745079665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetaME_19
-      rect:
-        serializedVersion: 2
-        x: 741
-        y: 1625
-        width: 15
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6aa0136726f3d3ca0800000000000000
-      internalID: -6035598233484326234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetaME_21
-      rect:
-        serializedVersion: 2
-        x: 1005
-        y: 1632
-        width: 12
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00283f69bc3a90f30800000000000000
-      internalID: 4542341793986085376
       vertices: []
       indices: 
       edges: []

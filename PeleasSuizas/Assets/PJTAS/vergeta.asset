@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f7ac090afb00fd4ea05fc574395fb06, type: 3}
   m_Name: vergeta
   m_EditorClassIdentifier: 
-  PersonajeJugable: {fileID: 1035549783370135600, guid: d0e0b650ae655ce47980c0ebe6aeae98, type: 3}
+  PersonajeJugable: {fileID: 2679639666883085447, guid: c94d01a2791eafd4da03d4b3d58a0bb7, type: 3}
   Imagen: {fileID: 21300000, guid: 2635b44a7dfcf2c48a51857dec0efbfb, type: 3}
   nombre: Vegeta
