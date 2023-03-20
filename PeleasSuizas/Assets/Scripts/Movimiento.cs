@@ -31,14 +31,14 @@ public class Movimiento : MonoBehaviour
     {
         RB2D = GetComponent<Rigidbody2D>();
         PlayerAnimator = GetComponent<Animator>();
-        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
+        
         vidaUwU = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
     }
 
     // Update is called once per frame
     void Update()
     {
-       
+       LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
         if(vidaUwU.vida > 0 && LavidaDelOtro.vida > 0){
          if(Input.GetKey("a"))
         {

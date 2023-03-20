@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class CRonrdas : MonoBehaviour
 {
-    
     public GameObject ronda1win;
     public GameObject ronda1win2;
     public float contador;
@@ -24,7 +23,7 @@ public class CRonrdas : MonoBehaviour
     static private float win1P2;
 
     public VidaPJ1 vidaUwU1;
-    public VidaPJ2 vidaUwU2 ;
+    public VidaPJ2 vidaUwU2;
   
 
     private void Start()
@@ -32,16 +31,6 @@ public class CRonrdas : MonoBehaviour
         CartelVictoria = GameObject.FindGameObjectWithTag("CartelVictoria");
         ronda1win  = GameObject.FindGameObjectWithTag("Ronda1PJ1");
         ronda1win2 = GameObject.FindGameObjectWithTag("Ronda1PJ2");
-
-        vidaUwU2   = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
-        vidaUwU1   = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
-
-        Personaje = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Animator>();
-        Personaje2 = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Animator>();
-
-
-        PJ2 = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Movimiento2>();
-        PJ1 = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Movimiento>();
 
         CartelVictoria.SetActive(false);
     }
@@ -54,9 +43,16 @@ public class CRonrdas : MonoBehaviour
 
     void Update()
     {
-
         vidaUwU2   = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
         vidaUwU1   = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
+
+        Personaje = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Animator>();
+        Personaje2 = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Animator>();
+
+
+        PJ2 = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Movimiento2>();
+        PJ1 = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Movimiento>();
+
         if (vidaUwU1.vida <= 0)
         {        
             win1P2++;     
@@ -114,12 +110,12 @@ public class CRonrdas : MonoBehaviour
     public void round2()
     {  
         if(vidaUwU1.vida <= 0){
-         SceneManager.LoadScene("SampleScene");
+         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
          Debug.Log(win1P1 + "/" + win1P2);
          
         }
         if(vidaUwU2.vida <= 0){
-         SceneManager.LoadScene("SampleScene");
+         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
          Debug.Log(win1P1 + "/" + win1P2);
          
         }

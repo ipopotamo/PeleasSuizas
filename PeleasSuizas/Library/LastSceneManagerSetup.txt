@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SelecterCharacter.unity
+- path: Assets/Scenes/IntentoSelector/Seletor.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

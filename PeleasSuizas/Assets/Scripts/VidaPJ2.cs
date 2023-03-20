@@ -23,12 +23,13 @@ public class VidaPJ2 : MonoBehaviour
         slider.value = vida;
         anim = GetComponent<Animator>();
 
-        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
         slider.value = vida;
             if (vida > 0 && LavidaDelOtro.vida > 0)
             {

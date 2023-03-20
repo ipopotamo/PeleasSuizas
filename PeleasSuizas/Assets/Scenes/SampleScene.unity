@@ -2689,7 +2689,7 @@ MonoBehaviour:
   ronda1win2: {fileID: 0}
   contador: 0
   CartelVictoria: {fileID: 0}
-  controlador: {fileID: 584114200}
+  controlador: {fileID: 1616749037}
   vidaUwU1: {fileID: 0}
   vidaUwU2: {fileID: 0}
 --- !u!4 &1616749039

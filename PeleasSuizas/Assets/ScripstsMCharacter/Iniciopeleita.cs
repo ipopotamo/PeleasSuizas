@@ -4,15 +4,14 @@ using UnityEngine;
 
 public class Iniciopeleita : MonoBehaviour
 {
-    private GameObject juan;
-    [SerializeField] private GameObject epic;
-
-    private void Start()
+    
+    void Start()
     {
-        
-        int indexJugador01 = PlayerPrefs.GetInt("JugadorIndex");
-        juan  = GameManager.Instancia.person[indexJugador01].persoJugable;
-        Instantiate(juan,juan.transform);
+        int indexJugador1 = PlayerPrefs.GetInt("JugadorIndex");
+        Instantiate(GameManager.Instancia.person[indexJugador1].persoJugable,transform.position,Quaternion.identity);
+
     }
+
+ 
 
 }

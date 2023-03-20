@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   persoJugable: {fileID: 1525746670442899668, guid: fd88bd2690c2b3947a4c03f0719f88f9, type: 3}
   imagen: {fileID: 21300000, guid: 7639a837000dc03408383fc592389cae, type: 3}
-  nombre: vergil
+  nombre: VIRGIL

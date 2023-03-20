@@ -7,10 +7,10 @@ using UnityEngine.SceneManagement;
 
 public class MSP : MonoBehaviour
 {
-    public static int index;
-    public static int index2;
+    private int index;
+    private int index2;
     [SerializeField] private Image img;
-    [SerializeField] private TextMeshProUGUI name1;
+    [SerializeField] private TextMeshProUGUI name;
     [SerializeField] private Image img2;
     [SerializeField] private TextMeshProUGUI name2;
     private GameManager gameManager;
@@ -37,7 +37,7 @@ public class MSP : MonoBehaviour
     {
         PlayerPrefs.SetInt("JugadorIndex", index);
         img.sprite = gameManager.person[index].imagen;
-        name1.text = gameManager.person[index].nombre;
+        name.text = gameManager.person[index].nombre;
     }
 
     private void CambiarPantalla2()
