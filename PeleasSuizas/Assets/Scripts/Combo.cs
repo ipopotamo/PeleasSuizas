@@ -5,7 +5,7 @@ using UnityEngine;
 public class Combo : MonoBehaviour
 {
     [SerializeField] private Transform control;
-    [SerializeField] private float radioAtaque;
+    [SerializeField] public float radioAtaque;
     [SerializeField] private float Dano;
 
     private bool puedeTransformarse = false;

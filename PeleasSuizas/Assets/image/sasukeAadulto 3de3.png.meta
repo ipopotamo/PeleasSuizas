@@ -1,0 +1,2520 @@
+fileFormatVersion: 2
+guid: a95a2d649533d4c4c89449415f9582c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7973031934718422810
+    second: sasukeAadulto 3de3_2
+  - first:
+      213: 1318377329434975861
+    second: sasukeAadulto 3de3_3
+  - first:
+      213: -3201030863018570185
+    second: sasukeAadulto 3de3_4
+  - first:
+      213: 346781595145823761
+    second: sasukeAadulto 3de3_5
+  - first:
+      213: 5793539268207117118
+    second: sasukeAadulto 3de3_6
+  - first:
+      213: 2532526101386663497
+    second: sasukeAadulto 3de3_7
+  - first:
+      213: 9045870576566083250
+    second: sasukeAadulto 3de3_8
+  - first:
+      213: -345336223665588284
+    second: sasukeAadulto 3de3_9
+  - first:
+      213: 7039324854463691146
+    second: sasukeAadulto 3de3_12
+  - first:
+      213: 7502781246502746421
+    second: sasukeAadulto 3de3_15
+  - first:
+      213: 4893888225347015902
+    second: sasukeAadulto 3de3_17
+  - first:
+      213: -5155854687747284808
+    second: sasukeAadulto 3de3_19
+  - first:
+      213: 7329512061926669110
+    second: sasukeAadulto 3de3_21
+  - first:
+      213: 306157976935305205
+    second: sasukeAadulto 3de3_23
+  - first:
+      213: -3613924520948548876
+    second: sasukeAadulto 3de3_24
+  - first:
+      213: -234080564663350867
+    second: sasukeAadulto 3de3_28
+  - first:
+      213: 1197171876707701124
+    second: sasukeAadulto 3de3_29
+  - first:
+      213: 5588282316658722831
+    second: sasukeAadulto 3de3_30
+  - first:
+      213: -8761505197342053457
+    second: sasukeAadulto 3de3_33
+  - first:
+      213: 1376966506192923905
+    second: sasukeAadulto 3de3_34
+  - first:
+      213: 1302627935235662094
+    second: sasukeAadulto 3de3_35
+  - first:
+      213: 5568755408231101996
+    second: sasukeAadulto 3de3_36
+  - first:
+      213: -7531180778324217915
+    second: sasukeAadulto 3de3_37
+  - first:
+      213: -7724898955713609162
+    second: sasukeAadulto 3de3_38
+  - first:
+      213: -5341643765512125479
+    second: sasukeAadulto 3de3_39
+  - first:
+      213: 1734132783407981648
+    second: sasukeAadulto 3de3_40
+  - first:
+      213: 936348057936986298
+    second: sasukeAadulto 3de3_41
+  - first:
+      213: 6740836473444745881
+    second: sasukeAadulto 3de3_43
+  - first:
+      213: -3627980103280631837
+    second: sasukeAadulto 3de3_44
+  - first:
+      213: -375159527445347129
+    second: sasukeAadulto 3de3_46
+  - first:
+      213: 7379076591846367891
+    second: sasukeAadulto 3de3_47
+  - first:
+      213: 4226087840740631118
+    second: sasukeAadulto 3de3_48
+  - first:
+      213: 9179344797882844927
+    second: sasukeAadulto 3de3_49
+  - first:
+      213: -1960319609073727313
+    second: sasukeAadulto 3de3_50
+  - first:
+      213: 3875647542011157946
+    second: sasukeAadulto 3de3_53
+  - first:
+      213: 8637609553478723059
+    second: sasukeAadulto 3de3_54
+  - first:
+      213: 3214198419862918336
+    second: sasukeAadulto 3de3_55
+  - first:
+      213: -175265608570303609
+    second: sasukeAadulto 3de3_56
+  - first:
+      213: 7157847006172490694
+    second: sasukeAadulto 3de3_57
+  - first:
+      213: 5411086794660756400
+    second: sasukeAadulto 3de3_58
+  - first:
+      213: 718479067804632327
+    second: sasukeAadulto 3de3_59
+  - first:
+      213: -5621221993200112620
+    second: sasukeAadulto 3de3_61
+  - first:
+      213: 5305483794562733598
+    second: sasukeAadulto 3de3_62
+  - first:
+      213: -658079266163244167
+    second: sasukeAadulto 3de3_63
+  - first:
+      213: 5958854712916712214
+    second: sasukeAadulto 3de3_65
+  - first:
+      213: -8069412694309180680
+    second: sasukeAadulto 3de3_66
+  - first:
+      213: 7708413230252419512
+    second: sasukeAadulto 3de3_67
+  - first:
+      213: -6893799916976730886
+    second: sasukeAadulto 3de3_68
+  - first:
+      213: 9102959175490023635
+    second: sasukeAadulto 3de3_69
+  - first:
+      213: 3822607182985043383
+    second: sasukeAadulto 3de3_70
+  - first:
+      213: 6996097058203980073
+    second: sasukeAadulto 3de3_72
+  - first:
+      213: -5580756951200039613
+    second: sasukeAadulto 3de3_73
+  - first:
+      213: -3225835099422984816
+    second: sasukeAadulto 3de3_74
+  - first:
+      213: -5904949478345668719
+    second: sasukeAadulto 3de3_75
+  - first:
+      213: 2380301149692094484
+    second: sasukeAadulto 3de3_76
+  - first:
+      213: 769267463740999210
+    second: sasukeAadulto 3de3_77
+  - first:
+      213: -2574461456473910602
+    second: sasukeAadulto 3de3_78
+  - first:
+      213: 6199755673898954336
+    second: sasukeAadulto 3de3_79
+  - first:
+      213: 8449021183201583185
+    second: sasukeAadulto 3de3_80
+  - first:
+      213: -9134255323196331217
+    second: sasukeAadulto 3de3_81
+  - first:
+      213: -3432822435599881302
+    second: sasukeAadulto 3de3_82
+  - first:
+      213: -29612072948147900
+    second: sasukeAadulto 3de3_83
+  - first:
+      213: 6226624713138615217
+    second: sasukeAadulto 3de3_84
+  - first:
+      213: 6261243025251470921
+    second: sasukeAadulto 3de3_85
+  - first:
+      213: 1670878615900752955
+    second: sasukeAadulto 3de3_86
+  - first:
+      213: 4002475879069317065
+    second: sasukeAadulto 3de3_87
+  - first:
+      213: 5739779540269196343
+    second: sasukeAadulto 3de3_89
+  - first:
+      213: -8853136512317109767
+    second: sasukeAadulto 3de3_90
+  - first:
+      213: -2880556701889054519
+    second: sasukeAadulto 3de3_91
+  - first:
+      213: -949031605615889405
+    second: sasukeAadulto 3de3_92
+  - first:
+      213: 5358470586312230531
+    second: sasukeAadulto 3de3_93
+  - first:
+      213: -1634595246394968383
+    second: sasukeAadulto 3de3_102
+  - first:
+      213: -2855871623920756991
+    second: sasukeAadulto 3de3_103
+  - first:
+      213: 1252432378533290413
+    second: sasukeAadulto 3de3_106
+  - first:
+      213: -1831407430551186393
+    second: sasukeAadulto 3de3_107
+  - first:
+      213: -3181864544048374342
+    second: sasukeAadulto 3de3_108
+  - first:
+      213: -2717424789707679340
+    second: sasukeAadulto 3de3_109
+  - first:
+      213: -2624562220494759921
+    second: sasukeAadulto 3de3_110
+  - first:
+      213: 735727902041407274
+    second: sasukeAadulto 3de3_111
+  - first:
+      213: -2975140338675548153
+    second: sasukeAadulto 3de3_112
+  - first:
+      213: -7546864569097794489
+    second: sasukeAadulto 3de3_113
+  - first:
+      213: 8982626578687680985
+    second: sasukeAadulto 3de3_115
+  - first:
+      213: 6501775194659719721
+    second: sasukeAadulto 3de3_116
+  - first:
+      213: -4703857495410761718
+    second: sasukeAadulto 3de3_123
+  - first:
+      213: -6270035732623263965
+    second: sasukeAadulto 3de3_124
+  - first:
+      213: -6731801830414652687
+    second: sasukeAadulto 3de3_126
+  - first:
+      213: -9088817835517166368
+    second: sasukeAadulto 3de3_127
+  - first:
+      213: 3023746277814573812
+    second: sasukeAadulto 3de3_128
+  - first:
+      213: -580540853788322755
+    second: sasukeAadulto 3de3_129
+  - first:
+      213: -104664190444062415
+    second: sasukeAadulto 3de3_130
+  - first:
+      213: 6186354395101250566
+    second: sasukeAadulto 3de3_131
+  - first:
+      213: 4556887960191276657
+    second: sasukeAadulto 3de3_133
+  - first:
+      213: 8592774371943826464
+    second: sasukeAadulto 3de3_134
+  - first:
+      213: 3414818370895623868
+    second: sasukeAadulto 3de3_135
+  - first:
+      213: 3257238626157149361
+    second: sasukeAadulto 3de3_136
+  - first:
+      213: 3580330651194648158
+    second: sasukeAadulto 3de3_137
+  - first:
+      213: 2827097063076107586
+    second: sasukeAadulto 3de3_138
+  - first:
+      213: 8709460377103464501
+    second: sasukeAadulto 3de3_139
+  - first:
+      213: 4434081251073181906
+    second: sasukeAadulto 3de3_140
+  - first:
+      213: 46986511784747971
+    second: sasukeAadulto 3de3_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1247
+        width: 51
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1facbb3d46e5ae60800000000000000
+      internalID: 7973031934718422810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1246
+        width: 53
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e56e03231db4210800000000000000
+      internalID: 1318377329434975861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1244
+        width: 53
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e47bec367a393d0800000000000000
+      internalID: -3201030863018570185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1240
+        width: 98
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1166f41060400d400800000000000000
+      internalID: 346781595145823761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1242
+        width: 98
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3303c9d449c66050800000000000000
+      internalID: 5793539268207117118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1243
+        width: 107
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9469e814217552320800000000000000
+      internalID: 2532526101386663497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1237
+        width: 99
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1160cc53698d70800000000000000
+      internalID: 9045870576566083250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_9
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1235
+        width: 99
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c77654c88e153bf0800000000000000
+      internalID: -345336223665588284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1233
+        width: 72
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89f2e0c8a4b0b160800000000000000
+      internalID: 7039324854463691146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_15
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1233
+        width: 71
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5393241dacb3f1860800000000000000
+      internalID: 7502781246502746421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_17
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1240
+        width: 37
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4964a79659ae340800000000000000
+      internalID: 4893888225347015902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1198
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 1.0032321, y: 0.41627502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06a477a79b278b0800000000000000
+      internalID: -5155854687747284808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1189
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.9949061, y: 0.4615543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b741c0368a7b560800000000000000
+      internalID: 7329512061926669110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1189
+        width: 56
+        height: 33
+      alignment: 9
+      pivot: {x: 0.9955668, y: 0.5583977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff8164de01bf3400800000000000000
+      internalID: 306157976935305205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1174
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0.98654145, y: 0.70383143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fab9cbabc2c8ddc0800000000000000
+      internalID: -3613924520948548876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1085
+        width: 70
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da90b6677f060ccf0800000000000000
+      internalID: -234080564663350867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1078
+        width: 98
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481104e9a753d9010800000000000000
+      internalID: 1197171876707701124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1080
+        width: 98
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f084a05b8219d8d40800000000000000
+      internalID: 5588282316658722831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_33
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 939
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab20b68171e86680800000000000000
+      internalID: -8761505197342053457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 934
+        width: 58
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d6d3dedb7fb1310800000000000000
+      internalID: 1376966506192923905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 941
+        width: 49
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01e83a943dd31210800000000000000
+      internalID: 1302627935235662094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 899
+        width: 54
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2676ac0a81384d40800000000000000
+      internalID: 5568755408231101996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 899
+        width: 52
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2cb8ebfedb7790800000000000000
+      internalID: -7531180778324217915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 965
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63287eaf355abc490800000000000000
+      internalID: -7724898955713609162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 961
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d348f7eb4baed5b0800000000000000
+      internalID: -5341643765512125479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 953
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05464642490e01810800000000000000
+      internalID: 1734132783407981648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 892
+        width: 57
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0067309939efc00800000000000000
+      internalID: 936348057936986298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 725
+        width: 45
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992cba0ee034c8d50800000000000000
+      internalID: 6740836473444745881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 725
+        width: 51
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efd5c36153d6adc0800000000000000
+      internalID: -3627980103280631837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 728
+        width: 85
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c44480c56a2bcaf0800000000000000
+      internalID: -375159527445347129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 732
+        width: 70
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3922763701fb76660800000000000000
+      internalID: 7379076591846367891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_48
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 783
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4261f8108416aa30800000000000000
+      internalID: 4226087840740631118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_49
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 783
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff603ac9575936f70800000000000000
+      internalID: 9179344797882844927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_50
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 784
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa88de6a3bb8bc4e0800000000000000
+      internalID: -1960319609073727313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_53
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 646
+        width: 30
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdd038c7e019c530800000000000000
+      internalID: 3875647542011157946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_54
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 646
+        width: 28
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ae97ff14fed770800000000000000
+      internalID: 8637609553478723059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_55
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 646
+        width: 26
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c41d8dee602b9c20800000000000000
+      internalID: 3214198419862918336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_56
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 646
+        width: 24
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b03db8bd4519df0800000000000000
+      internalID: -175265608570303609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 646
+        width: 78
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb218f9de7c55360800000000000000
+      internalID: 7157847006172490694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 646
+        width: 64
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbbf8445ca081b40800000000000000
+      internalID: 5411086794660756400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 646
+        width: 70
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7058c0fc7ec88f900800000000000000
+      internalID: 718479067804632327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 646
+        width: 42
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ca1b331686df1b0800000000000000
+      internalID: -5621221993200112620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_62
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 647
+        width: 53
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16d088c66dd0a940800000000000000
+      internalID: 5305483794562733598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_63
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 646
+        width: 42
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9734a42e4680ed6f0800000000000000
+      internalID: -658079266163244167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_65
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 496
+        width: 62
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b109f3aca12b250800000000000000
+      internalID: 5958854712916712214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_66
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 495
+        width: 59
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa6ca978efa30090800000000000000
+      internalID: -8069412694309180680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_67
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 504
+        width: 57
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ed13fdf8c9fa60800000000000000
+      internalID: 7708413230252419512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_68
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 502
+        width: 70
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc0cfb108d4450a0800000000000000
+      internalID: -6893799916976730886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_69
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 499
+        width: 70
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d037fbf325345e70800000000000000
+      internalID: 9102959175490023635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 492
+        width: 54
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd1ea9daf0ac0530800000000000000
+      internalID: 3822607182985043383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_72
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 430
+        width: 39
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92157602531271160800000000000000
+      internalID: 6996097058203980073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_73
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 421
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dfde9fe1b2d82b0800000000000000
+      internalID: -5580756951200039613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 419
+        width: 59
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095f7ea71188b33d0800000000000000
+      internalID: -3225835099422984816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 419
+        width: 64
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19704963cb76d0ea0800000000000000
+      internalID: -5904949478345668719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_76
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 419
+        width: 62
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e9d5c847880120800000000000000
+      internalID: 2380301149692094484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_77
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 419
+        width: 63
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a264c89beacfcaa00800000000000000
+      internalID: 769267463740999210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_78
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 419
+        width: 56
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b210f602fca54cd0800000000000000
+      internalID: -2574461456473910602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_79
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 266
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ea5fc00f4f90650800000000000000
+      internalID: 6199755673898954336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_80
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 266
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502b745004f04570800000000000000
+      internalID: 8449021183201583185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 265
+        width: 33
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b692dcd2b9c3180800000000000000
+      internalID: -9134255323196331217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_82
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 266
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabe315ce2a2c50d0800000000000000
+      internalID: -3432822435599881302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_83
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 266
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449dcdef9fbc69ff0800000000000000
+      internalID: -29612072948147900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_84
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 268
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3bb40cf2a696650800000000000000
+      internalID: 6226624713138615217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_85
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 270
+        width: 57
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e8184ab5764e650800000000000000
+      internalID: 6261243025251470921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_86
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 270
+        width: 46
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c8f8b9f37203710800000000000000
+      internalID: 1670878615900752955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_87
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 282
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7fef12b96ab8730800000000000000
+      internalID: 4002475879069317065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_89
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 267
+        width: 54
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734eccac41bc7af40800000000000000
+      internalID: 5739779540269196343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_90
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 271
+        width: 57
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94c4b7f37532580800000000000000
+      internalID: -8853136512317109767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_91
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 271
+        width: 57
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8388401f43608d0800000000000000
+      internalID: -2880556701889054519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_92
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 271
+        width: 59
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30475aa68cc54d2f0800000000000000
+      internalID: -949031605615889405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_93
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 271
+        width: 53
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386058c9b9c1d5a40800000000000000
+      internalID: 5358470586312230531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_102
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 271
+        width: 43
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6f51ba840c059e0800000000000000
+      internalID: -1634595246394968383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_103
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 271
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d51c93e7ed58d0800000000000000
+      internalID: -2855871623920756991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_106
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 217
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1aca3dc98816110800000000000000
+      internalID: 1252432378533290413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_107
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 219
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7245cf625a88596e0800000000000000
+      internalID: -1831407430551186393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 227
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd16903e0fb7d3d0800000000000000
+      internalID: -3181864544048374342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_109
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 228
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49912a12d84c94ad0800000000000000
+      internalID: -2717424789707679340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_110
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 228
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08df74e09ea39bd0800000000000000
+      internalID: -2624562220494759921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_111
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 228
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f758cf0a4d53a00800000000000000
+      internalID: 735727902041407274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_112
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 228
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7000f4cff9d26b6d0800000000000000
+      internalID: -2975140338675548153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_113
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 228
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cc1fec8a6244790800000000000000
+      internalID: -7546864569097794489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_115
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 220
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d169a40843b8ac70800000000000000
+      internalID: 8982626578687680985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_116
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 214
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a83277712fa3a50800000000000000
+      internalID: 6501775194659719721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_123
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 85
+        width: 55
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00abffa78a88beb0800000000000000
+      internalID: -4703857495410761718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_124
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 87
+        width: 58
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327fbf3a8bb5cf8a0800000000000000
+      internalID: -6270035732623263965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_126
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 86
+        width: 83
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa6fcfd6e5d392a0800000000000000
+      internalID: -6731801830414652687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_127
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 83
+        width: 86
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecb3cd45580ed180800000000000000
+      internalID: -9088817835517166368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_128
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 84
+        width: 76
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa1c0c183186f920800000000000000
+      internalID: 3023746277814573812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_129
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 79
+        width: 82
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3458585b2181f7f0800000000000000
+      internalID: -580540853788322755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_130
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 76
+        width: 85
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139b0eb29782c8ef0800000000000000
+      internalID: -104664190444062415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_131
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 82
+        width: 75
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604cfaeab885ad550800000000000000
+      internalID: 6186354395101250566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_133
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 24
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1769474d4715d3f30800000000000000
+      internalID: 4556887960191276657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_134
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 23
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024cacac3caaf3770800000000000000
+      internalID: 8592774371943826464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_135
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 23
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb636b1473fd36f20800000000000000
+      internalID: 3414818370895623868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_136
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 27
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc37ccd549043d20800000000000000
+      internalID: 3257238626157149361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_137
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 34
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5666e202c3efa130800000000000000
+      internalID: 3580330651194648158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_138
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 34
+        width: 29
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245933edccddb3720800000000000000
+      internalID: 2827097063076107586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_139
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 22
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538779a71183ed870800000000000000
+      internalID: 8709460377103464501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_140
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 22
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8cf63b765098d30800000000000000
+      internalID: 4434081251073181906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sasukeAadulto 3de3_141
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 23
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c32a28cbfde6a000800000000000000
+      internalID: 46986511784747971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
