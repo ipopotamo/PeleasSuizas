@@ -16,6 +16,7 @@ TagManager:
   - Ronda2PJ2
   - CartelVictoria
   - TpEnemigo2
+  - IA
   layers:
   - Default
   - TransparentFX
