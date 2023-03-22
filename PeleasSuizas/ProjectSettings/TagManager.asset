@@ -3,20 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - VidaPJ1
-  - EnergiaPJ1
-  - VidaPJ2
-  - EnergiaPJ2
-  - Jugador2
-  - Jugador1
-  - Ronda1PJ1
-  - Ronda1PJ2
-  - Ronda2PJ1
-  - Ronda2PJ2
-  - CartelVictoria
-  - TpEnemigo2
-  - HabilidadPJ1
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -24,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - piso
+  - 
   - 
   - 
   - 

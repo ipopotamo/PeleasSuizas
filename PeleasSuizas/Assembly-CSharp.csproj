@@ -53,9 +53,9 @@
      <Compile Include="Assets\Scripts\SelectorScript\InicioJugador1.cs" />
      <Compile Include="Assets\Scripts\comboPJ2.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\InicioJugador2.cs" />
+     <Compile Include="Assets\Scripts\AtaqueCortaDistancia.cs" />
      <Compile Include="Assets\Scripts\CRonrdas.cs" />
      <Compile Include="Assets\Scripts\Movimiento2.cs" />
-     <Compile Include="Assets\Scripts\AtaqueCortaDistancia.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
