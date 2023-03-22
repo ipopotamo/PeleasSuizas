@@ -16,6 +16,7 @@ TagManager:
   - Ronda2PJ2
   - CartelVictoria
   - TpEnemigo2
+  - HabilidadPJ1
   layers:
   - Default
   - TransparentFX

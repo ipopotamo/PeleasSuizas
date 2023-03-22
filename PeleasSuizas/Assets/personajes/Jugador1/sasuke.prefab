@@ -215,13 +215,13 @@ GameObject:
   - component: {fileID: 6997755825521393282}
   - component: {fileID: 6997755825521393285}
   - component: {fileID: 6997755825521393284}
-  - component: {fileID: 6997755825521393287}
   - component: {fileID: 6997755825521393286}
   - component: {fileID: 6997755825521393289}
   - component: {fileID: 6997755825521393288}
   - component: {fileID: 6997755825521393280}
   - component: {fileID: 6997755825521393283}
   - component: {fileID: 6997755825521393281}
+  - component: {fileID: 5317161574064340402}
   m_Layer: 0
   m_Name: sasuke
   m_TagString: Jugador1
@@ -312,29 +312,6 @@ MonoBehaviour:
   vida: 200
   defe: 20
   slider: {fileID: 0}
---- !u!114 &6997755825521393287
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6997755825521393291}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c45f9c52d05ed1c44952deefa2e5fb3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  control: {fileID: 6997755824662453164}
-  radioAtaque: 0.5
-  Dano: 10
-  anim: {fileID: 0}
-  combo: 0
-  atacando: 0
-  audio_s: {fileID: 0}
-  sonido:
-  - {fileID: 8300000, guid: 378facc5d7c4dce499fb3f6885fa6176, type: 3}
-  - {fileID: 8300000, guid: d3622ec3313fc014ea0d228e7e2268e0, type: 3}
-  - {fileID: 8300000, guid: 257218746de98244098520c94a35c329, type: 3}
 --- !u!114 &6997755825521393286
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -531,10 +508,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2b582de298103949b8d810749d74cf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  danio: 100
+  danio_habilidad: 0
   control: {fileID: 6997755824662453164}
   Energia: {fileID: 0}
   EnergiaNecesaria: 25
+  XMetros: 0
+  tiempoEntreAtaques: 0
+  tiempoSiguienteAtaque: 0
+--- !u!114 &5317161574064340402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6997755825521393291}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45f9c52d05ed1c44952deefa2e5fb3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  control: {fileID: 6997755824662453164}
+  radioAtaque: 0.5
+  Dano: 10
+  anim: {fileID: 0}
+  combo: 0
+  atacando: 0
+  audio_s: {fileID: 0}
+  sonido: []
+  tiempoEntreAtaques: 1.5
+  tiempoSiguienteAtaque: 0
 --- !u!1 &6997755825546433100
 GameObject:
   m_ObjectHideFlags: 0

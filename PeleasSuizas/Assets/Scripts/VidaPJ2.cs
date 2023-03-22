@@ -11,6 +11,7 @@ public class VidaPJ2 : MonoBehaviour
     private Slider slider;
     private Animator anim;
     private Movimiento2 movi;
+    private float daniio_H;
 
     private VidaPJ1 LavidaDelOtro;
     // Start is called before the first frame update
@@ -61,7 +62,6 @@ public class VidaPJ2 : MonoBehaviour
     {
          if(Input.GetKey("p") && !Input.GetKey("i"))
         {
-            
             dano  = dano - defe;
             vida -= dano;           
         }
@@ -77,6 +77,18 @@ public class VidaPJ2 : MonoBehaviour
             anim.SetTrigger("Muerto");
             movi.velocidadDeMovimiento = 0;
             //Debug.Log("Gana el jugador 1");
+        }
+    }
+
+    public void TomarHabilidad2(float danio_habilidad){
+        daniio_H = danio_habilidad;
+    }
+
+
+    private void OnTriggerEnter2D(Collider2D collision) {
+        if (collision.CompareTag("HabilidadPJ1") ){
+            vida -= daniio_H;
+            anim.SetTrigger("LePegan");
         }
     }
 }

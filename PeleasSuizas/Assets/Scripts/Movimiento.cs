@@ -18,14 +18,17 @@ public class Movimiento : MonoBehaviour
     private Vector2 movi;
     private Vector3 velocidad = Vector3.zero;
     private bool MirandoDerecha = true;
-
+    public bool MIRANDODERECHA {get => MirandoDerecha; set => MirandoDerecha = value; }
     
     [SerializeField] public float Fsalto; 
     [SerializeField] private LayerMask EnSuelo;
     [SerializeField] private Transform controladorS; 
     [SerializeField] private Vector3 dimensioncaja;
     [SerializeField] private bool eSuelo; 
+    public bool ENSUELO {get => eSuelo; set => eSuelo = value; }
     private bool salto = false;
+
+    
 
     void Start()
     {
@@ -37,7 +40,8 @@ public class Movimiento : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {   
+        
        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
         if(vidaUwU.vida > 0 && LavidaDelOtro.vida > 0){
          if(Input.GetKey("a"))
@@ -71,11 +75,11 @@ public class Movimiento : MonoBehaviour
        eSuelo = Physics2D.OverlapBox(controladorS.position,dimensioncaja,0f,EnSuelo);
         //PlayerAnimator.SetBool("saltando", salto);
         Mover(MovX * Time.fixedDeltaTime, salto);
-       salto = false;
+        salto = false;
           
     }
 
-    private void Mover(float m, bool saltar)
+    public void Mover(float m, bool saltar)
     {
         Vector3 velocidadObjetivo = new Vector2(m, RB2D.velocity.y);
         RB2D.velocity = Vector3.SmoothDamp(RB2D.velocity, velocidadObjetivo, ref velocidad ,SuavisadoMovimiento);

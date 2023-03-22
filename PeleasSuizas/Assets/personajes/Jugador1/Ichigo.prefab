@@ -205,6 +205,8 @@ MonoBehaviour:
   atacando: 0
   audio_s: {fileID: 0}
   sonido: []
+  tiempoEntreAtaques: 1.5
+  tiempoSiguienteAtaque: 0
 --- !u!114 &7359103408967863708
 MonoBehaviour:
   m_ObjectHideFlags: 0

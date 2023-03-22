@@ -317,7 +317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 752593ce3ec74434bb430c0673424ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vida: 100
+  vida: 200
   defe: 5
   slider: {fileID: 0}
 --- !u!114 &9032844724477571086
@@ -343,6 +343,8 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 378facc5d7c4dce499fb3f6885fa6176, type: 3}
   - {fileID: 8300000, guid: d3622ec3313fc014ea0d228e7e2268e0, type: 3}
   - {fileID: 8300000, guid: 257218746de98244098520c94a35c329, type: 3}
+  tiempoEntreAtaques: 1.5
+  tiempoSiguienteAtaque: 0
 --- !u!1 &8799820560645328992
 GameObject:
   m_ObjectHideFlags: 0

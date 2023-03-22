@@ -20,8 +20,12 @@ public class Combo : MonoBehaviour
     public AudioSource audio_s;
     public AudioClip[] sonido;
     
+    //[SerializeField] private float tiempoEntreAtaques;
+    //[SerializeField] private float tiempoSiguienteAtaque;
+
     void Start()
     {
+        
         Mivida = GetComponent<VidaPJ1>();
         //moviminto = GetComponent<Moviminto>();
         anim = GetComponent<Animator>();
@@ -55,6 +59,7 @@ public class Combo : MonoBehaviour
         }
     }
 
+    
 
 
     public void EMPEZAR_COMBO() {
@@ -73,7 +78,7 @@ public class Combo : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        atacando = false;
         Combos();
         if (Mivida.vida <= 100){
             puedeTransformarse = true;
