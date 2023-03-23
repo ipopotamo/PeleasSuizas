@@ -10,11 +10,9 @@ TagManager:
   - VidaPJ2
   - EnergiaPJ2
   - EnergiaPJ1
-  - Ronda1PJ1
-  - Ronda1PJ2
-  - Ronda2PJ2
   - Jugador1
   - Jugador2
+  - HabilidadPJ1
   layers:
   - Default
   - TransparentFX

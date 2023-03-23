@@ -24,8 +24,9 @@ public class Movimiento2 : MonoBehaviour
     [SerializeField] private float SuavisadoMovimiento;
     private Vector2 movi;
     private Vector3 velocidad = Vector3.zero;
-    private bool MirandoDerecha = true;public bool MIRANDODERECHA {get => MirandoDerecha; set => MirandoDerecha = value; }
-    
+    private bool MirandoDerecha = true;
+    public bool MIRANDODERECHA {get => MirandoDerecha; set => MirandoDerecha = value; }
+    public bool PuedeMoverse = true;
 
     void Start()
     {
@@ -39,7 +40,7 @@ public class Movimiento2 : MonoBehaviour
     void Update()
     {
        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
-        if(vidaUwU.vida > 0 && LavidaDelOtro.vida > 0){
+        if(vidaUwU.vida > 0 && LavidaDelOtro.vida > 0 && PuedeMoverse == true){
           if(Input.GetKey("left"))
           {
             MovX = -1*velocidadDeMovimiento;            
@@ -90,6 +91,14 @@ public class Movimiento2 : MonoBehaviour
             eSuelo = false;
             RB2D.AddForce(new Vector2(0f,Fsalto));
         }
+    }
+
+    private void NoMoverse(){
+      PuedeMoverse = false;
+    }
+
+    private void VolverAMoverse(){
+      PuedeMoverse = true;
     }
 
     private void Girar() {

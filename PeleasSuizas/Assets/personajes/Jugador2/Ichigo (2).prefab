@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 4334265522936090636}
   - component: {fileID: 3767924981508027682}
   - component: {fileID: 2309894818958038372}
+  - component: {fileID: 6628941592051093134}
   m_Layer: 0
   m_Name: Ichigo (2)
   m_TagString: Jugador2
@@ -301,7 +302,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vidaUwU: {fileID: 0}
-  Fsalto: 400
+  Fsalto: 300
   EnSuelo:
     serializedVersion: 2
     m_Bits: 8
@@ -310,6 +311,25 @@ MonoBehaviour:
   eSuelo: 0
   velocidadDeMovimiento: 400
   SuavisadoMovimiento: 0
+  PuedeMoverse: 1
+--- !u!114 &6628941592051093134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7813568300532225817}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b86083b2c6fd144883d53d8e018cf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AtaqueDespertar: {fileID: 6654378598822984533, guid: ae000b16fac64984f9f4c312f63a24b7, type: 3}
+  AtaqueBase: {fileID: 4031179666172242237, guid: 0e0943c06a5c8f84a91336da36f8865b, type: 3}
+  tiempoEntreAtaques: 10
+  tiempoSiguienteAtaque: 0
+  TiempoDeVida: 1
+  EnergiaNecearia: 25
 --- !u!1 &7813568301014559974
 GameObject:
   m_ObjectHideFlags: 0

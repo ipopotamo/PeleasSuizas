@@ -11,17 +11,16 @@ public class comboPJ2 : MonoBehaviour
     private bool puedeTransformarse = false;
     private bool transformado = false;
 
+    public bool TRANSFORMADOO{get => transformado; set => transformado = value;}
+
     private VidaPJ2 Mivida;
 
     public Animator anim;
     public int combo;
-   // [SerializeField] public Movimiento moviminto;
+
     public bool atacando;
     public AudioSource audio_s;
     public AudioClip[] sonido;
-
-    //[SerializeField] private float tiempoEntreAtaques;
-    //[SerializeField] private float tiempoSiguienteAtaque;
 
     private void Golpe()
     {
