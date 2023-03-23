@@ -330,7 +330,7 @@ MonoBehaviour:
   Fsalto: 300
   EnSuelo:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 8
   controladorS: {fileID: 6997755825546433101}
   dimensioncaja: {x: 1, y: 0.5, z: 0}
   eSuelo: 0
@@ -508,12 +508,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2b582de298103949b8d810749d74cf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  danio_habilidad: 0
+  danio_habilidad: 5.5
   control: {fileID: 6997755824662453164}
   Energia: {fileID: 0}
   EnergiaNecesaria: 25
-  XMetros: 0
-  tiempoEntreAtaques: 0
+  XMetros: 30
+  tiempoEntreAtaques: 10
   tiempoSiguienteAtaque: 0
 --- !u!114 &5317161574064340402
 MonoBehaviour:
@@ -535,8 +535,6 @@ MonoBehaviour:
   atacando: 0
   audio_s: {fileID: 0}
   sonido: []
-  tiempoEntreAtaques: 1.5
-  tiempoSiguienteAtaque: 0
 --- !u!1 &6997755825546433100
 GameObject:
   m_ObjectHideFlags: 0

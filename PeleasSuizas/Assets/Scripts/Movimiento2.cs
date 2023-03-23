@@ -6,23 +6,25 @@ public class Movimiento2 : MonoBehaviour
 {
     private Animator PlayerAnimator;
     private Rigidbody2D RB2D;
+    
     private float MovX = 0;
 
     private VidaPJ1 LavidaDelOtro;
-
     public VidaPJ2 vidaUwU;
+    
     [SerializeField] public float Fsalto; 
-    [SerializeField] private LayerMask EnSuelo;
+    [SerializeField] public LayerMask EnSuelo;
     [SerializeField] private Transform controladorS; 
     [SerializeField] private Vector3 dimensioncaja;
     [SerializeField] private bool eSuelo; 
+    public bool ENSUELO {get => eSuelo; set => eSuelo = value; }
     private bool salto = false;
     
     [SerializeField] public float velocidadDeMovimiento;
     [SerializeField] private float SuavisadoMovimiento;
     private Vector2 movi;
     private Vector3 velocidad = Vector3.zero;
-    private bool MirandoDerecha = true;
+    private bool MirandoDerecha = true;public bool MIRANDODERECHA {get => MirandoDerecha; set => MirandoDerecha = value; }
     
 
     void Start()
@@ -50,10 +52,11 @@ public class Movimiento2 : MonoBehaviour
           {
             MovX = 1*velocidadDeMovimiento;           
           }
+          
           if(Input.GetKeyDown(KeyCode.UpArrow) && eSuelo && vidaUwU.vida > 0)
           {
-          PlayerAnimator.SetTrigger("saltando");  
-          salto = true;        
+            PlayerAnimator.SetTrigger("saltando");  
+            salto = true;        
           }
           
         }
@@ -71,7 +74,7 @@ public class Movimiento2 : MonoBehaviour
           
     }
 
-    private void Mover(float m, bool saltar)
+    public void Mover(float m, bool saltar)
     {
         Vector3 velocidadObjetivo = new Vector2(m, RB2D.velocity.y);
         RB2D.velocity = Vector3.SmoothDamp(RB2D.velocity, velocidadObjetivo, ref velocidad ,SuavisadoMovimiento);
@@ -84,7 +87,6 @@ public class Movimiento2 : MonoBehaviour
         }
         if(eSuelo && saltar)
         {
-            
             eSuelo = false;
             RB2D.AddForce(new Vector2(0f,Fsalto));
         }

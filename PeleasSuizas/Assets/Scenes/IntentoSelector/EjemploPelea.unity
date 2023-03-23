@@ -320,7 +320,7 @@ GameObject:
   - component: {fileID: 179610598}
   - component: {fileID: 179610597}
   - component: {fileID: 179610596}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: piso
   m_TagString: Untagged
   m_Icon: {fileID: 0}

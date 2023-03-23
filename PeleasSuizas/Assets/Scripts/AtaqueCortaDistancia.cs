@@ -27,11 +27,11 @@ public class AtaqueCortaDistancia : MonoBehaviour
     void Start()
     {
         movim = GetComponent<Movimiento>();
-        Energia = GameObject.FindGameObjectWithTag("EnergiaPJ1").GetComponent<Slider>();
+        
         combo = GetComponent<Combo>();
         anim = GetComponent<Animator>();
         Mivida = GetComponent<VidaPJ1>();
-
+        Energia = GameObject.FindGameObjectWithTag("EnergiaPJ1").GetComponent<Slider>();
         Energia.value = Energia.maxValue;
 
         
@@ -51,6 +51,7 @@ public class AtaqueCortaDistancia : MonoBehaviour
 
     void Update()
     {
+        Energia = GameObject.FindGameObjectWithTag("EnergiaPJ1").GetComponent<Slider>();
         if (tiempoSiguienteAtaque>0)
         {
             tiempoSiguienteAtaque -= Time.deltaTime;

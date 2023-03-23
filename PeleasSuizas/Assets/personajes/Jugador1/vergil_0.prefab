@@ -186,7 +186,7 @@ MonoBehaviour:
   Fsalto: 300
   EnSuelo:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 8
   controladorS: {fileID: 1525746670674737748}
   dimensioncaja: {x: 1, y: 0.5, z: 0}
   eSuelo: 0
@@ -232,8 +232,6 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 378facc5d7c4dce499fb3f6885fa6176, type: 3}
   - {fileID: 8300000, guid: d3622ec3313fc014ea0d228e7e2268e0, type: 3}
   - {fileID: 8300000, guid: 257218746de98244098520c94a35c329, type: 3}
-  tiempoEntreAtaques: 1.5
-  tiempoSiguienteAtaque: 0
 --- !u!82 &1525746670442899629
 AudioSource:
   m_ObjectHideFlags: 0

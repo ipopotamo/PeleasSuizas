@@ -33,8 +33,7 @@ public class Movimiento : MonoBehaviour
     void Start()
     {
         RB2D = GetComponent<Rigidbody2D>();
-        PlayerAnimator = GetComponent<Animator>();
-        
+        PlayerAnimator = GetComponent<Animator>();  
         vidaUwU = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
     }
 

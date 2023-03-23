@@ -205,8 +205,6 @@ MonoBehaviour:
   atacando: 0
   audio_s: {fileID: 0}
   sonido: []
-  tiempoEntreAtaques: 1.5
-  tiempoSiguienteAtaque: 0
 --- !u!114 &7359103408967863708
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -225,7 +223,7 @@ MonoBehaviour:
   Fsalto: 300
   EnSuelo:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 8
   controladorS: {fileID: 7359103407604263604}
   dimensioncaja: {x: 1, y: 0.4, z: 0}
   eSuelo: 0

@@ -5,7 +5,7 @@ using UnityEngine;
 public class comboPJ2 : MonoBehaviour
 {
     [SerializeField] private Transform control;
-    [SerializeField] private float radioAtaque;
+    [SerializeField] public float radioAtaque;
     [SerializeField] private float Dano;
 
     private bool puedeTransformarse = false;
@@ -19,6 +19,9 @@ public class comboPJ2 : MonoBehaviour
     public bool atacando;
     public AudioSource audio_s;
     public AudioClip[] sonido;
+
+    //[SerializeField] private float tiempoEntreAtaques;
+    //[SerializeField] private float tiempoSiguienteAtaque;
 
     private void Golpe()
     {

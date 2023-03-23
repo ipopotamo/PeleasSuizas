@@ -306,7 +306,7 @@ MonoBehaviour:
   Fsalto: 300
   EnSuelo:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 8
   controladorS: {fileID: 2355687464241421480}
   dimensioncaja: {x: 1, y: 0.5, z: 0}
   eSuelo: 0

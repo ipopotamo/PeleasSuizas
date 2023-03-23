@@ -3,12 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CartelVictoria
+  - Ronda2PJ1
+  - VidaPJ1
+  - VidaPJ2
+  - EnergiaPJ2
+  - EnergiaPJ1
+  - Ronda1PJ1
+  - Ronda1PJ2
+  - Ronda2PJ2
+  - Jugador1
+  - Jugador2
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - piso
   - Water
   - UI
   - 

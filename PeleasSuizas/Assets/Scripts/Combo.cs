@@ -59,9 +59,6 @@ public class Combo : MonoBehaviour
         }
     }
 
-    
-
-
     public void EMPEZAR_COMBO() {
         //moviminto.velocidadDeMovimiento = 0;
         atacando = false;
