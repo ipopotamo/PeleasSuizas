@@ -13,6 +13,10 @@ TagManager:
   - Jugador1
   - Jugador2
   - HabilidadPJ1
+  - Ronda2PJ2
+  - Ronda1PJ2
+  - Ronda1PJ1
+  - IA
   layers:
   - Default
   - TransparentFX
@@ -20,7 +24,7 @@ TagManager:
   - piso
   - Water
   - UI
-  - 
+  - Jugador
   - 
   - 
   - 
