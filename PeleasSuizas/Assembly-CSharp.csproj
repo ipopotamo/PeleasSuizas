@@ -46,6 +46,7 @@
      <Compile Include="Assets\ScripstsMCharacter\GameManager.cs" />
      <Compile Include="Assets\ScripstsMCharacter\CHARACTER.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\Personaje.cs" />
+     <Compile Include="Assets\Scripts\testeosNacho\ComboPJ01.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\GameMMMMANAGER.cs" />
      <Compile Include="Assets\ScripstsMCharacter\MSO2.cs" />
      <Compile Include="Assets\Scripts\VidaPJ2.cs" />
@@ -53,12 +54,14 @@
      <Compile Include="Assets\ScripstsMCharacter\Iniciopeleita.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\InicioJugador1.cs" />
      <Compile Include="Assets\Scripts\comboPJ2.cs" />
+     <Compile Include="Assets\InstanciarAtaqueDistancia.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\InicioJugador2.cs" />
      <Compile Include="Assets\Scripts\AtaqueCortaDistancia.cs" />
      <Compile Include="Assets\Scripts\CRonrdas.cs" />
-     <Compile Include="Assets\Scripts\Movimiento2.cs" />
      <Compile Include="Assets\AtaqueLargaDistancia.cs" />
-     <Compile Include="Assets\InstanciarAtaqueDistancia.cs" />
+     <Compile Include="Assets\Scripts\Movimiento2.cs" />
+     <Compile Include="Assets\Scripts\testeosNacho\Ataqueadistancia.cs" />
+     <Compile Include="Assets\Scripts\testeosNacho\VidaIa.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
@@ -648,100 +651,100 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.32f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.001">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="PsdPlugin">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\PsdPlugin.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\PsdPlugin.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.IK.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Psdimporter.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Path.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.001">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.IK.Runtime">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Triangle.Runtime">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Runtime">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Editor">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
-        <HintPath>C:\Users\Octavio\Desktop\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
+        <HintPath>C:\Users\ignac\OneDrive\Escritorio\PeleasSuizas\PeleasSuizas\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
