@@ -752,6 +752,9 @@ TextureImporter:
   - first:
       213: -626356056089049423
     second: goku ssBlueR_3
+  - first:
+      213: -2411491476578094482
+    second: goku ssBlueR_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -3129,7 +3132,7 @@ TextureImporter:
         width: 346
         height: 322
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3137,6 +3140,27 @@ TextureImporter:
       bones: []
       spriteID: 1b6c5ed4c7cbe47f0800000000000000
       internalID: -626356056089049423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku ssBlueR_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 425
+        width: 27
+        height: 49
+      alignment: 9
+      pivot: {x: 0.0017948857, y: -0.0028186375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623ea75749a88ed0800000000000000
+      internalID: -2411491476578094482
       vertices: []
       indices: 
       edges: []

@@ -77,6 +77,7 @@ GameObject:
   - component: {fileID: 7359103408967863709}
   - component: {fileID: 7359103408967863706}
   - component: {fileID: 7359103408967863707}
+  - component: {fileID: 2837355785991657122}
   m_Layer: 0
   m_Name: Ichigo
   m_TagString: Jugador1
@@ -370,3 +371,21 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &2837355785991657122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7359103408967863704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a363ca9f3c90467458ab6e5f72e00b95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AtaqueDespertar: {fileID: 882392958038477136, guid: 36e3c6d63aa87234f9d5d8c91fc57869, type: 3}
+  AtaqueBase: {fileID: 9193895906872482665, guid: 85a2629c176d1e649ad0108f20dcae46, type: 3}
+  tiempoEntreAtaques: 10
+  tiempoSiguienteAtaque: 0
+  TiempoDeVida: 1
+  EnergiaNecearia: 25

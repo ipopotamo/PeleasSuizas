@@ -27,6 +27,7 @@ public class Movimiento : MonoBehaviour
     [SerializeField] private bool eSuelo; 
     public bool ENSUELO {get => eSuelo; set => eSuelo = value; }
     private bool salto = false;
+    public bool PuedeMoverse = true;
 
     
 
@@ -42,7 +43,7 @@ public class Movimiento : MonoBehaviour
     {   
         
        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
-        if(vidaUwU.vida > 0 && LavidaDelOtro.vida > 0){
+        if(vidaUwU.vida > 0 && LavidaDelOtro.vida > 0 && PuedeMoverse == true){
          if(Input.GetKey("a"))
         {
             MovX = -1 * velocidadDeMovimiento;            
@@ -94,6 +95,14 @@ public class Movimiento : MonoBehaviour
             eSuelo = false;
             RB2D.AddForce(new Vector2(0f,Fsalto));
         }
+    }
+
+    private void NoMoverse(){
+      PuedeMoverse = false;
+    }
+
+    private void VolverAMoverse(){
+      PuedeMoverse = true;
     }
 
     private void Salto()

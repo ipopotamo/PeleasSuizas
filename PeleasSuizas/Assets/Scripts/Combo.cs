@@ -11,6 +11,8 @@ public class Combo : MonoBehaviour
     private bool puedeTransformarse = false;
     private bool transformado = false;
 
+    public bool TRANSFORMADOO{get => transformado; set => transformado = value;}
+
     private VidaPJ1 Mivida;
 
     public Animator anim;
