@@ -77,6 +77,7 @@ GameObject:
   - component: {fileID: 718599539925834567}
   - component: {fileID: 9027537287763959437}
   - component: {fileID: 2244637589452795582}
+  - component: {fileID: -5432884998628664503}
   m_Layer: 0
   m_Name: vergil_02
   m_TagString: Jugador2
@@ -335,6 +336,7 @@ MonoBehaviour:
   eSuelo: 0
   velocidadDeMovimiento: 400
   SuavisadoMovimiento: 0
+  PuedeMoverse: 1
 --- !u!114 &9027537287763959437
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -370,3 +372,22 @@ MonoBehaviour:
   audio_s: {fileID: 5204307823108381727}
   sonido:
   - {fileID: 8300000, guid: d3622ec3313fc014ea0d228e7e2268e0, type: 3}
+--- !u!114 &-5432884998628664503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5204307823108381798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d18ae1c7b9e95499818861af35384b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  danio_habilidad: 60
+  control: {fileID: 5204307822728161712}
+  Energia: {fileID: 0}
+  EnergiaNecesaria: 30
+  XMetros: 100
+  tiempoEntreAtaques: 20
+  tiempoSiguienteAtaque: 0

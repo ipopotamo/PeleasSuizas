@@ -79,7 +79,9 @@ public class AtaqueCortaDistancia : MonoBehaviour
         }
     }
 
-
+    private void MoverAHORA(){
+        DondeIr();
+    }
     public void SuperAtaque(){
         if (Input.GetKeyDown(KeyCode.X) && combo.atacando == false && Mivida.vida > 0 && Energia.value >= EnergiaNecesaria && movim.ENSUELO == true && tiempoSiguienteAtaque <= 0){
             tiempoSiguienteAtaque = tiempoEntreAtaques;
@@ -87,7 +89,7 @@ public class AtaqueCortaDistancia : MonoBehaviour
             anim.SetTrigger("SuperAtaque");
             //Ataque();
             Avanza = true;
-            DondeIr();
+            //DondeIr();
             combo.atacando = true;
         }
     }
