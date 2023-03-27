@@ -9,7 +9,7 @@ public class Movimiento : MonoBehaviour
 
     private float MovX;
 
-    public VidaPJ1 vidaUwU;
+    public  VidaPJ1 vidaUwU;
     private VidaPJ2 LavidaDelOtro;
 
 
@@ -42,16 +42,13 @@ public class Movimiento : MonoBehaviour
     void Update()
     {   
         
-       LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
+        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
         if(vidaUwU.vida > 0 && LavidaDelOtro.vida > 0 && PuedeMoverse == true){
          if(Input.GetKey("a"))
         {
             MovX = -1 * velocidadDeMovimiento;            
         }
-        if(!Input.GetKey("a"))
-        {
-            MovX = 0 * velocidadDeMovimiento; 
-        }
+      
         if(Input.GetKey("d"))
         {
             MovX = 1 * velocidadDeMovimiento;           

@@ -8,7 +8,7 @@ public class MovimientoIA : MonoBehaviour
 
    
 
-    [SerializeField] private float movi;
+    [SerializeField] public float movi;
 
     [SerializeField] private float tiempoSiguienteAtaque;
     [SerializeField] private float tiempoEntreAtaques;

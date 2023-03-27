@@ -5,33 +5,32 @@ using UnityEngine.UI;
 
 public class VidaIa : MonoBehaviour
 {
-    [SerializeField]public float vida;
+    [SerializeField] public float vida;
     [SerializeField] public float defe;
     private Slider slider;
     private Animator anim;
-    private Movimiento2 movi;
+    private MovimientoIA movi;
     private float daniio_H;
 
-    private VidaPJ1 LavidaDelOtro;
+    private VidaPJ1IA LavidaDelOtro;
     // Start is called before the first frame update
     void Start()
     {
 
         vida = 200;
-        movi = GetComponent<Movimiento2>();
+        movi = GetComponent<MovimientoIA>();
         slider = GameObject.FindGameObjectWithTag("VidaPJ2").GetComponent<Slider>();
         slider.value = vida;
         anim = GetComponent<Animator>();
-
         
     }
 
     // Update is called once per frame
     void Update()
     {
-        slider.value = vida;
-        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
-        slider.value = vida;
+        slider.value  = vida;
+        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1IA>();
+        slider.value  = vida;
             if (vida > 0 && LavidaDelOtro.vida > 0)
             {
                 if (Input.GetKey("p"))
@@ -74,7 +73,7 @@ public class VidaIa : MonoBehaviour
         if (vida <= 0)
         {
             anim.SetTrigger("Muerto");
-            movi.velocidadDeMovimiento = 0;
+            movi.movi = 0;
             //Debug.Log("Gana el jugador 1");
         }
     }
