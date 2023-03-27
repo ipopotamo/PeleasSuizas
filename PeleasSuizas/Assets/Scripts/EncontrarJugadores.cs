@@ -16,10 +16,10 @@ public class EncontrarJugadores : MonoBehaviour
 
         Jugador1 = GameObject.FindGameObjectWithTag("Jugador1");
         Jugador2 = GameObject.FindGameObjectWithTag("Jugador2");
-        IA = GameObject.FindGameObjectWithTag("IA");
+        
 
         grupo.AddMember(Jugador1.transform,1,2);
-        grupo.AddMember(IA.transform,1,2);
+        
         grupo.AddMember(Jugador2.transform,1,2);
     }
 

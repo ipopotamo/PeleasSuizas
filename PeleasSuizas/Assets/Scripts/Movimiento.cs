@@ -48,7 +48,10 @@ public class Movimiento : MonoBehaviour
         {
             MovX = -1 * velocidadDeMovimiento;            
         }
-      
+            if(!Input.GetKey("a"))    
+            {
+                MovX = 0*velocidadDeMovimiento; 
+            }
         if(Input.GetKey("d"))
         {
             MovX = 1 * velocidadDeMovimiento;           
