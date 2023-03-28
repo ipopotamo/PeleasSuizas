@@ -21,8 +21,11 @@ EditorBuildSettings:
     path: Assets/Scenes/PELEAEJEMPLO.unity
     guid: dcecd8d8c7f363a4495fd2d6fbd1d14a
   - enabled: 1
-    path: Assets/Scenes/SelecterCharacter.unity
-    guid: 37fb2479c22b3504fa9426f288779abf
+    path: Assets/Scenes/PruebadeIA.unity
+    guid: 82893819009b2b74d8c2d9029e3f9bd0
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/IntentoSelector/Seletor.unity
     guid: 82a5ac555f267f347a352f58a8c20968
