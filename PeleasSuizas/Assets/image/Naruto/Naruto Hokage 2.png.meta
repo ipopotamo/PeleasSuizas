@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: 5f20ef7c84982ff4ab5ce91a01826ba7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2984999148261163629
+    second: Naruto Hokage 2_0
+  - first:
+      213: 1944336834932667373
+    second: Naruto Hokage 2_1
+  - first:
+      213: 2483679774381415667
+    second: Naruto Hokage 2_2
+  - first:
+      213: -5473555895508309621
+    second: Naruto Hokage 2_3
+  - first:
+      213: -1987892021311208229
+    second: Naruto Hokage 2_4
+  - first:
+      213: -7799787114738798449
+    second: Naruto Hokage 2_5
+  - first:
+      213: 5208056844548130523
+    second: Naruto Hokage 2_6
+  - first:
+      213: -4185266118205187956
+    second: Naruto Hokage 2_7
+  - first:
+      213: 837367380489694372
+    second: Naruto Hokage 2_8
+  - first:
+      213: 3766855143465792465
+    second: Naruto Hokage 2_9
+  - first:
+      213: 4981052284537121234
+    second: Naruto Hokage 2_10
+  - first:
+      213: -8065810830708822258
+    second: Naruto Hokage 2_11
+  - first:
+      213: 6740277212865585553
+    second: Naruto Hokage 2_12
+  - first:
+      213: 7771960145578137395
+    second: Naruto Hokage 2_13
+  - first:
+      213: 6347743836557630536
+    second: Naruto Hokage 2_14
+  - first:
+      213: -6569109908525446323
+    second: Naruto Hokage 2_15
+  - first:
+      213: -8883008191482597759
+    second: Naruto Hokage 2_16
+  - first:
+      213: 4332914684884505104
+    second: Naruto Hokage 2_17
+  - first:
+      213: 5605649767132529087
+    second: Naruto Hokage 2_18
+  - first:
+      213: -6396381679616136903
+    second: Naruto Hokage 2_19
+  - first:
+      213: -1197366536278385671
+    second: Naruto Hokage 2_20
+  - first:
+      213: 4402615646533325059
+    second: Naruto Hokage 2_21
+  - first:
+      213: -3688384408944673006
+    second: Naruto Hokage 2_22
+  - first:
+      213: -3477987327097958354
+    second: Naruto Hokage 2_23
+  - first:
+      213: 3437714939985090894
+    second: Naruto Hokage 2_24
+  - first:
+      213: -8088825595421221501
+    second: Naruto Hokage 2_25
+  - first:
+      213: 3763721999907008409
+    second: Naruto Hokage 2_26
+  - first:
+      213: -4492866108069981926
+    second: Naruto Hokage 2_27
+  - first:
+      213: 8664006892640545965
+    second: Naruto Hokage 2_28
+  - first:
+      213: 3629786759108953160
+    second: Naruto Hokage 2_29
+  - first:
+      213: -5544444017532051217
+    second: Naruto Hokage 2_30
+  - first:
+      213: -6150608258058116563
+    second: Naruto Hokage 2_31
+  - first:
+      213: 3584899743005374871
+    second: Naruto Hokage 2_32
+  - first:
+      213: 4603414303557357022
+    second: Naruto Hokage 2_33
+  - first:
+      213: -1306884475804640379
+    second: Naruto Hokage 2_34
+  - first:
+      213: -7583560948946483276
+    second: Naruto Hokage 2_35
+  - first:
+      213: -6494127123547387825
+    second: Naruto Hokage 2_36
+  - first:
+      213: -6234804303177064840
+    second: Naruto Hokage 2_37
+  - first:
+      213: -3890890369407078533
+    second: Naruto Hokage 2_38
+  - first:
+      213: 1385941843121525535
+    second: Naruto Hokage 2_39
+  - first:
+      213: -4782603126654859856
+    second: Naruto Hokage 2_40
+  - first:
+      213: -213497147451909885
+    second: Naruto Hokage 2_41
+  - first:
+      213: -7870176682371703945
+    second: Naruto Hokage 2_42
+  - first:
+      213: -5831670617458965584
+    second: Naruto Hokage 2_43
+  - first:
+      213: -6570478778176880664
+    second: Naruto Hokage 2_44
+  - first:
+      213: -6463407366773006916
+    second: Naruto Hokage 2_45
+  - first:
+      213: 5482363165309977000
+    second: Naruto Hokage 2_46
+  - first:
+      213: 6281428320920736194
+    second: Naruto Hokage 2_47
+  - first:
+      213: 1754587638627172166
+    second: Naruto Hokage 2_48
+  - first:
+      213: 3119545610647052826
+    second: Naruto Hokage 2_49
+  - first:
+      213: -4837800403313696086
+    second: Naruto Hokage 2_50
+  - first:
+      213: -4226805266997162797
+    second: Naruto Hokage 2_51
+  - first:
+      213: 4617294468926778288
+    second: Naruto Hokage 2_52
+  - first:
+      213: -8989091552039639565
+    second: Naruto Hokage 2_53
+  - first:
+      213: -980669026048181483
+    second: Naruto Hokage 2_54
+  - first:
+      213: 4946009457608237728
+    second: Naruto Hokage 2_55
+  - first:
+      213: 1460284726150563062
+    second: Naruto Hokage 2_56
+  - first:
+      213: -6610443253948423251
+    second: Naruto Hokage 2_57
+  - first:
+      213: 4527587458940245548
+    second: Naruto Hokage 2_58
+  - first:
+      213: 8924808219120554734
+    second: Naruto Hokage 2_59
+  - first:
+      213: -3112928944292422850
+    second: Naruto Hokage 2_60
+  - first:
+      213: -8298179517214858148
+    second: Naruto Hokage 2_61
+  - first:
+      213: 3956649182600243869
+    second: Naruto Hokage 2_62
+  - first:
+      213: -5237522028620938852
+    second: Naruto Hokage 2_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naruto Hokage 2_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1324
+        width: 57
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6243fef8e8dc6920800000000000000
+      internalID: 2984999148261163629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1324
+        width: 55
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de37ed1cc0cabfa10800000000000000
+      internalID: 1944336834932667373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1319
+        width: 65
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc93df789dc77220800000000000000
+      internalID: 2483679774381415667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1319
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b896bf5c9e50a04b0800000000000000
+      internalID: -5473555895508309621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1319
+        width: 76
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd489e92db69964e0800000000000000
+      internalID: -1987892021311208229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1325
+        width: 78
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f803356b1f691c390800000000000000
+      internalID: -7799787114738798449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1320
+        width: 53
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6455d4b1cb64840800000000000000
+      internalID: 5208056844548130523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_7
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1323
+        width: 55
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d6e5d3a2fae5c0800000000000000
+      internalID: -4185266118205187956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1319
+        width: 76
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac669c223dee9b00800000000000000
+      internalID: 837367380489694372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1317
+        width: 85
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b1aa9bce864430800000000000000
+      internalID: 3766855143465792465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_10
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1317
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9ab7b79a0402540800000000000000
+      internalID: 4981052284537121234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_11
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1319
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f2a12b8cb701090800000000000000
+      internalID: -8065810830708822258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1234
+        width: 50
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916380e9664a8d50800000000000000
+      internalID: 6740277212865585553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1235
+        width: 86
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3379da5239c8bdb60800000000000000
+      internalID: 7771960145578137395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1235
+        width: 81
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c51373367b71850800000000000000
+      internalID: 6347743836557630536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1234
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b87d3c755d5d4a0800000000000000
+      internalID: -6569109908525446323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1234
+        width: 86
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e6bc13d1739b480800000000000000
+      internalID: -8883008191482597759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1234
+        width: 82
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0125d9af2fa912c30800000000000000
+      internalID: 4332914684884505104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_18
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1234
+        width: 51
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb18f2163c44bcd40800000000000000
+      internalID: 5605649767132529087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_19
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1235
+        width: 65
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939e9aa70cc7b37a0800000000000000
+      internalID: -6396381679616136903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_20
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1235
+        width: 86
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbdf2baa79126fe0800000000000000
+      internalID: -1197366536278385671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1140
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301123eba9b391d30800000000000000
+      internalID: 4402615646533325059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1140
+        width: 66
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f73c50ce930dcc0800000000000000
+      internalID: -3688384408944673006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1056
+        width: 66
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20140304f4bbbfc0800000000000000
+      internalID: -3477987327097958354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1065
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e495ddc268735bf20800000000000000
+      internalID: 3437714939985090894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1065
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d94d63af7bebf80800000000000000
+      internalID: -8088825595421221501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1065
+        width: 87
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fa7c5c73d6b3430800000000000000
+      internalID: 3763721999907008409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1065
+        width: 87
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11d815341226a1c0800000000000000
+      internalID: -4492866108069981926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_28
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1065
+        width: 87
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac206f6d5cbc3870800000000000000
+      internalID: 8664006892640545965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 979
+        width: 51
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8440b1373d79f5230800000000000000
+      internalID: 3629786759108953160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 986
+        width: 96
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe066f1ba8d2e03b0800000000000000
+      internalID: -5544444017532051217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 986
+        width: 96
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22acd96066a4aaa0800000000000000
+      internalID: -6150608258058116563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 968
+        width: 104
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7997939925f10c130800000000000000
+      internalID: 3584899743005374871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 901
+        width: 142
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd0d7d4bec92ef30800000000000000
+      internalID: 4603414303557357022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 901
+        width: 170
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b11315e730ddde0800000000000000
+      internalID: -1306884475804640379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 902
+        width: 134
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b745811f77c1c690800000000000000
+      internalID: -7583560948946483276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_36
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 902
+        width: 166
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f488abad9c930e5a0800000000000000
+      internalID: -6494127123547387825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_37
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 901
+        width: 142
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87edd0905868979a0800000000000000
+      internalID: -6234804303177064840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_38
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 901
+        width: 170
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa087e2d7c00ac0800000000000000
+      internalID: -3890890369407078533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_39
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 807
+        width: 50
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13db9663cadb3310800000000000000
+      internalID: 1385941843121525535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 803
+        width: 41
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5801eabc7c0adb0800000000000000
+      internalID: -4782603126654859856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 808
+        width: 86
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309d19db971890df0800000000000000
+      internalID: -213497147451909885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 680
+        width: 54
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b1caf510487c290800000000000000
+      internalID: -7870176682371703945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 680
+        width: 80
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3864f887eb11fa0800000000000000
+      internalID: -5831670617458965584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 680
+        width: 145
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef3686fc58f0d4a0800000000000000
+      internalID: -6570478778176880664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 680
+        width: 194
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1ad89e3d5d46a0800000000000000
+      internalID: -6463407366773006916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_46
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 680
+        width: 244
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ccf58044451c40800000000000000
+      internalID: 5482363165309977000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 597
+        width: 348
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11f8607cd1c2750800000000000000
+      internalID: 6281428320920736194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 474
+        width: 64
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff9af392c895810800000000000000
+      internalID: 1754587638627172166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_49
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 474
+        width: 103
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a122f3f643ada4b20800000000000000
+      internalID: 3119545610647052826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 474
+        width: 145
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2ee3a3a2eacdcb0800000000000000
+      internalID: -4837800403313696086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_51
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 474
+        width: 194
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc42e5110f5755c0800000000000000
+      internalID: -4226805266997162797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_52
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 474
+        width: 244
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bba1c32bdce31040800000000000000
+      internalID: 4617294468926778288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 342
+        width: 53
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f566331cd4504380800000000000000
+      internalID: -8989091552039639565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 342
+        width: 133
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b7b2477b6f362f0800000000000000
+      internalID: -980669026048181483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 307
+        width: 167
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a226788561c3a440800000000000000
+      internalID: 4946009457608237728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_56
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 291
+        width: 185
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f40225b839f34410800000000000000
+      internalID: 1460284726150563062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 25
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3e68852ecf244a0800000000000000
+      internalID: -6610443253948423251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 26
+        width: 56
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2695a34ec835de30800000000000000
+      internalID: 4527587458940245548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_59
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 26
+        width: 56
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2da252ac94bdb70800000000000000
+      internalID: 8924808219120554734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_60
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 25
+        width: 50
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1b604e97acc4d0800000000000000
+      internalID: -3112928944292422850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_61
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 26
+        width: 56
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c546cf9d1b1f6dc80800000000000000
+      internalID: -8298179517214858148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_62
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 26
+        width: 56
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a2ab5e777d8e630800000000000000
+      internalID: 3956649182600243869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Hokage 2_63
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 25
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9104cce6759057b0800000000000000
+      internalID: -5237522028620938852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
