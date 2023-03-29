@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f7ac090afb00fd4ea05fc574395fb06, type: 3}
   m_Name: Naruto Uzumaki
   m_EditorClassIdentifier: 
-  PersonajeJugable: {fileID: 6982980700655492643, guid: 5ca089b5cccf68341a461bc95eccc41b, type: 3}
+  PersonajeJugable: {fileID: 2084527767510501660, guid: 5ca089b5cccf68341a461bc95eccc41b, type: 3}
   Imagen: {fileID: 21300000, guid: 99aaa99c072baec40bc0a518e1f5d713, type: 3}
   nombre: Naruto Uzumaki

@@ -59,7 +59,6 @@ public class AtaqueCortaDistancia : MonoBehaviour
 
 
         Metros = XMetros;
-
         SuperAtaque();
         combo.atacando = false;
     }

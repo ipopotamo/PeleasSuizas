@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f7ac090afb00fd4ea05fc574395fb06, type: 3}
+  m_Name: Naruto 2
+  m_EditorClassIdentifier: 
+  PersonajeJugable: {fileID: 2091280131460953457, guid: 2d513662224f5af41a2f061c53e4daf9, type: 3}
+  Imagen: {fileID: 21300000, guid: 99aaa99c072baec40bc0a518e1f5d713, type: 3}
+  nombre: Naruto Uzumaki
