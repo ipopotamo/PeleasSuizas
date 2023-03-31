@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f7ac090afb00fd4ea05fc574395fb06, type: 3}
   m_Name: Ichigo
   m_EditorClassIdentifier: 
-  PersonajeJugable: {fileID: 7359103408967863704, guid: 3caed7633889dd94fb4c1dbdaf1bf493, type: 3}
+  PersonajeJugable: {fileID: 1590898375263261848, guid: 3caed7633889dd94fb4c1dbdaf1bf493, type: 3}
   Imagen: {fileID: 21300000, guid: 0c58a5d9cf0a4b34599776fbac5b4f7f, type: 3}
   nombre: Ichigo

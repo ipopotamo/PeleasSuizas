@@ -36,9 +36,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Habilidades\Con &apos;Z&apos; o 0\SegundaHabilidadLargaDistanciaPJ1.cs" />
      <Compile Include="Assets\Scripts\EncontrarJugadores.cs" />
      <Compile Include="Assets\Scripts\Combo.cs" />
-     <Compile Include="Assets\Scripts\Habilidades\AtaqueCortaDistancia2.cs" />
+     <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\AtaqueCortaDistancia2.cs" />
      <Compile Include="Assets\Scripts\VidaPJ1.cs" />
      <Compile Include="Assets\Scripts\Movimiento.cs" />
      <Compile Include="Assets\Scripts\testeosNacho\VidaIa.cs" />
@@ -49,26 +50,29 @@
      <Compile Include="Assets\ScripstsMCharacter\GameManager.cs" />
      <Compile Include="Assets\ScripstsMCharacter\CHARACTER.cs" />
      <Compile Include="Assets\Scripts\testeosNacho\ComboVSIA.cs" />
+     <Compile Include="Assets\Scripts\Habilidades\Con &apos;Z&apos; o 0\SegundaHabilidadDistanciaPJ2.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\Personaje.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\GameMMMMANAGER.cs" />
      <Compile Include="Assets\Scripts\testeosNacho\AtaqueAdistanciaVSIA.cs" />
      <Compile Include="Assets\ScripstsMCharacter\MSO2.cs" />
      <Compile Include="Assets\Scripts\VidaPJ2.cs" />
-     <Compile Include="Assets\Scripts\Habilidades\InstanciarLargaDistanciaPJ1.cs" />
+     <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\InstanciarLargaDistanciaPJ1.cs" />
      <Compile Include="Assets\ScripstsMCharacter\MSP.cs" />
-     <Compile Include="Assets\Scripts\Habilidades\AtaqueLargaDistanciaPJ1.cs" />
+     <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\AtaqueLargaDistanciaPJ1.cs" />
      <Compile Include="Assets\ScripstsMCharacter\Iniciopeleita.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\InicioJugador1.cs" />
      <Compile Include="Assets\Scripts\comboPJ2.cs" />
-     <Compile Include="Assets\Scripts\Habilidades\InstanciarAtaqueDistancia.cs" />
+     <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\InstanciarAtaqueDistancia.cs" />
      <Compile Include="Assets\Scripts\testeosNacho\MovimientoIA.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\InicioJugador2.cs" />
      <Compile Include="Assets\Scripts\testeosNacho\CrondasIA.cs" />
-     <Compile Include="Assets\Scripts\Habilidades\AtaqueCortaDistancia.cs" />
+     <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\AtaqueCortaDistancia.cs" />
      <Compile Include="Assets\Scripts\CRonrdas.cs" />
      <Compile Include="Assets\Scripts\testeosNacho\EncontrarPjIA.cs" />
-     <Compile Include="Assets\Scripts\Habilidades\AtaqueLargaDistancia.cs" />
+     <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\AtaqueLargaDistancia.cs" />
      <Compile Include="Assets\Scripts\Movimiento2.cs" />
+     <Compile Include="Assets\Scripts\Habilidades\Con &apos;Z&apos; o 0\AtaqueRapidoPJ2.cs" />
+     <Compile Include="Assets\AtaqueRapido.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

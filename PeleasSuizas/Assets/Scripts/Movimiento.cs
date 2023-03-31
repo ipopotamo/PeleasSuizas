@@ -33,6 +33,7 @@ public class Movimiento : MonoBehaviour
 
     void Start()
     {
+        MirandoDerecha = true;
         RB2D = GetComponent<Rigidbody2D>();
         PlayerAnimator = GetComponent<Animator>();  
         vidaUwU = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
@@ -101,7 +102,7 @@ public class Movimiento : MonoBehaviour
       PuedeMoverse = false;
     }
 
-    private void VolverAMoverse(){
+    public void VolverAMoverse(){
       PuedeMoverse = true;
     }
 
@@ -117,6 +118,11 @@ public class Movimiento : MonoBehaviour
         Vector3 escala = transform.localScale;
         escala.x *= -1;
         transform.localScale = escala;
+    }
+
+    public void VolverIdle(){
+        PlayerAnimator.SetBool("SuperAtaque", false);
+        PlayerAnimator.SetBool("SuperAtaque2", false);
     }
 
     private void OnDrawGizmos()

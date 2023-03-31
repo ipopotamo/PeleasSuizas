@@ -30,6 +30,7 @@ public class Movimiento2 : MonoBehaviour
 
     void Start()
     {
+        MirandoDerecha = true;
         vidaUwU = GetComponent<VidaPJ2>();
         RB2D = GetComponent<Rigidbody2D>();
         PlayerAnimator = GetComponent<Animator>();
@@ -97,8 +98,13 @@ public class Movimiento2 : MonoBehaviour
       PuedeMoverse = false;
     }
 
-    private void VolverAMoverse(){
+    public void VolverAMoverse(){
       PuedeMoverse = true;
+    }
+
+    public void VolverIdle(){
+        PlayerAnimator.SetBool("SuperAtaque", false);
+        PlayerAnimator.SetBool("SuperAtaque2", false);
     }
 
     private void Girar() {
