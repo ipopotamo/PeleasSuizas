@@ -328,7 +328,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AtaqueDespertar: {fileID: 6298266304165522069, guid: b0eea42e8be49a546a480f06067c46f4, type: 3}
   AtaqueBase: {fileID: 6298266304165522069, guid: b0eea42e8be49a546a480f06067c46f4, type: 3}
-  tiempoEntreAtaques: 3
+  tiempoEntreAtaques: 10
   tiempoSiguienteAtaque: 0
   TiempoDeVida: 1
   EnergiaNecearia: 20

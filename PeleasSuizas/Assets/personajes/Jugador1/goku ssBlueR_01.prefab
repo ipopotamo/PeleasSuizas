@@ -17,6 +17,8 @@ GameObject:
   - component: {fileID: 8691399774009384020}
   - component: {fileID: 8944808861136567529}
   - component: {fileID: 8622435390134859280}
+  - component: {fileID: 1721546059494911998}
+  - component: {fileID: 326447710855094732}
   m_Layer: 0
   m_Name: goku ssBlueR_01
   m_TagString: Jugador1
@@ -266,7 +268,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   control: {fileID: 3276693473962489916}
-  radioAtaque: 1
+  radioAtaque: 0.5
   Dano: 30
   anim: {fileID: 0}
   combo: 0
@@ -296,6 +298,7 @@ MonoBehaviour:
   controladorS: {fileID: 7842585189796696081}
   dimensioncaja: {x: 1, y: 0.5, z: 0}
   eSuelo: 0
+  PuedeMoverse: 1
 --- !u!114 &8622435390134859280
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -311,6 +314,42 @@ MonoBehaviour:
   vida: 210
   defe: 10
   slider: {fileID: 0}
+--- !u!114 &1721546059494911998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5286355087761165382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a363ca9f3c90467458ab6e5f72e00b95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AtaqueDespertar: {fileID: 3594100794108932886, guid: 6894eb963c3804a40bc1fe4646876b20, type: 3}
+  AtaqueBase: {fileID: 1959564623743199625, guid: ec6698a9c91f04b45967bfb0633aca9a, type: 3}
+  tiempoEntreAtaques: 10
+  tiempoSiguienteAtaque: 0
+  TiempoDeVida: 1
+  EnergiaNecearia: 20
+--- !u!114 &326447710855094732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5286355087761165382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3070ea7ed04627c4babee7ae6ce9bd6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AtaqueDespertar: {fileID: 0}
+  AtaqueBase: {fileID: 0}
+  tiempoEntreAtaques: 20
+  tiempoSiguienteAtaque: 0
+  TiempoDeVida: 1
+  EnergiaNecearia: 20
 --- !u!1 &5886268327136522224
 GameObject:
   m_ObjectHideFlags: 0

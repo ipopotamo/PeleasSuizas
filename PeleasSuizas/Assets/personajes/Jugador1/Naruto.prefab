@@ -149,6 +149,7 @@ GameObject:
   - component: {fileID: 2084527767510501663}
   - component: {fileID: 2084527767510501662}
   - component: {fileID: 2084527767510501661}
+  - component: {fileID: 3012033271440315440}
   m_Layer: 0
   m_Name: Naruto
   m_TagString: Jugador1
@@ -366,6 +367,24 @@ MonoBehaviour:
   XMetros: 0
   tiempoEntreAtaques: 15
   tiempoSiguienteAtaque: 0
+--- !u!114 &3012033271440315440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084527767510501660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3070ea7ed04627c4babee7ae6ce9bd6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AtaqueDespertar: {fileID: 4207776452530757508, guid: 8edeebb2c959a5c449483cea1949b7c0, type: 3}
+  AtaqueBase: {fileID: 4207776452530757508, guid: 8edeebb2c959a5c449483cea1949b7c0, type: 3}
+  tiempoEntreAtaques: 25
+  tiempoSiguienteAtaque: 0
+  TiempoDeVida: 1
+  EnergiaNecearia: 40
 --- !u!1 &2084527767546606831
 GameObject:
   m_ObjectHideFlags: 0
