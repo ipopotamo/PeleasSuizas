@@ -29,8 +29,8 @@ public class AtaqueRapido : MonoBehaviour
         print(this.transform.position);
         pj1.transform.position = this.transform.position;
 
-        anim = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Animator>();
-        movi = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Movimiento>();
+        anim = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Animator>();
+        movi = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Movimiento>();
         
         if(movi.MIRANDODERECHA == true){
             transform.Translate(Vector3.right * velocidad *Time.deltaTime);
