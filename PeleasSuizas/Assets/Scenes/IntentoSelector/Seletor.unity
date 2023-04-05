@@ -1587,6 +1587,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 60b4264a6cfa4f8419e34a6f99dac970, type: 2}
   - {fileID: 11400000, guid: 13f86ece3e0432a41b0be553d336c571, type: 2}
   - {fileID: 11400000, guid: aedf3f11875d515489aef52c30c9da47, type: 2}
+  - {fileID: 11400000, guid: 9a434893c9f6b0c4e949d4cbb0e77d83, type: 2}
   PersonajesJugador2:
   - {fileID: 11400000, guid: 7761084378f4218469a8b86d48cc0316, type: 2}
   - {fileID: 11400000, guid: e9c13096a8b8c004aafa62847fb33e76, type: 2}

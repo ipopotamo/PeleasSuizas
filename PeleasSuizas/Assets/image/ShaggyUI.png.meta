@@ -1,0 +1,2424 @@
+fileFormatVersion: 2
+guid: 5169937fd9741864b959d4d1c84f7ec3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9061609148650906226
+    second: ShaggyUI_7
+  - first:
+      213: -418713512195219696
+    second: ShaggyUI_8
+  - first:
+      213: 6585664678293135856
+    second: ShaggyUI_9
+  - first:
+      213: -7392225645912864981
+    second: ShaggyUI_10
+  - first:
+      213: -6231367534136724033
+    second: ShaggyUI_11
+  - first:
+      213: 208551400375628885
+    second: ShaggyUI_12
+  - first:
+      213: -7464752188331904095
+    second: ShaggyUI_13
+  - first:
+      213: -6569617034248919366
+    second: ShaggyUI_14
+  - first:
+      213: 7158550454917429232
+    second: dead
+  - first:
+      213: -5240963402681545017
+    second: dead2
+  - first:
+      213: -6869538701151120724
+    second: ShaggyUI_21
+  - first:
+      213: -1012073787507018524
+    second: ShaggyUI_22
+  - first:
+      213: 9046256982184272777
+    second: ShaggyUI_23
+  - first:
+      213: -3346901223473735153
+    second: ShaggyUI_24
+  - first:
+      213: 548129929430922307
+    second: dead3
+  - first:
+      213: 5006699688084153329
+    second: dead4
+  - first:
+      213: 2658640160709010092
+    second: ShaggyUI_35
+  - first:
+      213: 686796648698618937
+    second: ShaggyUI_36
+  - first:
+      213: 7199495939658504920
+    second: ShaggyUI_37
+  - first:
+      213: 6134991800189182349
+    second: ShaggyUI_38
+  - first:
+      213: 7726866617831607539
+    second: ShaggyUI_39
+  - first:
+      213: 4620174628847281751
+    second: ShaggyUI_40
+  - first:
+      213: 7369148168020511106
+    second: ShaggyUI_41
+  - first:
+      213: -4865058593808412846
+    second: ShaggyUI_42
+  - first:
+      213: -5447121532123334971
+    second: ShaggyUI_44
+  - first:
+      213: -4501454320053417916
+    second: ShaggyUI_45
+  - first:
+      213: 8238223627894622629
+    second: ShaggyUI_46
+  - first:
+      213: 7009353373258194760
+    second: ShaggyUI_47
+  - first:
+      213: 658938567937777213
+    second: ShaggyUI_48
+  - first:
+      213: 7410590345524296756
+    second: ShaggyUI_49
+  - first:
+      213: 7950113473765480072
+    second: ShaggyUI_57
+  - first:
+      213: 2003399101085229223
+    second: ShaggyUI_58
+  - first:
+      213: -1182660772670272238
+    second: ShaggyUI_59
+  - first:
+      213: 465785595816681123
+    second: ShaggyUI_60
+  - first:
+      213: -8583829682620300930
+    second: ShaggyUI_68
+  - first:
+      213: 3844447567097036961
+    second: ShaggyUI_69
+  - first:
+      213: -1429687237693237273
+    second: ShaggyUI_70
+  - first:
+      213: -8110372515883023131
+    second: ShaggyUI_71
+  - first:
+      213: -2082469977907334749
+    second: ShaggyUI_72
+  - first:
+      213: 2139585855166756029
+    second: ShaggyUI_73
+  - first:
+      213: 2106764040976481916
+    second: ShaggyUI_74
+  - first:
+      213: 4392979750069034041
+    second: ShaggyUI_78
+  - first:
+      213: -7681136565647829056
+    second: golpe1.
+  - first:
+      213: 6052238762641498972
+    second: golpe1.1
+  - first:
+      213: 971949569585372667
+    second: golpe1.2
+  - first:
+      213: 3068215229899379709
+    second: ShaggyUI_84
+  - first:
+      213: -8758411951919550293
+    second: golpe2.
+  - first:
+      213: -6927482616940554197
+    second: golpe2.1
+  - first:
+      213: -4963928041574124574
+    second: golpe2.2
+  - first:
+      213: 2694677844354839446
+    second: golpe3.
+  - first:
+      213: -43549393138300050
+    second: golpe3.1
+  - first:
+      213: 137754892339365895
+    second: golpe3.2
+  - first:
+      213: -5990155110811723147
+    second: ShaggyUI_97
+  - first:
+      213: 8931398040162030546
+    second: ShaggyUI_98
+  - first:
+      213: 8334970619388423938
+    second: ShaggyUI_99
+  - first:
+      213: 8045742250662772379
+    second: ShaggyUI_106
+  - first:
+      213: -8371241062409565539
+    second: ShaggyUI_107
+  - first:
+      213: 3006372988697349708
+    second: ShaggyUI_108
+  - first:
+      213: 1728703208765689232
+    second: ShaggyUI_109
+  - first:
+      213: 2133869800335538628
+    second: ShaggyUI_115
+  - first:
+      213: 3994806024298256561
+    second: ShaggyUI_116
+  - first:
+      213: -1240616280776006605
+    second: ShaggyUI_117
+  - first:
+      213: 8526802887918320170
+    second: ShaggyUI_120
+  - first:
+      213: -5734491171823049613
+    second: ShaggyUI_121
+  - first:
+      213: 6148950855632817667
+    second: ShaggyUI_122
+  - first:
+      213: 5901187722754897894
+    second: ShaggyUI_125
+  - first:
+      213: 461422992836451631
+    second: ShaggyUI_126
+  - first:
+      213: -3062051937406780433
+    second: ShaggyUI_127
+  - first:
+      213: 6603372065834263771
+    second: ShaggyUI_128
+  - first:
+      213: 5537557364019526924
+    second: ShaggyUI_131
+  - first:
+      213: -3851400232801983988
+    second: ShaggyUI_132
+  - first:
+      213: 2581133022485010162
+    second: ShaggyUI_135
+  - first:
+      213: 8911693000571734656
+    second: ShaggyUI_136
+  - first:
+      213: 946164339160136235
+    second: ShaggyUI_137
+  - first:
+      213: -59782833631283957
+    second: ShaggyUI_139
+  - first:
+      213: -1207665684521291743
+    second: ShaggyUI_152
+  - first:
+      213: -649968142016028769
+    second: ShaggyUI_153
+  - first:
+      213: 2810285062392248189
+    second: ShaggyUI_154
+  - first:
+      213: 288229741788821531
+    second: ShaggyUI_155
+  - first:
+      213: -8161435976943736659
+    second: ShaggyUI_156
+  - first:
+      213: -1581198038399367137
+    second: ShaggyUI_157
+  - first:
+      213: -5537396829442122693
+    second: ShaggyUI_158
+  - first:
+      213: -801254996894687141
+    second: ShaggyUI_159
+  - first:
+      213: -7431259418805664990
+    second: ShaggyUI_160
+  - first:
+      213: -3524247954334925503
+    second: ShaggyUI_161
+  - first:
+      213: 8401084356472726827
+    second: ShaggyUI_162
+  - first:
+      213: -3954164237574930191
+    second: ShaggyUI_163
+  - first:
+      213: 8302017592200411775
+    second: ShaggyUI_164
+  - first:
+      213: -3727134209886478857
+    second: ShaggyUI_165
+  - first:
+      213: 8059039836924293123
+    second: ShaggyUI_166
+  - first:
+      213: 1936081763675857966
+    second: ShaggyUI_167
+  - first:
+      213: 1017601089895483350
+    second: ShaggyUI_168
+  - first:
+      213: 4686794066187540713
+    second: ShaggyUI_169
+  - first:
+      213: 8650595803736982450
+    second: ShaggyUI_170
+  - first:
+      213: 336854596796212045
+    second: ShaggyUI_171
+  - first:
+      213: -8157311619402703698
+    second: dead5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShaggyUI_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1535
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9b316d72be3280800000000000000
+      internalID: -9061609148650906226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_8
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1535
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f92f2774e603af0800000000000000
+      internalID: -418713512195219696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1470
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ef7fe12bf46b50800000000000000
+      internalID: 6585664678293135856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1470
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27c4d3d0f9896990800000000000000
+      internalID: -7392225645912864981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1398
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5f0ee2e3cb589a0800000000000000
+      internalID: -6231367534136724033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1398
+        width: 23
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554bcc8c46ce4e200800000000000000
+      internalID: 208551400375628885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1398
+        width: 21
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a338264f6fd76890800000000000000
+      internalID: -7464752188331904095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1398
+        width: 29
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6ec3b5d1804d4a0800000000000000
+      internalID: -6569617034248919366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1411
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7701c06b7485360800000000000000
+      internalID: 7158550454917429232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1411
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce08569d8b5447b0800000000000000
+      internalID: -5240963402681545017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1398
+        width: 25
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2d61b92fe7aa0a0800000000000000
+      internalID: -6869538701151120724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1398
+        width: 20
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4f821a04464f1f0800000000000000
+      internalID: -1012073787507018524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1398
+        width: 20
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983adf1dbc2ca8d70800000000000000
+      internalID: 9046256982184272777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1398
+        width: 26
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a1784e11b6d81d0800000000000000
+      internalID: -3346901223473735153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1411
+        width: 29
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3447d7644495b9700800000000000000
+      internalID: 548129929430922307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1411
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3a055f6de5b7540800000000000000
+      internalID: 5006699688084153329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1332
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e5acd32365e420800000000000000
+      internalID: 2658640160709010092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1332
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9342c96c9edf78900800000000000000
+      internalID: 686796648698618937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1332
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da563d996fb9e360800000000000000
+      internalID: 7199495939658504920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1332
+        width: 22
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e536a98ed32550800000000000000
+      internalID: 6134991800189182349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1332
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc4dae00485b3b60800000000000000
+      internalID: 7726866617831607539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1332
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756e6b0a8582e1040800000000000000
+      internalID: 4620174628847281751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_41
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1332
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28945142739744660800000000000000
+      internalID: 7369148168020511106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1332
+        width: 22
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f86903cf6db7cb0800000000000000
+      internalID: -4865058593808412846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1259
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6386d93dfe764b0800000000000000
+      internalID: -5447121532123334971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1258
+        width: 27
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4488198452f9781c0800000000000000
+      internalID: -4501454320053417916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1258
+        width: 38
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a983e8ddbc045270800000000000000
+      internalID: 8238223627894622629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1259
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9d3e71c9364160800000000000000
+      internalID: 7009353373258194760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1260
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e5cb6e225052900800000000000000
+      internalID: 658938567937777213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1260
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c3ae008a4b7d660800000000000000
+      internalID: 7410590345524296756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1177
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88696d7351a745e60800000000000000
+      internalID: 7950113473765480072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1178
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0a5833ed08dcb10800000000000000
+      internalID: 2003399101085229223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_59
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1178
+        width: 25
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d03331b48569fe0800000000000000
+      internalID: -1182660772670272238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_60
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1178
+        width: 20
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9524188dc67600800000000000000
+      internalID: 465785595816681123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_68
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1099
+        width: 25
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7186faf16c10e880800000000000000
+      internalID: -8583829682620300930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_69
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1100
+        width: 29
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a00f6a81b83a5530800000000000000
+      internalID: 3844447567097036961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1100
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e79269380bb82ce0800000000000000
+      internalID: -1429687237693237273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1100
+        width: 44
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e483bada2b227f80800000000000000
+      internalID: -8110372515883023131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_72
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1102
+        width: 62
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1fa67a6949913e0800000000000000
+      internalID: -2082469977907334749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1102
+        width: 42
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db43aafcff551bd10800000000000000
+      internalID: 2139585855166756029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_74
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1101
+        width: 37
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e38ffabbabc3d10800000000000000
+      internalID: 2106764040976481916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_78
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1035
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c5954cecff6fc30800000000000000
+      internalID: 4392979750069034041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golpe1.
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 951
+        width: 29
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c71c4d6dfe176590800000000000000
+      internalID: -7681136565647829056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golpe1.1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 951
+        width: 27
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a817a61fddf350800000000000000
+      internalID: 6052238762641498972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golpe1.2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 951
+        width: 40
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfddab2ebfe0d7d00800000000000000
+      internalID: 971949569585372667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 988
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df39898de7d749a20800000000000000
+      internalID: 3068215229899379709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golpe2.
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 884
+        width: 29
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0bc49dbbed37680800000000000000
+      internalID: -8758411951919550293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golpe2.1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 884
+        width: 29
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2890956343acdf90800000000000000
+      internalID: -6927482616940554197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golpe2.2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 884
+        width: 42
+        height: 58
+      alignment: 9
+      pivot: {x: 0.26750493, y: 0.0000010523303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3bf570fb59c1bb0800000000000000
+      internalID: -4963928041574124574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golpe3.
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 826
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b2e0f83b656520800000000000000
+      internalID: 2694677844354839446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golpe3.1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 826
+        width: 37
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bcec3ce08456ff0800000000000000
+      internalID: -43549393138300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golpe3.2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 826
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.30991015, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c5ff385769e100800000000000000
+      internalID: 137754892339365895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_97
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 750
+        width: 25
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a9396f9a1bedca0800000000000000
+      internalID: -5990155110811723147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 750
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d35a7b6233b2fb70800000000000000
+      internalID: 8931398040162030546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_99
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 751
+        width: 46
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fe6f52e93cba370800000000000000
+      internalID: 8334970619388423938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_106
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 668
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e3b15e2f738af60800000000000000
+      internalID: 8045742250662772379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_107
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 668
+        width: 39
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0ae14b9063db80800000000000000
+      internalID: -8371241062409565539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_108
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 669
+        width: 30
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e82a50e48c8b920800000000000000
+      internalID: 3006372988697349708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_109
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 669
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d8e88c8669df710800000000000000
+      internalID: 1728703208765689232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_115
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 591
+        width: 24
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9fee517470d9d10800000000000000
+      internalID: 2133869800335538628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_116
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 591
+        width: 23
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b853e8e9e6607730800000000000000
+      internalID: 3994806024298256561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_117
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 591
+        width: 38
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a7c1d01278cee0800000000000000
+      internalID: -1240616280776006605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_120
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 520
+        width: 24
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a7524bc0a455670800000000000000
+      internalID: 8526802887918320170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_121
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 520
+        width: 23
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374afdf69aefa60b0800000000000000
+      internalID: -5734491171823049613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 520
+        width: 41
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e04538936755550800000000000000
+      internalID: 6148950855632817667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_125
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 443
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7b3bfc7fa35e150800000000000000
+      internalID: 5901187722754897894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_126
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 443
+        width: 41
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dd63b64cd476600800000000000000
+      internalID: 461422992836451631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_127
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 443
+        width: 41
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb72138cf76185d0800000000000000
+      internalID: -3062051937406780433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_128
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 443
+        width: 24
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4e9cf58e3e3ab50800000000000000
+      internalID: 6603372065834263771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_131
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 383
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d7bb5551b59dc40800000000000000
+      internalID: 5537557364019526924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_132
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 383
+        width: 37
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c022bf3d4e31d8ac0800000000000000
+      internalID: -3851400232801983988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_135
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 304
+        width: 25
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6df3bfec602d320800000000000000
+      internalID: 2581133022485010162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_136
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 304
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ac96e5191bcab70800000000000000
+      internalID: 8911693000571734656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_137
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 306
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a38c61473712d00800000000000000
+      internalID: 946164339160136235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_139
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 302
+        width: 29
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05bdbd54db9b2ff0800000000000000
+      internalID: -59782833631283957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_152
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 211
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120fdaa55728d3fe0800000000000000
+      internalID: -1207665684521291743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_153
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 211
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f50d32b69daf6f0800000000000000
+      internalID: -649968142016028769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_154
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 212
+        width: 7
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77f97def53200720800000000000000
+      internalID: 2810285062392248189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_155
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 212
+        width: 7
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18760d4c6ffff300800000000000000
+      internalID: 288229741788821531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_156
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 213
+        width: 7
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8ec295831ccbe80800000000000000
+      internalID: -8161435976943736659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_157
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 213
+        width: 7
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1849a9f2c47e0ae0800000000000000
+      internalID: -1581198038399367137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_158
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 209
+        width: 20
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c5ab80ce63723b0800000000000000
+      internalID: -5537396829442122693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_159
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 209
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50e59753de51e4f0800000000000000
+      internalID: -801254996894687141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_160
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 208
+        width: 16
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223005c5eecded890800000000000000
+      internalID: -7431259418805664990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_161
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 208
+        width: 11
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d3875682b571fc0800000000000000
+      internalID: -3524247954334925503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_162
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 203
+        width: 37
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25e5ab16b5a69470800000000000000
+      internalID: 8401084356472726827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_163
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 208
+        width: 38
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f00bc3739cff19c0800000000000000
+      internalID: -3954164237574930191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_164
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a362e9301b63370800000000000000
+      internalID: 8302017592200411775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_165
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 188
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd928dee2f864cc0800000000000000
+      internalID: -3727134209886478857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_166
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 187
+        width: 25
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3003896780677df60800000000000000
+      internalID: 8059039836924293123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_167
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 148
+        width: 16
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24e2043b185eda10800000000000000
+      internalID: 1936081763675857966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_168
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 182
+        width: 50
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7454ebcce3f1e00800000000000000
+      internalID: 1017601089895483350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_169
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 182
+        width: 111
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8548a1f56da0140800000000000000
+      internalID: 4686794066187540713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_170
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 64
+        width: 52
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5871799, y: 0.001874777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b34a39fc071d0870800000000000000
+      internalID: 8650595803736982450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaggyUI_171
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 62
+        width: 52
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5295284, y: 0.020032752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43eef6987fbca400800000000000000
+      internalID: 336854596796212045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1412
+        width: 32
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacd55b2d486bce80800000000000000
+      internalID: -8157311619402703698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
