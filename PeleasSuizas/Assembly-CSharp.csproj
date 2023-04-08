@@ -73,6 +73,8 @@
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\AtaqueLargaDistancia.cs" />
      <Compile Include="Assets\Scripts\Movimiento2.cs" />
      <Compile Include="Assets\AtaqueRapido.cs" />
+     <Compile Include="Assets\PausaYOtros.cs" />
+     <Compile Include="Assets\NoDestruirAlRecargar.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

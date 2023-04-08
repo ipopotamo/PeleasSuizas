@@ -17,6 +17,8 @@ TagManager:
   - Ronda1PJ2
   - Ronda1PJ1
   - IA
+  - ControlRondas
+  - cartelPausa
   layers:
   - Default
   - TransparentFX

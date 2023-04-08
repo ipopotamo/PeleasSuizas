@@ -12,6 +12,7 @@ public class CRonrdas : MonoBehaviour
     public GameObject CartelVictoria;
 
     [SerializeField] private GameObject controlador;
+    [SerializeField] private PausaYOtros pausa;
 
     private Movimiento  PJ1;
     private Movimiento2 PJ2;
@@ -19,8 +20,11 @@ public class CRonrdas : MonoBehaviour
     private Animator Personaje;
     private Animator Personaje2;
 
-    static private float win1P1;
-    static private float win1P2;
+    static private float win1P1 = 0.0f;
+    public float WINSPJ1{get => win1P1; set => win1P1 = value; }
+
+    static private float win1P2 = 0.0f;
+    public float WINSPJ2{get => win1P2; set => win1P2 = value; }
 
     public VidaPJ1 vidaUwU1;
     public VidaPJ2 vidaUwU2;
@@ -28,18 +32,24 @@ public class CRonrdas : MonoBehaviour
 
     private void Start()
     {
-        CartelVictoria = GameObject.FindGameObjectWithTag("CartelVictoria");
+        //CartelVictoria = GameObject.FindGameObjectWithTag("CartelVictoria");
         ronda1win  = GameObject.FindGameObjectWithTag("Ronda1PJ1");
         ronda1win2 = GameObject.FindGameObjectWithTag("Ronda1PJ2");
 
+        GameObject[] ELCartelVictoria = FindObjectsOfType<GameObject>(true);
+        foreach (GameObject g in ELCartelVictoria)
+        {
+            if(g.tag == "CartelVictoria"){
+                CartelVictoria = g;
+            }
+        }
+
         CartelVictoria.SetActive(false);
     }
-    void Awake()
+    /*void Awake()
     {
         DontDestroyOnLoad(controlador);
-    }
-   
-   
+    }*/
 
     void Update()
     {
@@ -118,6 +128,17 @@ public class CRonrdas : MonoBehaviour
         
     }
 
-
+    private void Reiniciar()
+    {
+        vidaUwU2.vida ++; // Se aumenta la vida para que no aumente nuevamente la cantidad de victorias de 0 a 1 del vencedor porque
+        vidaUwU1.vida ++; // sino se empezaria con 1/0 o 0/1
+        win1P1 = 0.0f;
+        win1P2 = 0.0f;
+        pausa.juegopausado = false;
+        Time.timeScale = 1f;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        pausa.cartelPausa.SetActive(false);
+        Debug.Log(win1P1 + "/" + win1P2);
+    }
 
 }
