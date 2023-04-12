@@ -269,7 +269,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   control: {fileID: 3276693473962489916}
   radioAtaque: 0.5
-  Dano: 30
+  Dano: 10
   anim: {fileID: 0}
   combo: 0
   atacando: 0
@@ -345,7 +345,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AtaqueDespertar: {fileID: 5541505387081235669, guid: 7d7cf0f83d5ae3f419e6783406b4f2a1, type: 3}
-  AtaqueBase: {fileID: 5541505387081235669, guid: 7d7cf0f83d5ae3f419e6783406b4f2a1, type: 3}
+  AtaqueBase: {fileID: 3353619916018018840, guid: 96602299188be3548a9fd2d73812da85, type: 3}
   tiempoEntreAtaques: 20
   tiempoSiguienteAtaque: 0
   TiempoDeVida: 1

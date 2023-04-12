@@ -24,8 +24,9 @@ public class AtaqueRapidoPJ2 : MonoBehaviour
     }
 
     void Update() {
-        print(this.transform.position);
+        /*print(this.transform.position);*/
         pj2.transform.position = this.transform.position;
+        
         anim = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Animator>();
         movi = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Movimiento2>();
         

@@ -379,7 +379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3070ea7ed04627c4babee7ae6ce9bd6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AtaqueDespertar: {fileID: 4207776452530757508, guid: 8edeebb2c959a5c449483cea1949b7c0, type: 3}
+  AtaqueDespertar: {fileID: 1291966076932516476, guid: a580c15a772138048a9c2bc6bcd6632c, type: 3}
   AtaqueBase: {fileID: 4207776452530757508, guid: 8edeebb2c959a5c449483cea1949b7c0, type: 3}
   tiempoEntreAtaques: 25
   tiempoSiguienteAtaque: 0

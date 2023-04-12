@@ -78,6 +78,7 @@ GameObject:
   - component: {fileID: 9027537287763959437}
   - component: {fileID: 2244637589452795582}
   - component: {fileID: -5432884998628664503}
+  - component: {fileID: 2652957351815812690}
   m_Layer: 0
   m_Name: vergil_02
   m_TagString: Jugador2
@@ -349,7 +350,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b467d337cef687543914e299081a6eda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vida: 400
+  vida: 200
   defe: 20
 --- !u!114 &2244637589452795582
 MonoBehaviour:
@@ -365,7 +366,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   control: {fileID: 5204307822728161712}
   radioAtaque: 0.5
-  Dano: 190
+  Dano: 10
   anim: {fileID: 0}
   combo: 0
   atacando: 0
@@ -391,3 +392,21 @@ MonoBehaviour:
   XMetros: 100
   tiempoEntreAtaques: 20
   tiempoSiguienteAtaque: 0
+--- !u!114 &2652957351815812690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5204307823108381798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e4762b04a494844e8e99b45080d8dd2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AtaqueDespertar: {fileID: 5250505663881409775, guid: cef650fa7fa4bfd4bac2783f015a833d, type: 3}
+  AtaqueBase: {fileID: 5250505663881409775, guid: cef650fa7fa4bfd4bac2783f015a833d, type: 3}
+  tiempoEntreAtaques: 15
+  tiempoSiguienteAtaque: 0
+  TiempoDeVida: 1
+  EnergiaNecearia: 25

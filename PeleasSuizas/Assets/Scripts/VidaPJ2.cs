@@ -30,7 +30,6 @@ public class VidaPJ2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        slider.value = vida;
         LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
         slider.value = vida;
             if (vida > 0 && LavidaDelOtro.vida > 0)
@@ -50,12 +49,6 @@ public class VidaPJ2 : MonoBehaviour
         {
             anim.SetTrigger("Muerto");
         }
-    }
-
-     public void def()
-    {
-      
-
     }
 
     public void TomarDaño(float dano)

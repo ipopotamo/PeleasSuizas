@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 2355687464233849045}
   - component: {fileID: 2355687464233849044}
   - component: {fileID: 6163141928698269120}
+  - component: {fileID: 1066500889214408794}
   m_Layer: 0
   m_Name: goku ssBlueR_(2)
   m_TagString: Jugador2
@@ -328,6 +329,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AtaqueDespertar: {fileID: 6298266304165522069, guid: b0eea42e8be49a546a480f06067c46f4, type: 3}
   AtaqueBase: {fileID: 6298266304165522069, guid: b0eea42e8be49a546a480f06067c46f4, type: 3}
+  tiempoEntreAtaques: 10
+  tiempoSiguienteAtaque: 0
+  TiempoDeVida: 1
+  EnergiaNecearia: 20
+--- !u!114 &1066500889214408794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2355687464233849000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e4762b04a494844e8e99b45080d8dd2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AtaqueDespertar: {fileID: 5250505663881409775, guid: cef650fa7fa4bfd4bac2783f015a833d, type: 3}
+  AtaqueBase: {fileID: 5250505663881409775, guid: cef650fa7fa4bfd4bac2783f015a833d, type: 3}
   tiempoEntreAtaques: 10
   tiempoSiguienteAtaque: 0
   TiempoDeVida: 1

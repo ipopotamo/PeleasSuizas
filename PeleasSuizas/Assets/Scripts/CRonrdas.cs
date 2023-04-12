@@ -128,7 +128,7 @@ public class CRonrdas : MonoBehaviour
         
     }
 
-    private void Reiniciar()
+    public void ReiniciarDeVictoria()
     {
         vidaUwU2.vida ++; // Se aumenta la vida para que no aumente nuevamente la cantidad de victorias de 0 a 1 del vencedor porque
         vidaUwU1.vida ++; // sino se empezaria con 1/0 o 0/1
