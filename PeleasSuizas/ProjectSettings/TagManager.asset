@@ -19,6 +19,7 @@ TagManager:
   - IA
   - ControlRondas
   - cartelPausa
+  - TPPJ2
   layers:
   - Default
   - TransparentFX

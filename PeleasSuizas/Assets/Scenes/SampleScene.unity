@@ -198,6 +198,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 58972296}
   m_CullTransparentMesh: 1
+--- !u!1 &85001355 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6997755825521393291, guid: dd41ee17be4aae541b3cf547b10b8628, type: 3}
+  m_PrefabInstance: {fileID: 804883052}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &85001356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 85001355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b31bf65ac0588b04bacb9b0f26ffeb1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &100160039
 GameObject:
   m_ObjectHideFlags: 0
@@ -1809,6 +1826,36 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 674405527}
   m_CullTransparentMesh: 1
+--- !u!1 &679850857
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 679850858}
+  m_Layer: 0
+  m_Name: TpAca
+  m_TagString: TPPJ2
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &679850858
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679850857}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.313, y: 0.022, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1068683922}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &703637788
 GameObject:
   m_ObjectHideFlags: 0
@@ -2963,6 +3010,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1067327764}
   m_CullTransparentMesh: 1
+--- !u!4 &1068683922 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2091280131460953448, guid: 2d513662224f5af41a2f061c53e4daf9, type: 3}
+  m_PrefabInstance: {fileID: 1887436205}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1101122501
 GameObject:
   m_ObjectHideFlags: 0
