@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;Z&apos; o 0\SegundaHabilidadDistanciaPJ2.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\Personaje.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\GameMMMMANAGER.cs" />
+     <Compile Include="Assets\TPJ1.cs" />
      <Compile Include="Assets\Scripts\testeosNacho\AtaqueAdistanciaVSIA.cs" />
      <Compile Include="Assets\Scripts\ScripstsMCharacter\MSO2.cs" />
      <Compile Include="Assets\Scripts\VidaPJ2.cs" />
@@ -75,7 +76,7 @@
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\AtaqueLargaDistancia.cs" />
      <Compile Include="Assets\Scripts\Movimiento2.cs" />
      <Compile Include="Assets\Scripts\AtaqueRapido.cs" />
-     <Compile Include="Assets\TPJ1.cs" />
+     <Compile Include="Assets\TPJ2.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

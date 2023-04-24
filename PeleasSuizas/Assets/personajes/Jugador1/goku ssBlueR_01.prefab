@@ -19,6 +19,7 @@ GameObject:
   - component: {fileID: 8622435390134859280}
   - component: {fileID: 1721546059494911998}
   - component: {fileID: 326447710855094732}
+  - component: {fileID: 4357506026013027589}
   m_Layer: 0
   m_Name: goku ssBlueR_01
   m_TagString: Jugador1
@@ -39,6 +40,7 @@ Transform:
   m_Children:
   - {fileID: 7842585189796696081}
   - {fileID: 3276693473962489916}
+  - {fileID: 6726198707088099636}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -350,6 +352,21 @@ MonoBehaviour:
   tiempoSiguienteAtaque: 0
   TiempoDeVida: 1
   EnergiaNecearia: 20
+--- !u!114 &4357506026013027589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5286355087761165382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b31bf65ac0588b04bacb9b0f26ffeb1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  areaTP: {fileID: 3276693473962489916}
+  maxTP: 4
+  tiempoRTP: 20
 --- !u!1 &5886268327136522224
 GameObject:
   m_ObjectHideFlags: 0
@@ -409,4 +426,34 @@ Transform:
   m_Children: []
   m_Father: {fileID: 6956327880222084775}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8921429004935127644
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6726198707088099636}
+  m_Layer: 0
+  m_Name: TPACA
+  m_TagString: TPPJ1
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6726198707088099636
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8921429004935127644}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.33, y: 0.004, z: -0.33439195}
+  m_LocalScale: {x: 0.3053435, y: 0.302581, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6956327880222084775}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

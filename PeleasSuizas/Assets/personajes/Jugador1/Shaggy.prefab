@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 740761975597394140}
   - component: {fileID: 740761975597394141}
   - component: {fileID: 740761975597394142}
+  - component: {fileID: 3964244725240784475}
   m_Layer: 0
   m_Name: Shaggy
   m_TagString: Jugador1
@@ -38,6 +39,7 @@ Transform:
   - {fileID: 740761977211521760}
   - {fileID: 740761976475228015}
   - {fileID: 740761977078170110}
+  - {fileID: 4459669485448192923}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -312,6 +314,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &3964244725240784475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 740761975597394143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b31bf65ac0588b04bacb9b0f26ffeb1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  areaTP: {fileID: 740761977211521760}
+  maxTP: 4
+  tiempoRTP: 20
 --- !u!1 &740761976475228008
 GameObject:
   m_ObjectHideFlags: 0
@@ -473,4 +490,34 @@ Transform:
   m_Children: []
   m_Father: {fileID: 740761975597394150}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6608281906057046704
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459669485448192923}
+  m_Layer: 0
+  m_Name: TPACA
+  m_TagString: TPPJ1
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459669485448192923
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6608281906057046704}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.287, y: -0.011, z: -0.33439195}
+  m_LocalScale: {x: 0.3350084, y: 0.35087723, z: 1}
+  m_Children: []
+  m_Father: {fileID: 740761975597394150}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

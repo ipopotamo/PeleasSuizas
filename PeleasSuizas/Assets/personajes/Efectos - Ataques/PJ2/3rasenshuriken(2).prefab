@@ -369,7 +369,7 @@ GameObject:
   - component: {fileID: 5738098966388908316}
   m_Layer: 0
   m_Name: 3rasenshuriken(2)
-  m_TagString: Untagged
+  m_TagString: Habilidad
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

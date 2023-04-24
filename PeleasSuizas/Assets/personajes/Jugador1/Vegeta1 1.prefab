@@ -1,5 +1,35 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &435240027006636613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5334475988326039523}
+  m_Layer: 0
+  m_Name: TPACA
+  m_TagString: TPPJ1
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5334475988326039523
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435240027006636613}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.221, y: 0.01, z: -0.33439195}
+  m_LocalScale: {x: 0.33333334, y: 0.33333334, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6637140242180258072}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1504649007608946004
 GameObject:
   m_ObjectHideFlags: 0
@@ -47,6 +77,7 @@ GameObject:
   - component: {fileID: 1875697530808824275}
   - component: {fileID: 4674582338257365913}
   - component: {fileID: 9032844724477571086}
+  - component: {fileID: 4152742986845958549}
   m_Layer: 0
   m_Name: Vegeta1 1
   m_TagString: Jugador1
@@ -67,6 +98,7 @@ Transform:
   m_Children:
   - {fileID: 8157886481895450772}
   - {fileID: 6201680103844716632}
+  - {fileID: 5334475988326039523}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -305,6 +337,7 @@ MonoBehaviour:
   controladorS: {fileID: 8157886481895450772}
   dimensioncaja: {x: 1, y: 0.5, z: 0}
   eSuelo: 0
+  PuedeMoverse: 1
 --- !u!114 &4674582338257365913
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -343,6 +376,21 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 378facc5d7c4dce499fb3f6885fa6176, type: 3}
   - {fileID: 8300000, guid: d3622ec3313fc014ea0d228e7e2268e0, type: 3}
   - {fileID: 8300000, guid: 257218746de98244098520c94a35c329, type: 3}
+--- !u!114 &4152742986845958549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2679639666883085447}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b31bf65ac0588b04bacb9b0f26ffeb1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  areaTP: {fileID: 6201680103844716632}
+  maxTP: 4
+  tiempoRTP: 20
 --- !u!1 &8799820560645328992
 GameObject:
   m_ObjectHideFlags: 0

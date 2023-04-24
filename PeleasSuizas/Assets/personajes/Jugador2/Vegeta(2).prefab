@@ -1,5 +1,35 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3775715474478141868
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1418485821361746558}
+  m_Layer: 0
+  m_Name: TpAca
+  m_TagString: TPPJ2
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1418485821361746558
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3775715474478141868}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.179, y: 0.016, z: 0}
+  m_LocalScale: {x: 1.0622333, y: 0.8659667, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7383952479993217848}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7383952479702171778
 GameObject:
   m_ObjectHideFlags: 0
@@ -77,6 +107,7 @@ GameObject:
   - component: {fileID: 7383952479993217859}
   - component: {fileID: 7383952479993217860}
   - component: {fileID: 7383952479993217858}
+  - component: {fileID: -7213842419830173633}
   m_Layer: 0
   m_Name: Vegeta(2)
   m_TagString: Jugador2
@@ -97,6 +128,7 @@ Transform:
   m_Children:
   - {fileID: 7383952479702171777}
   - {fileID: 7383952479912702337}
+  - {fileID: 1418485821361746558}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -311,6 +343,7 @@ MonoBehaviour:
   eSuelo: 0
   velocidadDeMovimiento: 400
   SuavisadoMovimiento: 0
+  PuedeMoverse: 1
 --- !u!50 &7383952479993217859
 Rigidbody2D:
   serializedVersion: 4
@@ -372,3 +405,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vida: 100
   defe: 10
+--- !u!114 &-7213842419830173633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7383952479993217851}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20f17e99b1ec22d49ab411f2c620955c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  areaTP: {fileID: 7383952479912702337}
+  maxTP: 4
+  tiempoRTP: 20
