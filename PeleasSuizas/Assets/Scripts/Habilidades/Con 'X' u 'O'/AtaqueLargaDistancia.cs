@@ -43,12 +43,19 @@ public class AtaqueLargaDistancia : MonoBehaviour
         }
     }
 
+
     private void OnTriggerEnter2D(Collider2D colisionador) {
         if (colisionador.CompareTag("Jugador1"))
             {
                 movi.VolverIdle();
                 movi.VolverAMoverse();
                 colisionador.transform.GetComponent<VidaPJ1>().TomarDaño1(Dano);
+                Destroy(this.gameObject);
+            }
+            if (colisionador.CompareTag("Habilidad"))
+            {
+                movi.VolverIdle();
+                movi.VolverAMoverse();
                 Destroy(this.gameObject);
             }
     }

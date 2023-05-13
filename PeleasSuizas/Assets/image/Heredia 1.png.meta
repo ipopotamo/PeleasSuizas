@@ -1,0 +1,3954 @@
+fileFormatVersion: 2
+guid: 6878a3478d01d664bbb93cf822cacb10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5339247531612191615
+    second: Heredia 1_0
+  - first:
+      213: 6360903026458223193
+    second: Heredia 1_1
+  - first:
+      213: -1078112203450981607
+    second: Heredia 1_2
+  - first:
+      213: 1754999036972218834
+    second: Heredia 1_3
+  - first:
+      213: 6751071264486356734
+    second: Heredia 1_4
+  - first:
+      213: -1568145989197343769
+    second: Heredia 1_5
+  - first:
+      213: 4350165924073839275
+    second: Heredia 1_6
+  - first:
+      213: 2904662890773481908
+    second: Heredia 1_7
+  - first:
+      213: -5573479234235516577
+    second: Heredia 1_8
+  - first:
+      213: -1851303095018232254
+    second: Heredia 1_9
+  - first:
+      213: 1860184547058603255
+    second: Heredia 1_10
+  - first:
+      213: -1417052057657271497
+    second: Heredia 1_11
+  - first:
+      213: 912666166286879865
+    second: Heredia 1_12
+  - first:
+      213: -6942769684915257067
+    second: Heredia 1_13
+  - first:
+      213: 644557614872969880
+    second: Heredia 1_14
+  - first:
+      213: 2031466823241545958
+    second: Heredia 1_15
+  - first:
+      213: 582992918933922033
+    second: Heredia 1_16
+  - first:
+      213: 3340048858112519557
+    second: Heredia 1_17
+  - first:
+      213: 6250678888898532993
+    second: Heredia 1_18
+  - first:
+      213: 5942547724021037260
+    second: Heredia 1_19
+  - first:
+      213: -3076207664831381435
+    second: Heredia 1_20
+  - first:
+      213: -7745519776230296530
+    second: Heredia 1_21
+  - first:
+      213: -7299931658408203860
+    second: Heredia 1_22
+  - first:
+      213: -266739283012120114
+    second: Heredia 1_23
+  - first:
+      213: -1214487367616419620
+    second: Heredia 1_24
+  - first:
+      213: 8735456309053878471
+    second: Heredia 1_25
+  - first:
+      213: 4613905053799460877
+    second: Heredia 1_26
+  - first:
+      213: -5587213747360903004
+    second: Heredia 1_27
+  - first:
+      213: 7937768939737312090
+    second: Heredia 1_28
+  - first:
+      213: 8567330032035154418
+    second: Heredia 1_29
+  - first:
+      213: -1222303438655722290
+    second: Heredia 1_30
+  - first:
+      213: -6816133112030162474
+    second: Heredia 1_31
+  - first:
+      213: -6032768575365765967
+    second: Heredia 1_32
+  - first:
+      213: 211423632763562195
+    second: Heredia 1_33
+  - first:
+      213: -2577925987622744138
+    second: Heredia 1_34
+  - first:
+      213: 5293255201666916501
+    second: Heredia 1_35
+  - first:
+      213: 9086037297475154926
+    second: Heredia 1_36
+  - first:
+      213: -6638596733772657590
+    second: Heredia 1_37
+  - first:
+      213: -2951508815102817181
+    second: Heredia 1_38
+  - first:
+      213: -8565629452949320671
+    second: Heredia 1_39
+  - first:
+      213: -7626189361266717653
+    second: Heredia 1_40
+  - first:
+      213: 3161245467302360639
+    second: Heredia 1_41
+  - first:
+      213: 7900952510697764076
+    second: Heredia 1_42
+  - first:
+      213: -6833507777691405835
+    second: Heredia 1_43
+  - first:
+      213: 1452539983396421288
+    second: Heredia 1_44
+  - first:
+      213: -8022889928947585725
+    second: Heredia 1_45
+  - first:
+      213: 4086913589382755632
+    second: Heredia 1_46
+  - first:
+      213: -7782071452571176196
+    second: Heredia 1_47
+  - first:
+      213: -6664474400590116267
+    second: Heredia 1_48
+  - first:
+      213: -4156747686542387182
+    second: Heredia 1_49
+  - first:
+      213: 5058475810746182442
+    second: Heredia 1_50
+  - first:
+      213: 7415536752754015994
+    second: Heredia 1_51
+  - first:
+      213: -1900221362228353401
+    second: Heredia 1_52
+  - first:
+      213: -4428627483284819566
+    second: Heredia 1_53
+  - first:
+      213: 4100839118033824040
+    second: Heredia 1_54
+  - first:
+      213: -4796622665346195332
+    second: Heredia 1_55
+  - first:
+      213: -2497694291774511063
+    second: Heredia 1_56
+  - first:
+      213: -4741649114909704837
+    second: Heredia 1_57
+  - first:
+      213: 180125993135892327
+    second: Heredia 1_58
+  - first:
+      213: -4628946896778650828
+    second: Heredia 1_59
+  - first:
+      213: -6319729670581812491
+    second: Heredia 1_60
+  - first:
+      213: -7200059271939100318
+    second: Heredia 1_61
+  - first:
+      213: -7214146844934565175
+    second: Heredia 1_62
+  - first:
+      213: 7827134206630382031
+    second: Heredia 1_63
+  - first:
+      213: -476215707964160896
+    second: Heredia 1_64
+  - first:
+      213: 8876167639392543713
+    second: Heredia 1_65
+  - first:
+      213: -1603439175421811673
+    second: Heredia 1_66
+  - first:
+      213: -6189088727144973600
+    second: Heredia 1_67
+  - first:
+      213: -3015097192301747772
+    second: Heredia 1_68
+  - first:
+      213: -9087622095028501675
+    second: Heredia 1_69
+  - first:
+      213: 4534482173028841837
+    second: Heredia 1_70
+  - first:
+      213: 5972958762705786194
+    second: Heredia 1_71
+  - first:
+      213: 1934829256713695983
+    second: Heredia 1_72
+  - first:
+      213: -5868990534905114987
+    second: Heredia 1_73
+  - first:
+      213: -6392228682357311900
+    second: Heredia 1_74
+  - first:
+      213: 4047997449926299791
+    second: Heredia 1_75
+  - first:
+      213: 8544964241797188622
+    second: Heredia 1_76
+  - first:
+      213: 6446587896889003717
+    second: Heredia 1_77
+  - first:
+      213: 8860815641293025948
+    second: Heredia 1_78
+  - first:
+      213: -8539318530657098667
+    second: Heredia 1_79
+  - first:
+      213: -5943996895684261219
+    second: Heredia 1_80
+  - first:
+      213: 2242064088343174073
+    second: Heredia 1_81
+  - first:
+      213: 3377219184554249744
+    second: Heredia 1_82
+  - first:
+      213: 4702362083652697341
+    second: Heredia 1_83
+  - first:
+      213: 2873509128303481189
+    second: Heredia 1_84
+  - first:
+      213: -2808118687860750290
+    second: Heredia 1_85
+  - first:
+      213: -1255276505854901974
+    second: Heredia 1_86
+  - first:
+      213: -3177355530493021153
+    second: Heredia 1_87
+  - first:
+      213: -775214536112606171
+    second: Heredia 1_88
+  - first:
+      213: -4342835909322175210
+    second: Heredia 1_89
+  - first:
+      213: 7268279492747590825
+    second: Heredia 1_90
+  - first:
+      213: 5724388662002951998
+    second: Heredia 1_91
+  - first:
+      213: -8736323704854840614
+    second: Heredia 1_92
+  - first:
+      213: 4226339952975410943
+    second: Heredia 1_93
+  - first:
+      213: 1005679448448364351
+    second: Heredia 1_94
+  - first:
+      213: -4043087685036477471
+    second: Heredia 1_95
+  - first:
+      213: 8983931305518551891
+    second: Heredia 1_96
+  - first:
+      213: -3165130733846957419
+    second: Heredia 1_97
+  - first:
+      213: -9018704413357930061
+    second: Heredia 1_98
+  - first:
+      213: -7786101707699828627
+    second: Heredia 1_99
+  - first:
+      213: -1220507972854721428
+    second: Heredia 1_100
+  - first:
+      213: 773126006060355622
+    second: Heredia 1_101
+  - first:
+      213: -5674582302158092661
+    second: Heredia 1_102
+  - first:
+      213: 8604620824719622001
+    second: Heredia 1_103
+  - first:
+      213: 4878526612890948920
+    second: Heredia 1_104
+  - first:
+      213: -1503446484135313984
+    second: Heredia 1_105
+  - first:
+      213: -7296298110634490054
+    second: Heredia 1_106
+  - first:
+      213: -5339289232223792188
+    second: Heredia 1_107
+  - first:
+      213: 3695724597644992226
+    second: Heredia 1_108
+  - first:
+      213: -4560279753224080586
+    second: Heredia 1_109
+  - first:
+      213: -6739265086392195721
+    second: Heredia 1_110
+  - first:
+      213: -8691321068926886832
+    second: Heredia 1_111
+  - first:
+      213: -9221361944058947196
+    second: Heredia 1_112
+  - first:
+      213: 758281670634574536
+    second: Heredia 1_113
+  - first:
+      213: -2157108629984372635
+    second: Heredia 1_114
+  - first:
+      213: -2506218176051533609
+    second: Heredia 1_115
+  - first:
+      213: -8004576839084358360
+    second: Heredia 1_116
+  - first:
+      213: -4770020079964862990
+    second: Heredia 1_117
+  - first:
+      213: -7831064701711786663
+    second: Heredia 1_118
+  - first:
+      213: 3669441089211977867
+    second: Heredia 1_119
+  - first:
+      213: -3271072639539928695
+    second: Heredia 1_120
+  - first:
+      213: 2608635163415530709
+    second: Heredia 1_121
+  - first:
+      213: -1346961252029165316
+    second: Heredia 1_122
+  - first:
+      213: -6145409149034265581
+    second: Heredia 1_123
+  - first:
+      213: -2456628344141878039
+    second: Heredia 1_124
+  - first:
+      213: -4205487549430495703
+    second: Heredia 1_125
+  - first:
+      213: -1784907171596998594
+    second: Heredia 1_126
+  - first:
+      213: 358229606933739120
+    second: Heredia 1_127
+  - first:
+      213: 2140136598521471499
+    second: Heredia 1_128
+  - first:
+      213: -186157884714075834
+    second: Heredia 1_129
+  - first:
+      213: 4715721577530343282
+    second: Heredia 1_130
+  - first:
+      213: 3238055920287883041
+    second: Heredia 1_131
+  - first:
+      213: -3014213674751862498
+    second: Heredia 1_132
+  - first:
+      213: 5572758916227688874
+    second: Heredia 1_133
+  - first:
+      213: 3911276125386903438
+    second: Heredia 1_134
+  - first:
+      213: 3093859506043762231
+    second: Heredia 1_135
+  - first:
+      213: 4972464869534619454
+    second: Heredia 1_136
+  - first:
+      213: -5258708212141613648
+    second: Heredia 1_137
+  - first:
+      213: -5442061953213361880
+    second: Heredia 1_138
+  - first:
+      213: -2617398140237539854
+    second: Heredia 1_139
+  - first:
+      213: -1167520230321727452
+    second: Heredia 1_140
+  - first:
+      213: -1767632533895282480
+    second: Heredia 1_141
+  - first:
+      213: -3299188140587844585
+    second: Heredia 1_142
+  - first:
+      213: 4898296573853570153
+    second: Heredia 1_143
+  - first:
+      213: 2229521629884155997
+    second: Heredia 1_144
+  - first:
+      213: -4399635300310407628
+    second: Heredia 1_145
+  - first:
+      213: -4431249252658746194
+    second: Heredia 1_146
+  - first:
+      213: 6881159827157265685
+    second: Heredia 1_147
+  - first:
+      213: -8381988697809235775
+    second: Heredia 1_148
+  - first:
+      213: 1093282874690380667
+    second: Heredia 1_149
+  - first:
+      213: 7414776435768316396
+    second: Heredia 1_150
+  - first:
+      213: 1019177138857727292
+    second: Heredia 1_151
+  - first:
+      213: -2550314990322067555
+    second: Heredia 1_152
+  - first:
+      213: 2700642972790453816
+    second: Heredia 1_153
+  - first:
+      213: -412348062487089549
+    second: Heredia 1_154
+  - first:
+      213: 6556432121583319593
+    second: Heredia 1_155
+  - first:
+      213: -418632956068823903
+    second: Heredia 1_156
+  - first:
+      213: 1005000085810557054
+    second: Heredia 1_157
+  - first:
+      213: -6080738626854412004
+    second: Heredia 1_158
+  - first:
+      213: 3929366921288430687
+    second: Heredia 1_159
+  - first:
+      213: 384925237521997635
+    second: Heredia 1_160
+  - first:
+      213: 3040793267388572540
+    second: Heredia 1_161
+  - first:
+      213: 1476780418277453622
+    second: Heredia 1_162
+  - first:
+      213: -3990088788725170231
+    second: Heredia 1_163
+  - first:
+      213: -9038848205042033127
+    second: Heredia 1_164
+  - first:
+      213: -3199793591213849587
+    second: Heredia 1_165
+  - first:
+      213: -4126392547857716058
+    second: Heredia 1_166
+  - first:
+      213: -7919820188967487169
+    second: Heredia 1_167
+  - first:
+      213: -295958926224325190
+    second: Heredia 1_168
+  - first:
+      213: -6547037836272908428
+    second: Heredia 1_169
+  - first:
+      213: 5969408965233376769
+    second: Heredia 1_170
+  - first:
+      213: 6695419317459757176
+    second: Heredia 1_171
+  - first:
+      213: 472272437061944765
+    second: Heredia 1_172
+  - first:
+      213: -4114607732435736996
+    second: Heredia 1_173
+  - first:
+      213: -3612379451906899624
+    second: Heredia 1_174
+  - first:
+      213: -3482805710170642329
+    second: Heredia 1_175
+  - first:
+      213: 4539207378825620252
+    second: Heredia 1_176
+  - first:
+      213: 8996896314745656378
+    second: Heredia 1_177
+  - first:
+      213: 1987301330112089424
+    second: Heredia 1_178
+  - first:
+      213: 4630861738987180892
+    second: Heredia 1_179
+  - first:
+      213: -1425295406969234476
+    second: Heredia 1_180
+  - first:
+      213: 6578471522397640125
+    second: Heredia 1_181
+  - first:
+      213: -8815346831158049966
+    second: Heredia 1_182
+  - first:
+      213: 1823398376836098326
+    second: Heredia 1_183
+  - first:
+      213: 1150406085717417692
+    second: Heredia 1_184
+  - first:
+      213: 8228116073944867921
+    second: Heredia 1_185
+  - first:
+      213: -3278762536440825093
+    second: Heredia 1_186
+  - first:
+      213: -5282058238233196431
+    second: Heredia 1_187
+  - first:
+      213: -8457251183706964370
+    second: Heredia 1_188
+  - first:
+      213: 1367034423865831565
+    second: Heredia 1_189
+  - first:
+      213: 8164685719152496170
+    second: Heredia 1_190
+  - first:
+      213: 7336510792615960897
+    second: Heredia 1_191
+  - first:
+      213: 4904833482999085867
+    second: Heredia 1_192
+  - first:
+      213: -302833288842806314
+    second: Heredia 1_193
+  - first:
+      213: -7107910336425809782
+    second: Heredia 1_194
+  - first:
+      213: -3986624582346140746
+    second: Heredia 1_195
+  - first:
+      213: -6570410881950733129
+    second: Heredia 1_196
+  - first:
+      213: 3962361545787195127
+    second: Heredia 1_197
+  - first:
+      213: -7219500535374796334
+    second: Heredia 1_198
+  - first:
+      213: 5526873034985377918
+    second: Heredia 1_199
+  - first:
+      213: -7387902802222405231
+    second: Heredia 1_200
+  - first:
+      213: -8387076035141206923
+    second: Heredia 1_201
+  - first:
+      213: -9075166856831422248
+    second: Heredia 1_202
+  - first:
+      213: 8911062742339916263
+    second: Heredia 1_203
+  - first:
+      213: -5723969163282233415
+    second: Heredia 1_204
+  - first:
+      213: -3537526728292150514
+    second: Heredia 1_205
+  - first:
+      213: -9214549274422409987
+    second: Heredia 1_206
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heredia 1_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1586
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511864581c356af90800000000000000
+      internalID: -6942769684915257067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1586
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892c6c75cbde1f800800000000000000
+      internalID: 644557614872969880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1587
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8bd440058313c10800000000000000
+      internalID: 2031466823241545958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1587
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0ef9f88f4371800800000000000000
+      internalID: 582992918933922033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1471
+        width: 57
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0df58f2ba3672b0800000000000000
+      internalID: -5587213747360903004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1471
+        width: 57
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5beb2a6bce982e60800000000000000
+      internalID: 7937768939737312090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1471
+        width: 57
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9cdf0c54545e670800000000000000
+      internalID: 8567330032035154418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1471
+        width: 57
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccef23af71890fe0800000000000000
+      internalID: -1222303438655722290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1470
+        width: 57
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d11aab4c0b3861a0800000000000000
+      internalID: -6816133112030162474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1470
+        width: 57
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b42f2591fc474ca0800000000000000
+      internalID: -6032768575365765967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1470
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8aeff7ca02fe200800000000000000
+      internalID: 211423632763562195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1347
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03530e29142a7b830800000000000000
+      internalID: 4086913589382755632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1349
+        width: 50
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf279ccbe37800490800000000000000
+      internalID: -7782071452571176196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1351
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a4422b7d70383a0800000000000000
+      internalID: -6664474400590116267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1351
+        width: 49
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218d6b2a0044056c0800000000000000
+      internalID: -4156747686542387182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1353
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bae6ce2f0533640800000000000000
+      internalID: 5058475810746182442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_51
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1350
+        width: 52
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb1ce236749e660800000000000000
+      internalID: 7415536752754015994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_52
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1352
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78625c52dbe01a5e0800000000000000
+      internalID: -1900221362228353401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1352
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291b64094ca5a82c0800000000000000
+      internalID: -4428627483284819566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1270
+        width: 65
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7df2489047423eb0800000000000000
+      internalID: -4741649114909704837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_58
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1265
+        width: 65
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767edabe2afef7200800000000000000
+      internalID: 180125993135892327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_59
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1266
+        width: 65
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b9c55925da2cfb0800000000000000
+      internalID: -4628946896778650828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_60
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1265
+        width: 65
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f28974195fcb48a0800000000000000
+      internalID: -6319729670581812491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1265
+        width: 67
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ff4e5d30441c90800000000000000
+      internalID: -7200059271939100318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_62
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1264
+        width: 65
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c29b2eaaa332eb90800000000000000
+      internalID: -7214146844934565175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1176
+        width: 70
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea36270890fb1aa0800000000000000
+      internalID: -6189088727144973600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_68
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1178
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a39904193826d0800000000000000
+      internalID: -3015097192301747772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_69
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1171
+        width: 56
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553c5d45ad742e180800000000000000
+      internalID: -9087622095028501675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1068
+        width: 61
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466770181ed3a47a0800000000000000
+      internalID: -6392228682357311900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1067
+        width: 70
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a07b6e05ea28da0800000000000000
+      internalID: -5943996895684261219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_81
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1066
+        width: 59
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbda5dc8696d1f10800000000000000
+      internalID: 2242064088343174073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_82
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1063
+        width: 43
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e8dff74fa4ede20800000000000000
+      internalID: 3377219184554249744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_83
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1063
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc7261a665224140800000000000000
+      internalID: 4702362083652697341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_84
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1061
+        width: 43
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5611f53e351c0e720800000000000000
+      internalID: 2873509128303481189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_88
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1029
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524f9469c72ed35f0800000000000000
+      internalID: -775214536112606171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1029
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d8a03ffb52bb3c0800000000000000
+      internalID: -4342835909322175210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_90
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1029
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acf97d80bd1ed460800000000000000
+      internalID: 7268279492747590825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_91
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1029
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a5f2b82d117f40800000000000000
+      internalID: 5724388662002951998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1029
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada7d41a0e752c680800000000000000
+      internalID: -8736323704854840614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_93
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1029
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6f32d8bc9f6aa30800000000000000
+      internalID: 4226339952975410943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_94
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1029
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fecaa4124e4fd00800000000000000
+      internalID: 1005679448448364351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_95
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1029
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f4a1fb2114e7c0800000000000000
+      internalID: -4043087685036477471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 947
+        width: 65
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d1f76ce55dac70800000000000000
+      internalID: 8983931305518551891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_97
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 948
+        width: 60
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592716dfd523314d0800000000000000
+      internalID: -3165130733846957419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_98
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 926
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b98d838e1027d280800000000000000
+      internalID: -9018704413357930061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d684d77dfb532f390800000000000000
+      internalID: -7786101707699828627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 926
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6456781772ef0fe0800000000000000
+      internalID: -1220507972854721428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_101
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 926
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62018dd9102baba00800000000000000
+      internalID: 773126006060355622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_102
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86062f1675df31b0800000000000000
+      internalID: -5674582302158092661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_103
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 926
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f77540d01c96770800000000000000
+      internalID: 8604620824719622001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_104
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 926
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83597ac5b1204b340800000000000000
+      internalID: 4878526612890948920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_105
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdfd46636fa22be0800000000000000
+      internalID: -1503446484135313984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37074c96875eba90800000000000000
+      internalID: -7296298110634490054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_107
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c39b386bb807e5b0800000000000000
+      internalID: -5339289232223792188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_108
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 926
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9d46d0f9d94330800000000000000
+      internalID: 3695724597644992226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_109
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6333ca0d9b1a6b0c0800000000000000
+      internalID: -4560279753224080586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_110
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775a66e2c125972a0800000000000000
+      internalID: -6739265086392195721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_111
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c9eb15989326780800000000000000
+      internalID: -8691321068926886832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_112
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4899f033b24270080800000000000000
+      internalID: -9221361944058947196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_113
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 926
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c21dd17925f58a00800000000000000
+      internalID: 758281670634574536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_114
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 926
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5681adf31296012e0800000000000000
+      internalID: -2157108629984372635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_115
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d822dee8df183dd0800000000000000
+      internalID: -2506218176051533609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_116
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 926
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825ce0166c70ae090800000000000000
+      internalID: -8004576839084358360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_117
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 926
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c63a820c7dcdb0800000000000000
+      internalID: -4770020079964862990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_118
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d5e510528725390800000000000000
+      internalID: -7831064701711786663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_119
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 926
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d3b6aa397ce230800000000000000
+      internalID: 3669441089211977867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_120
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 926
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98129b5e3c0da92d0800000000000000
+      internalID: -3271072639539928695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_121
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 926
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcc9f72cdbb33420800000000000000
+      internalID: 2608635163415530709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_122
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 926
+        width: 21
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf01696b0e1ae4de0800000000000000
+      internalID: -1346961252029165316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_123
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314806050fe17baa0800000000000000
+      internalID: -6145409149034265581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_124
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec644a698d48edd0800000000000000
+      internalID: -2456628344141878039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_125
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9260edcfa5b13a5c0800000000000000
+      internalID: -4205487549430495703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_126
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38e9ef526cba37e0800000000000000
+      internalID: -1784907171596998594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_127
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 926
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0763055fdefa8f400800000000000000
+      internalID: 358229606933739120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_128
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 926
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026fadb5ea43bd10800000000000000
+      internalID: 2140136598521471499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_129
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 926
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ba71e362aa6df0800000000000000
+      internalID: -186157884714075834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_130
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f37503acb917140800000000000000
+      internalID: 4715721577530343282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_131
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 926
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f1c9b14b2efec20800000000000000
+      internalID: 3238055920287883041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_132
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 926
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e195a4ff1ac5b26d0800000000000000
+      internalID: -3014213674751862498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_133
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa964a465ba665d40800000000000000
+      internalID: 5572758916227688874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_134
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 926
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f0728c9e4a74630800000000000000
+      internalID: 3911276125386903438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_135
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 926
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73634ba24d89fea20800000000000000
+      internalID: 3093859506043762231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_136
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3758be147eb10540800000000000000
+      internalID: 4972464869534619454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_137
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd9edd2eb05507b0800000000000000
+      internalID: -5258708212141613648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_138
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8219c01ac79e974b0800000000000000
+      internalID: -5442061953213361880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_139
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 926
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f59f5f42422dabd0800000000000000
+      internalID: -2617398140237539854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_140
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428579b49822ccfe0800000000000000
+      internalID: -1167520230321727452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_141
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d08fb3639b1877e0800000000000000
+      internalID: -1767632533895282480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_142
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c7411bddde632d0800000000000000
+      internalID: -3299188140587844585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_143
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 926
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9641e0918ce3af340800000000000000
+      internalID: 4898296573853570153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_144
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 926
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d588b402c1ad0fe10800000000000000
+      internalID: 2229521629884155997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_145
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 926
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436aabf210b51f2c0800000000000000
+      internalID: -4399635300310407628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_146
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 852
+        width: 89
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac6f00584a0182c0800000000000000
+      internalID: -4431249252658746194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_147
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 848
+        width: 74
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51da564a76ace7f50800000000000000
+      internalID: 6881159827157265685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_148
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 839
+        width: 50
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0ddb360b13dab80800000000000000
+      internalID: -8381988697809235775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_149
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 834
+        width: 65
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7320f86bfe1c2f00800000000000000
+      internalID: 1093282874690380667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_150
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 854
+        width: 77
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce158e612e396e660800000000000000
+      internalID: 7414776435768316396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_151
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 807
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3550dc3538d42e00800000000000000
+      internalID: 1019177138857727292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_152
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 807
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97df7847067b9cd0800000000000000
+      internalID: -2550314990322067555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_153
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 807
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8367452a97c9a7520800000000000000
+      internalID: 2700642972790453816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_154
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 807
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee2a33f9b074af0800000000000000
+      internalID: -412348062487089549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_155
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 807
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3fe0f6402dfa50800000000000000
+      internalID: 6556432121583319593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_156
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 807
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acfe326b87b03af0800000000000000
+      internalID: -418632956068823903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_157
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 807
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70b9f9d04a72fd00800000000000000
+      internalID: 1005000085810557054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_158
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 807
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a85e9f60ec9ba0800000000000000
+      internalID: -6080738626854412004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_159
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 807
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54319f656ae78630800000000000000
+      internalID: 3929366921288430687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_160
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 742
+        width: 63
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fd49fc677875500800000000000000
+      internalID: 384925237521997635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 742
+        width: 74
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73681aad51133a20800000000000000
+      internalID: 3040793267388572540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_162
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 746
+        width: 92
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f2ea257f39e7410800000000000000
+      internalID: 1476780418277453622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_163
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 744
+        width: 61
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf74c5136b50a8c0800000000000000
+      internalID: -3990088788725170231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_164
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 720
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91edac7827f8f8280800000000000000
+      internalID: -9038848205042033127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_165
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 720
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0480299eac0893d0800000000000000
+      internalID: -3199793591213849587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_166
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 720
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac2f1d17db1cb6c0800000000000000
+      internalID: -4126392547857716058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_167
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 720
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3930a7cf75271290800000000000000
+      internalID: -7919820188967487169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_168
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 720
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab50b46bcea84ebf0800000000000000
+      internalID: -295958926224325190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_169
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 720
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47749ed86cf3425a0800000000000000
+      internalID: -6547037836272908428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_170
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 720
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e74cb93d997d250800000000000000
+      internalID: 5969408965233376769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_171
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 720
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8782a773568eaec50800000000000000
+      internalID: 6695419317459757176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_172
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 720
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db509408749dd8600800000000000000
+      internalID: 472272437061944765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_173
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 720
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a716411af5e6c0800000000000000
+      internalID: -4114607732435736996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_174
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 720
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8514b2717004eddc0800000000000000
+      internalID: -3612379451906899624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_175
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 635
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768a397c8a69aafc0800000000000000
+      internalID: -3482805710170642329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_176
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 634
+        width: 91
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1babb0bf018efe30800000000000000
+      internalID: 4539207378825620252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_177
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 634
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a349f69d7856bdc70800000000000000
+      internalID: 8996896314745656378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_178
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 534
+        width: 48
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d0ef2d700549b10800000000000000
+      internalID: 1987301330112089424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_179
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 533
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53574c5730244040800000000000000
+      internalID: 4630861738987180892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_180
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 528
+        width: 71
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5a9ff065583ce0800000000000000
+      internalID: -1425295406969234476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_181
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 408
+        width: 52
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d881defc6b4b50800000000000000
+      internalID: 6578471522397640125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_182
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 408
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25385f443c899a580800000000000000
+      internalID: -8815346831158049966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_183
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 408
+        width: 53
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e657b9230e4910800000000000000
+      internalID: 1823398376836098326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_184
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 408
+        width: 60
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde52a66d3017ff00800000000000000
+      internalID: 1150406085717417692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_185
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 365
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1546a2e89f3203270800000000000000
+      internalID: 8228116073944867921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_186
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 365
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf59048de7f72d0800000000000000
+      internalID: -3278762536440825093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_187
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 365
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1784f23940c52b6b0800000000000000
+      internalID: -5282058238233196431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_188
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 365
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ef4ea5bdec1aa80800000000000000
+      internalID: -8457251183706964370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_189
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 365
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80f04ec09ea8f210800000000000000
+      internalID: 1367034423865831565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_190
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 365
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e0ac8376ace4170800000000000000
+      internalID: 8164685719152496170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_191
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 365
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141a1b402b580d560800000000000000
+      internalID: 7336510792615960897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_192
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 365
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b3a9cd018711440800000000000000
+      internalID: 4904833482999085867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_193
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 365
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db7c507abe1ccbf0800000000000000
+      internalID: -302833288842806314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_194
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 365
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8823065531ab5d90800000000000000
+      internalID: -7107910336425809782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_195
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 365
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b31b6c701aaca8c0800000000000000
+      internalID: -3986624582346140746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_196
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 363
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc27f84d1631d4a0800000000000000
+      internalID: -6570410881950733129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_197
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 363
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe305815d22df630800000000000000
+      internalID: 3962361545787195127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_198
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 244
+        width: 58
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d92e3d738e2fcb90800000000000000
+      internalID: -7219500535374796334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_199
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 239
+        width: 90
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e701df02eb563bc40800000000000000
+      internalID: 5526873034985377918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_200
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 239
+        width: 74
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199ab6e4b85e87990800000000000000
+      internalID: -7387902802222405231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_201
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 119
+        width: 40
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c773d58ce1b9b80800000000000000
+      internalID: -8387076035141206923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_202
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 117
+        width: 77
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d03a2573d78e0280800000000000000
+      internalID: -9075166856831422248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_203
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 118
+        width: 79
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e19360f9547aab70800000000000000
+      internalID: 8911062742339916263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_204
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7
+        width: 58
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7c5457f506090b0800000000000000
+      internalID: -5723969163282233415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_205
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 11
+        width: 66
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0352b8ee2e28eec0800000000000000
+      internalID: -3537526728292150514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heredia 1_206
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 14
+        width: 56
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df408b471485f1080800000000000000
+      internalID: -9214549274422409987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

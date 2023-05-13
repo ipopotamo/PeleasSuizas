@@ -74,6 +74,7 @@ public class comboPJ2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        atacando = false;
         Combos2();
 
         if (Mivida.vida <= 100){

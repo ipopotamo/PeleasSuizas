@@ -4292,11 +4292,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 381
-        y: 628
+        y: 634
         width: 92
-        height: 118
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4436533, y: -0.0000005449568}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

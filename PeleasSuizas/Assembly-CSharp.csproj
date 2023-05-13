@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\CarcarPJ1.cs" />
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;Z&apos; o 0\SegundaHabilidadLargaDistanciaPJ1.cs" />
      <Compile Include="Assets\Scripts\EncontrarJugadores.cs" />
      <Compile Include="Assets\Scripts\Combo.cs" />
@@ -59,6 +60,7 @@
      <Compile Include="Assets\Scripts\ScripstsMCharacter\MSO2.cs" />
      <Compile Include="Assets\Scripts\VidaPJ2.cs" />
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\InstanciarLargaDistanciaPJ1.cs" />
+     <Compile Include="Assets\TPJ2.cs" />
      <Compile Include="Assets\Scripts\ScripstsMCharacter\MSP.cs" />
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\AtaqueLargaDistanciaPJ1.cs" />
      <Compile Include="Assets\Scripts\ScripstsMCharacter\Iniciopeleita.cs" />
@@ -66,6 +68,7 @@
      <Compile Include="Assets\Scripts\comboPJ2.cs" />
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\InstanciarAtaqueDistancia.cs" />
      <Compile Include="Assets\Scripts\testeosNacho\MovimientoIA.cs" />
+     <Compile Include="Assets\caragarEnergiaPJ2.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\InicioJugador2.cs" />
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;Z&apos; o 0\AtaqueRapidoPJ2.cs" />
      <Compile Include="Assets\Scripts\testeosNacho\CrondasIA.cs" />
@@ -76,7 +79,6 @@
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\AtaqueLargaDistancia.cs" />
      <Compile Include="Assets\Scripts\Movimiento2.cs" />
      <Compile Include="Assets\Scripts\AtaqueRapido.cs" />
-     <Compile Include="Assets\TPJ2.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

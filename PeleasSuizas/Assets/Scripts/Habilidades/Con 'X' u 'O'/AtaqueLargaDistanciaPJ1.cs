@@ -49,5 +49,11 @@ public class AtaqueLargaDistanciaPJ1 : MonoBehaviour
                 colisionador.transform.GetComponent<VidaPJ2>().TomarDaño(Dano);
                 Destroy(this.gameObject);
             }
+        if (colisionador.CompareTag("Habilidad"))
+            {
+                movi.VolverIdle();
+                movi.VolverAMoverse();
+                Destroy(this.gameObject);
+            }
     }
 }

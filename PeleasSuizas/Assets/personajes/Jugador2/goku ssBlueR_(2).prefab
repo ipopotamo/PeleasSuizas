@@ -50,6 +50,7 @@ GameObject:
   - component: {fileID: 6163141928698269120}
   - component: {fileID: 1066500889214408794}
   - component: {fileID: -4792710264292633402}
+  - component: {fileID: -8011835194643951581}
   m_Layer: 0
   m_Name: goku ssBlueR_(2)
   m_TagString: Jugador2
@@ -398,6 +399,18 @@ MonoBehaviour:
   areaTP: {fileID: 2355687464243755621}
   maxTP: 4
   tiempoRTP: 20
+--- !u!114 &-8011835194643951581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2355687464233849000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66159bff87a40a848a435d8ae8ea0f2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2355687464241421487
 GameObject:
   m_ObjectHideFlags: 0

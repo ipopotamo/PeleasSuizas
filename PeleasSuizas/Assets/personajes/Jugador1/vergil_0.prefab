@@ -50,6 +50,7 @@ GameObject:
   - component: {fileID: 3406073070922756154}
   - component: {fileID: 294963280827052727}
   - component: {fileID: 3696256255439311983}
+  - component: {fileID: 757980105746604844}
   m_Layer: 0
   m_Name: vergil_0
   m_TagString: Jugador1
@@ -400,6 +401,18 @@ MonoBehaviour:
   areaTP: {fileID: 1525746670320295170}
   maxTP: 4
   tiempoRTP: 20
+--- !u!114 &757980105746604844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1525746670442899668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15eb49c05224b904e883b18655098f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1525746670674737749
 GameObject:
   m_ObjectHideFlags: 0

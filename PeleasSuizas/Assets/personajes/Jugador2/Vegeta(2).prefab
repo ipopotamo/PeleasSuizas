@@ -108,6 +108,7 @@ GameObject:
   - component: {fileID: 7383952479993217860}
   - component: {fileID: 7383952479993217858}
   - component: {fileID: -7213842419830173633}
+  - component: {fileID: 4369860348363425871}
   m_Layer: 0
   m_Name: Vegeta(2)
   m_TagString: Jugador2
@@ -420,3 +421,15 @@ MonoBehaviour:
   areaTP: {fileID: 7383952479912702337}
   maxTP: 4
   tiempoRTP: 20
+--- !u!114 &4369860348363425871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7383952479993217851}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66159bff87a40a848a435d8ae8ea0f2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
