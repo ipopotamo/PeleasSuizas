@@ -1599,7 +1599,7 @@ GameObject:
   - component: {fileID: 1794612599}
   m_Layer: 0
   m_Name: GameManager
-  m_TagString: Untagged
+  m_TagString: GameManager
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1624,13 +1624,15 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 13f86ece3e0432a41b0be553d336c571, type: 2}
   - {fileID: 11400000, guid: aedf3f11875d515489aef52c30c9da47, type: 2}
   - {fileID: 11400000, guid: 9a434893c9f6b0c4e949d4cbb0e77d83, type: 2}
+  - {fileID: 11400000, guid: ebdded4476048eb48bd05106b54006a9, type: 2}
   PersonajesJugador2:
-  - {fileID: 11400000, guid: 7761084378f4218469a8b86d48cc0316, type: 2}
   - {fileID: 11400000, guid: e9c13096a8b8c004aafa62847fb33e76, type: 2}
   - {fileID: 11400000, guid: a3ef30e9d13a05e4796213fccb98783c, type: 2}
+  - {fileID: 11400000, guid: 7761084378f4218469a8b86d48cc0316, type: 2}
   - {fileID: 11400000, guid: cb26c9ab53c29f84aa42dbb3e5a5671e, type: 2}
   - {fileID: 11400000, guid: 695f227435101894da901c703dcad787, type: 2}
   - {fileID: 11400000, guid: a04eab639a9baa34288e6ef9851eda22, type: 2}
+  - {fileID: 11400000, guid: 41bf0abc0ba827845970336e932a0c73, type: 2}
 --- !u!4 &1794612600
 Transform:
   m_ObjectHideFlags: 0

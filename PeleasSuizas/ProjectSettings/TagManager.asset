@@ -22,6 +22,17 @@ TagManager:
   - TPPJ2
   - Habilidad
   - TPPJ1
+  - GameManager
+  - DespertarPJ1
+  - DespertarPJ2
+  - ContHabZ
+  - TextZ
+  - ContHabX
+  - TextX
+  - ContHabZ2
+  - ContHabX2
+  - TextZ2
+  - TextX2
   layers:
   - Default
   - TransparentFX

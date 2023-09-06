@@ -379,7 +379,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AtaqueDespertar: {fileID: 5250505663881409775, guid: cef650fa7fa4bfd4bac2783f015a833d, type: 3}
-  AtaqueBase: {fileID: 5250505663881409775, guid: cef650fa7fa4bfd4bac2783f015a833d, type: 3}
+  AtaqueBase: {fileID: 1300525559304375736, guid: ad6f33f1f7956e941a4df0a47e4356d5, type: 3}
   tiempoEntreAtaques: 10
   tiempoSiguienteAtaque: 0
   TiempoDeVida: 1

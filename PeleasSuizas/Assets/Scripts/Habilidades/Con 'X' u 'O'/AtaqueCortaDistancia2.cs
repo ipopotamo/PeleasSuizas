@@ -23,6 +23,13 @@ public class AtaqueCortaDistancia2 : MonoBehaviour
 
     [SerializeField] private float tiempoEntreAtaques;
     [SerializeField] private float tiempoSiguienteAtaque;
+
+    //Cuenta regresiva para la recarga
+    private Image fillableImage;
+    private Text textoTiempo;
+
+    private string texto;
+    private float tiempoRestante;
     
     void Start()
     {
@@ -31,8 +38,13 @@ public class AtaqueCortaDistancia2 : MonoBehaviour
         combo = GetComponent<comboPJ2>();
         anim = GetComponent<Animator>();
         Mivida = GetComponent<VidaPJ2>();
-        Energia.value = 50;
         Energia.value = Energia.maxValue;
+
+        textoTiempo = GameObject.FindGameObjectWithTag("TextX2").GetComponent<Text>();
+        fillableImage = GameObject.FindGameObjectWithTag("ContHabX2").GetComponent<Image>();
+        
+        textoTiempo.enabled = false;
+        tiempoRestante = tiempoEntreAtaques;
 
         
     }
@@ -51,10 +63,25 @@ public class AtaqueCortaDistancia2 : MonoBehaviour
 
     void Update()
     {
+        texto = tiempoSiguienteAtaque.ToString("F0");
+        textoTiempo.text = texto;
+
         Energia = GameObject.FindGameObjectWithTag("EnergiaPJ2").GetComponent<Slider>();
         if (tiempoSiguienteAtaque>0)
         {
             tiempoSiguienteAtaque -= Time.deltaTime;
+
+            tiempoRestante -= Time.deltaTime;
+            float fillAmount = tiempoRestante / tiempoEntreAtaques;
+            fillableImage.fillAmount = fillAmount;
+
+            if (tiempoRestante <= 0)
+                {
+                    tiempoRestante = 0;
+                    fillableImage.fillAmount = 0;
+                    textoTiempo.enabled = false;
+                    // Aquí puedes agregar cualquier lógica adicional que desees cuando el cronómetro llegue a cero.
+                }
         }
 
         Metros = XMetros;
@@ -91,6 +118,11 @@ public class AtaqueCortaDistancia2 : MonoBehaviour
             Avanza = true;
             //DondeIr();
             combo.atacando = true;
+
+            fillableImage.fillAmount = 1;
+            textoTiempo.enabled = true;
+            tiempoRestante = tiempoEntreAtaques; 
+
         }
     }
 }

@@ -21,21 +21,53 @@ public class SegundaHabilidadDistanciaPJ2 : MonoBehaviour
     [SerializeField] private float EnergiaNecearia;
     private Slider Energia2;
 
+    //Cuenta regresiva para la recarga
+    private Image fillableImage;
+    private Text textoTiempo;
+
+    private string texto;
+    private float tiempoRestante;
+
+    //----------------------------------------------------------------
+
     void Start() {
         anim = GetComponent<Animator>();
         Energia2 = GameObject.FindGameObjectWithTag("EnergiaPJ2").GetComponent<Slider>();
         combo = GetComponent<comboPJ2>();
+
+
+        textoTiempo = GameObject.FindGameObjectWithTag("TextZ2").GetComponent<Text>();
+        fillableImage = GameObject.FindGameObjectWithTag("ContHabZ2").GetComponent<Image>();
+        
+        textoTiempo.enabled = false;
+        tiempoRestante = tiempoEntreAtaques;
     }
 
     void Update()
     {
+        texto = tiempoSiguienteAtaque.ToString("F0");
+        textoTiempo.text = texto;
         if (tiempoSiguienteAtaque>0)
         {
             tiempoSiguienteAtaque -= Time.deltaTime;
+
+            tiempoRestante -= Time.deltaTime;
+            float fillAmount = tiempoRestante / tiempoEntreAtaques;
+            fillableImage.fillAmount = fillAmount;
+
+            if (tiempoRestante <= 0)
+                {
+                    tiempoRestante = 0;
+                    fillableImage.fillAmount = 0;
+                    textoTiempo.enabled = false;
+                }
         }
 
         if (Input.GetKeyDown(KeyCode.Alpha0) && tiempoSiguienteAtaque <= 0 && Energia2.value >= EnergiaNecearia){
             anim.SetBool("SuperAtaque2", true);
+            fillableImage.fillAmount = 1;
+            textoTiempo.enabled = true;
+            tiempoRestante = tiempoEntreAtaques;  
         }       
         
     }

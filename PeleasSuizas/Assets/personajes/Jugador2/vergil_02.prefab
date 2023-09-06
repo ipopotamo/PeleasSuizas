@@ -437,8 +437,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e4762b04a494844e8e99b45080d8dd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AtaqueDespertar: {fileID: 5250505663881409775, guid: cef650fa7fa4bfd4bac2783f015a833d, type: 3}
-  AtaqueBase: {fileID: 5250505663881409775, guid: cef650fa7fa4bfd4bac2783f015a833d, type: 3}
+  AtaqueDespertar: {fileID: 6345063448504558488, guid: d7d116a69ce998a4d8ebd6529c868fb8, type: 3}
+  AtaqueBase: {fileID: 6345063448504558488, guid: d7d116a69ce998a4d8ebd6529c868fb8, type: 3}
   tiempoEntreAtaques: 15
   tiempoSiguienteAtaque: 0
   TiempoDeVida: 1

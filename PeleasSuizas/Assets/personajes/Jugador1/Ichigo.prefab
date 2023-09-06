@@ -177,6 +177,7 @@ MonoBehaviour:
   control: {fileID: 1590898375464048840}
   radioAtaque: 0.5
   Dano: 10
+  TransfDisp: {fileID: 0}
   anim: {fileID: 0}
   combo: 0
   atacando: 0

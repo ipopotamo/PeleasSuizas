@@ -1184,6 +1184,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: aura
       objectReference: {fileID: 0}
+    - target: {fileID: 8250703148703800976, guid: 4e5b3cda739ac7b4c9c4d2b1e3487ab9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e5b3cda739ac7b4c9c4d2b1e3487ab9, type: 3}
 --- !u!4 &6082531545214764740 stripped

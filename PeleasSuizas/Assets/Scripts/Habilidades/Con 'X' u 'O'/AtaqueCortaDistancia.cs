@@ -23,6 +23,13 @@ public class AtaqueCortaDistancia : MonoBehaviour
 
     [SerializeField] private float tiempoEntreAtaques;
     [SerializeField] private float tiempoSiguienteAtaque;
+
+        //Cuenta regresiva para la recarga
+    private Image fillableImage;
+    private Text textoTiempo;
+
+    private string texto;
+    private float tiempoRestante;
     
     void Start()
     {
@@ -34,6 +41,12 @@ public class AtaqueCortaDistancia : MonoBehaviour
         Energia = GameObject.FindGameObjectWithTag("EnergiaPJ1").GetComponent<Slider>();
         Energia.value = Energia.maxValue;
 
+        
+        textoTiempo = GameObject.FindGameObjectWithTag("TextX").GetComponent<Text>();
+        fillableImage = GameObject.FindGameObjectWithTag("ContHabX").GetComponent<Image>();
+        
+        textoTiempo.enabled = false;
+        tiempoRestante = tiempoEntreAtaques;
         
     }
 
@@ -51,10 +64,24 @@ public class AtaqueCortaDistancia : MonoBehaviour
 
     void Update()
     {
+        texto = tiempoSiguienteAtaque.ToString("F0");
+        textoTiempo.text = texto;
         Energia = GameObject.FindGameObjectWithTag("EnergiaPJ1").GetComponent<Slider>();
         if (tiempoSiguienteAtaque>0)
         {
             tiempoSiguienteAtaque -= Time.deltaTime;
+
+            tiempoRestante -= Time.deltaTime;
+                float fillAmount = tiempoRestante / tiempoEntreAtaques;
+                fillableImage.fillAmount = fillAmount;
+
+                if (tiempoRestante <= 0)
+                {
+                    tiempoRestante = 0;
+                    fillableImage.fillAmount = 0;
+                    textoTiempo.enabled = false;
+                    // Aquí puedes agregar cualquier lógica adicional que desees cuando el cronómetro llegue a cero.
+                }     
         }
 
 
@@ -90,6 +117,12 @@ public class AtaqueCortaDistancia : MonoBehaviour
             Avanza = true;
             //DondeIr();
             combo.atacando = true;
+
+            fillableImage.fillAmount = 1;
+            textoTiempo.enabled = true;
+            tiempoRestante = tiempoEntreAtaques; 
+
+
         }
     }
 
