@@ -12,7 +12,7 @@ public class Combo : MonoBehaviour
 
 
 
-    private bool puedeTransformarse = false;
+    [SerializeField] private bool puedeTransformarse = false;
     private bool transformado = false;
 
     public bool TRANSFORMADOO{get => transformado; set => transformado = value;}

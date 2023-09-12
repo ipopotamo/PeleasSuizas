@@ -610,7 +610,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 200
-  defe: 12
+  defe: 10
 --- !u!114 &3767924981508027682
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -626,6 +626,7 @@ MonoBehaviour:
   control: {fileID: 7813568301014559975}
   radioAtaque: 0.8
   Dano: 10
+  TransfDisp: {fileID: 0}
   anim: {fileID: 0}
   combo: 0
   atacando: 0

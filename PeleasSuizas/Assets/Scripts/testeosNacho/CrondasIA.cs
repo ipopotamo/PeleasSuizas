@@ -13,8 +13,7 @@ public class CrondasIA : MonoBehaviour
 
     [SerializeField] private GameObject controlador;
 
-    private MovimientoVSIA   PJ1;
-    private MovimientoIA     PJ2;
+    private Movimiento PJ1;
 
     private Animator Personaje;
     private Animator Personaje2;
@@ -22,8 +21,8 @@ public class CrondasIA : MonoBehaviour
     static private float win1P1;
     static private float win1P2;
 
-    public VidaPJ1IA vidaUwU1;
-    public VidaIa  vidaUwU2;
+    public VidaPJ1 vidaUwU1;
+    public IAgeneral  vidaUwU2;
   
 
     private void Start()
@@ -32,7 +31,7 @@ public class CrondasIA : MonoBehaviour
         ronda1win  = GameObject.FindGameObjectWithTag("Ronda1PJ1");
         ronda1win2 = GameObject.FindGameObjectWithTag("Ronda1PJ2");
 
-        CartelVictoria.SetActive(false);
+        //CartelVictoria.SetActive(false);
     }
     void Awake()
     {
@@ -43,15 +42,13 @@ public class CrondasIA : MonoBehaviour
 
     void Update()
     {
-        vidaUwU2   = GameObject.FindGameObjectWithTag("IA").GetComponent<VidaIa>();
-        vidaUwU1   = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1IA>();
+        vidaUwU2   = GameObject.FindGameObjectWithTag("IA").GetComponent<IAgeneral>();
+        vidaUwU1   = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
 
         Personaje = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Animator>();
         Personaje2 = GameObject.FindGameObjectWithTag("IA").GetComponent<Animator>();
 
-
-        PJ2 = GameObject.FindGameObjectWithTag("IA").GetComponent<MovimientoIA>();
-        PJ1 = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<MovimientoVSIA>();
+        PJ1 = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Movimiento>();
 
         if (vidaUwU1.vida <= 0)
         {        
@@ -64,13 +61,13 @@ public class CrondasIA : MonoBehaviour
             }    
             if(win1P2 == 3f)
             {
-                Personaje2.SetTrigger("Victoria");
+                //Personaje2.SetTrigger("Victoria");
                 //PJ2.Fsalto = 0;
                 if (Input.GetKey("p") || Input.GetKey("i") || Input.GetKeyDown(KeyCode.UpArrow)) 
                 {
                     Debug.Log("Nada");
                 }
-                PJ2.movi = 0;
+                vidaUwU2.movi = 0;
                 //Time.timeScale = 0f;
                 CartelVictoria.SetActive(true);
                 //SceneManager.LoadScene("Ganador");

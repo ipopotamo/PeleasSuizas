@@ -12,6 +12,9 @@ public class VidaPJ1 : MonoBehaviour
     private Movimiento movi;
 
     private VidaPJ2 LavidaDelOtro;
+    private IAgeneral IALavidaDelOtro;
+
+    public bool ContraJ2;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,25 +24,59 @@ public class VidaPJ1 : MonoBehaviour
        
         slider.value = vida;
         anim = GetComponent<Animator>();
-        LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
+        
+       if (ContraJ2 == true)
+        {
+            GameObject jugador2Obj = GameObject.FindGameObjectWithTag("Jugador2");
+            if (jugador2Obj != null)
+                {
+                    LavidaDelOtro = jugador2Obj.GetComponent<VidaPJ2>();
+                }
+        }
+        else
+            {
+            GameObject iaObj = GameObject.FindGameObjectWithTag("IA");
+            if (iaObj != null)
+                {
+                    IALavidaDelOtro = iaObj.GetComponent<IAgeneral>();
+                }
+        }
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if(ContraJ2 == true){
+            LavidaDelOtro = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
+        }else{
+            IALavidaDelOtro = GameObject.FindGameObjectWithTag("IA").GetComponent<IAgeneral>();
+        }
         slider.value = vida;
-        if(vida > 0 && LavidaDelOtro.vida >0){
-            
-            if (Input.GetKey("v") && vida > 0)
-            {
-                anim.SetTrigger("Defensa");
+        if(ContraJ2){
+            if(vida > 0 && LavidaDelOtro != null && LavidaDelOtro.vida > 0){
+                if (Input.GetKey("v") && vida > 0)
+                {
+                    anim.SetTrigger("Defensa");
+                }
+                if (Input.GetKey("v") && Input.GetKey("c"))
+                {
+                    anim.SetTrigger("0");
+                }
             }
-            if (Input.GetKey("v") && Input.GetKey("c"))
-            {
-                anim.SetTrigger("0");
+        }else{
+            if(vida > 0 && IALavidaDelOtro != null && IALavidaDelOtro.vida > 0){
+                if (Input.GetKey("v") && vida > 0)
+                {
+                    anim.SetTrigger("Defensa");
+                }
+                if (Input.GetKey("v") && Input.GetKey("c"))
+                {
+                    anim.SetTrigger("0");
+                }
             }
         }
+        
 
         if (vida <= 0)
             {
