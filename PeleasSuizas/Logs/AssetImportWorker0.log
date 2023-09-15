@@ -1,0 +1,236 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.32f1 (12f8b0834f07) revision 1243312'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'es' Physical Memory: 16318 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Octavio/Desktop/PeleasSuizas/PeleasSuizas
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51838
+Successfully changed project path to: C:/Users/Octavio/Desktop/PeleasSuizas/PeleasSuizas
+C:/Users/Octavio/Desktop/PeleasSuizas/PeleasSuizas
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 140.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.32f1 (12f8b0834f07)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Octavio/Desktop/PeleasSuizas/PeleasSuizas/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0xf02)
+    Vendor:   
+    VRAM:     2000 MB
+    Driver:   22.21.13.8165
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56892
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005370 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 141.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.553 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1554ms)
+		BeginReloadAssembly (156ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1203ms)
+			LoadAssemblies (152ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (379ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (484ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (141ms)
+				BeforeProcessingInitializeOnLoad (33ms)
+				ProcessInitializeOnLoadAttributes (221ms)
+				ProcessInitializeOnLoadMethodAttributes (75ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007349 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 143.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.963 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2965ms)
+		BeginReloadAssembly (383ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (2418ms)
+			LoadAssemblies (243ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (759ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (135ms)
+			SetupLoadedEditorAssemblies (971ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (144ms)
+				BeforeProcessingInitializeOnLoad (208ms)
+				ProcessInitializeOnLoadAttributes (551ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2411 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 106.2 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2845.
+Total: 7.602000 ms (FindLiveObjects: 0.408000 ms CreateObjectMapping: 0.165500 ms MarkObjects: 6.695300 ms  DeleteObjects: 0.330900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/image/UI/ShaggyUI 1.png
+  artifactKey: Guid(ce7ac42b7b520cf47a3498d3dfbeff04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/image/UI/ShaggyUI 1.png using Guid(ce7ac42b7b520cf47a3498d3dfbeff04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '068d5661c374941fe3982503d3695851') in 0.367421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/image/UI/954104.png
+  artifactKey: Guid(99aaa99c072baec40bc0a518e1f5d713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/image/UI/954104.png using Guid(99aaa99c072baec40bc0a518e1f5d713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfdb1adf605691a55243a891191f2b9c') in 0.272209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.483826 seconds.
+  path: Assets/personajes/Jugador1/goku ssBlueR_01.prefab
+  artifactKey: Guid(aedac28f3045f6f4a991acb4369eb3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/personajes/Jugador1/goku ssBlueR_01.prefab using Guid(aedac28f3045f6f4a991acb4369eb3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed5e10b1fc1b6eab995c34072b63d76') in 0.344872 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/personajes/Jugador1/vergil_0.prefab
+  artifactKey: Guid(fd88bd2690c2b3947a4c03f0719f88f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/personajes/Jugador1/vergil_0.prefab using Guid(fd88bd2690c2b3947a4c03f0719f88f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72630821fb9e969b1e9236a2a2ac3880') in 0.192752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/personajes/Jugador1/Goku Y Vegeta.prefab
+  artifactKey: Guid(e476e0d47ea29ec449d28592880a2ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/personajes/Jugador1/Goku Y Vegeta.prefab using Guid(e476e0d47ea29ec449d28592880a2ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed00901b290431ddb64187997ae4b352') in 0.089234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/personajes/Jugador1/Naruto.prefab
+  artifactKey: Guid(5ca089b5cccf68341a461bc95eccc41b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/personajes/Jugador1/Naruto.prefab using Guid(5ca089b5cccf68341a461bc95eccc41b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc303f6e4634481e95c0508f00ee6f63') in 0.149422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/personajes/Jugador1/Vegeta1 1.prefab
+  artifactKey: Guid(c94d01a2791eafd4da03d4b3d58a0bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/personajes/Jugador1/Vegeta1 1.prefab using Guid(c94d01a2791eafd4da03d4b3d58a0bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19901534e48183d0fb8a7e108bfef41d') in 0.060255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/personajes/Jugador1/Ichigo.prefab
+  artifactKey: Guid(3caed7633889dd94fb4c1dbdaf1bf493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/personajes/Jugador1/Ichigo.prefab using Guid(3caed7633889dd94fb4c1dbdaf1bf493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8ed701dcb1b69baab5198b07eb3a998') in 0.166250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/personajes/Jugador1/sasuke.prefab
+  artifactKey: Guid(dd41ee17be4aae541b3cf547b10b8628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/personajes/Jugador1/sasuke.prefab using Guid(dd41ee17be4aae541b3cf547b10b8628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '285f631c1b20317658ceb465fbc6e949') in 0.230538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/personajes/Jugador1/Shaggy.prefab
+  artifactKey: Guid(b12ab503a6d35f54da8e370a6b73af57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/personajes/Jugador1/Shaggy.prefab using Guid(b12ab503a6d35f54da8e370a6b73af57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a0d58532a3dd3fbfaa70910148411e') in 0.101630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.204898 seconds.
+  path: Assets/PJTAS/Goku y Vegeta.asset
+  artifactKey: Guid(ebdded4476048eb48bd05106b54006a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PJTAS/Goku y Vegeta.asset using Guid(ebdded4476048eb48bd05106b54006a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02faefc19361e63b2279cb86dbde5597') in 0.043588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/PJTAS/Ichigo2.asset
+  artifactKey: Guid(7761084378f4218469a8b86d48cc0316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PJTAS/Ichigo2.asset using Guid(7761084378f4218469a8b86d48cc0316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ad08205d9e8c25ffd3224f319fb5f4') in 0.134362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Assets/PJTAS/Ichigo.asset
+  artifactKey: Guid(be2553c09e1f0034b9db7968b4bf1a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PJTAS/Ichigo.asset using Guid(be2553c09e1f0034b9db7968b4bf1a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6abe88cc00faf66aa7902fe3c9756f1') in 0.048816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/PJTAS/Naruto Uzumaki.asset
+  artifactKey: Guid(aedf3f11875d515489aef52c30c9da47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PJTAS/Naruto Uzumaki.asset using Guid(aedf3f11875d515489aef52c30c9da47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71c31f4b549e2135cc0a4f4ab34b564') in 0.045025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/PJTAS/Shaggy PJ1.asset
+  artifactKey: Guid(9a434893c9f6b0c4e949d4cbb0e77d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PJTAS/Shaggy PJ1.asset using Guid(9a434893c9f6b0c4e949d4cbb0e77d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0393e3a257b099d0cfb8596c7bf880bc') in 0.035057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/PJTAS/Naruto 2.asset
+  artifactKey: Guid(a04eab639a9baa34288e6ef9851eda22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PJTAS/Naruto 2.asset using Guid(a04eab639a9baa34288e6ef9851eda22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8cf6ce671aaf1749c09c6f139da2788') in 0.046611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/PJTAS/GokuVegeta2 1.asset
+  artifactKey: Guid(41bf0abc0ba827845970336e932a0c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PJTAS/GokuVegeta2 1.asset using Guid(41bf0abc0ba827845970336e932a0c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '508decaab0ad4d7a6e76e7732b9318e9') in 0.039891 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

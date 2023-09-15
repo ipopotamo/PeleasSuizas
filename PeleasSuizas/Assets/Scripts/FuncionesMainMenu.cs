@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class FuncionesMainMenu : MonoBehaviour
 {
     public void IrAlSelector(){
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(5);
     }
 
     public void Salir(){
@@ -18,6 +18,6 @@ public class FuncionesMainMenu : MonoBehaviour
     }
 
     public void VolverAlMenu(){
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene(0);
     }
 }

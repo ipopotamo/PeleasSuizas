@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fb55273e331411e46abcd1ff4c74c80a
+  - enabled: 1
     path: Assets/Scenes/EjemploPelea.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
@@ -20,9 +23,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Seletor.unity
     guid: 82a5ac555f267f347a352f58a8c20968
-  - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: fb55273e331411e46abcd1ff4c74c80a
   - enabled: 1
     path: Assets/Scenes/Practica.unity
     guid: a92e36faee64ec740abf3b837cc7e2ef
