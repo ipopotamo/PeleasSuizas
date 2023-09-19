@@ -82,8 +82,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -973926277
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 8337188584549961171, guid: 61a21485a24e459438f3b4e8bcbaea69, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -310,6 +310,7 @@ MonoBehaviour:
   control: {fileID: 4345397916962696054}
   radioAtaque: 0.5
   Dano: 10
+  TransfDisp: {fileID: 0}
   anim: {fileID: 0}
   combo: 0
   atacando: 0

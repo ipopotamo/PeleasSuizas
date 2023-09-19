@@ -112,8 +112,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -973926277
+  m_SortingLayer: 1
   m_SortingOrder: 2
   m_Sprite: {fileID: 6188487393030725352, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -317,6 +317,7 @@ MonoBehaviour:
   control: {fileID: 2355687464243755621}
   radioAtaque: 0.5
   Dano: 10
+  TransfDisp: {fileID: 0}
   anim: {fileID: 2355687464233849001}
   combo: 0
   atacando: 0
@@ -379,7 +380,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AtaqueDespertar: {fileID: 5250505663881409775, guid: cef650fa7fa4bfd4bac2783f015a833d, type: 3}
-  AtaqueBase: {fileID: 1300525559304375736, guid: ad6f33f1f7956e941a4df0a47e4356d5, type: 3}
+  AtaqueBase: {fileID: 3088841752529220785, guid: 86e5c2d98273163418a979d3a67ded20, type: 3}
   tiempoEntreAtaques: 10
   tiempoSiguienteAtaque: 0
   TiempoDeVida: 1

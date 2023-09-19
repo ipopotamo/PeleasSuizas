@@ -18,10 +18,15 @@ public class AtaqueLargaDistanciaPJ1 : MonoBehaviour
     private GameObject PJ1;
     private GameObject PJ1E;
 
+    private Vector3 newScale; // Copia la escala actual
+    
+
+
     void Start() {
         movi = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Movimiento>();
         Destroy(gameObject, TiempoDeVida);
-        
+        newScale = Ataque.transform.localScale; // Copia la escala actual
+        newScale.x = -newScale.x;               // Invierte la coordenada X
     }
 
     void Update() {
@@ -32,7 +37,9 @@ public class AtaqueLargaDistanciaPJ1 : MonoBehaviour
             transform.Translate(Vector3.right * velocidad *Time.deltaTime);
         }
         else {
-            Ataque.transform.localScale = new Vector3 (-2,2,1);
+            
+            Ataque.transform.localScale = newScale; // Aplica el cambio de direccion
+            //Ataque.transform.localScale = new Vector3 (-2,2,1);         
             transform.Translate(Vector3.left * velocidad *Time.deltaTime);
         }
 

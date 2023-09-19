@@ -27,7 +27,9 @@ AnimationClip:
       value: {fileID: 7681087077407743244, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
     - time: 0.3
       value: {fileID: -7227169521175684265, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
-    - time: 1
+    - time: 0.4
+      value: {fileID: -8080048735087427857, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
+    - time: 1.3
       value: {fileID: -7227169521175684265, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
     attribute: m_Sprite
     path: 
@@ -52,13 +54,14 @@ AnimationClip:
     - {fileID: 805947552348962246, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
     - {fileID: 7681087077407743244, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
     - {fileID: -7227169521175684265, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
+    - {fileID: -8080048735087427857, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
     - {fileID: -7227169521175684265, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1.1
+    m_StopTime: 1.4
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -85,14 +88,14 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0.2
+  - time: 0.3
     functionName: da2LanzarBase
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 1
+  - time: 1.3
     functionName: VolverIdle
     data: 
     objectReferenceParameter: {fileID: 0}

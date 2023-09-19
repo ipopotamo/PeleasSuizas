@@ -53,6 +53,12 @@ TextureImporter:
   - first:
       213: -3858722110910863071
     second: Gogeta Base3_16
+  - first:
+      213: -5947366369314139318
+    second: Estela
+  - first:
+      213: -1643827673203765439
+    second: Gogeta Base3_18
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -506,6 +512,48 @@ TextureImporter:
       bones: []
       spriteID: 129663c3fa0137ac0800000000000000
       internalID: -3858722110910863071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estela
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 166
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431def2cc5b67da0800000000000000
+      internalID: -5947366369314139318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta Base3_18
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 145
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f8bbac073ff29e0800000000000000
+      internalID: -1643827673203765439
       vertices: []
       indices: 
       edges: []

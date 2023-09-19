@@ -17,11 +17,15 @@ public class AtaqueLargaDistancia : MonoBehaviour
     [SerializeField] private float Dano;
     private Transform pj2;
 
+
+    private Vector3 newScale; // Copia la escala actual
+
     void Start() {
         pj2 = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Transform>();
         movi = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Movimiento2>();
         Destroy(gameObject, TiempoDeVida);
-        
+        newScale = Ataque.transform.localScale; // Copia la escala actual
+        newScale.x = -newScale.x;               // Invierte la coordenada X
     }
 
     void Update() {
@@ -34,7 +38,7 @@ public class AtaqueLargaDistancia : MonoBehaviour
             transform.Translate(Vector3.right * velocidad *Time.deltaTime);
         }
         else {
-            Ataque.transform.localScale = new Vector3 (-2,2,1);
+             Ataque.transform.localScale = newScale; // Aplica el cambio de direccion
             transform.Translate(Vector3.left * velocidad *Time.deltaTime);
         }
 

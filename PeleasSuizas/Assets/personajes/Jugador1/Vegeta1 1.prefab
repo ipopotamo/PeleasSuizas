@@ -140,8 +140,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -973926277
+  m_SortingLayer: 1
   m_SortingOrder: 2
   m_Sprite: {fileID: 4481987438876543312, guid: 01fd24f7054e7d04eb4401fcfe35b433, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -354,6 +354,7 @@ MonoBehaviour:
   vida: 200
   defe: 5
   slider: {fileID: 0}
+  ContraJ2: 0
 --- !u!114 &9032844724477571086
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -369,6 +370,8 @@ MonoBehaviour:
   control: {fileID: 6201680103844716632}
   radioAtaque: 0.5
   Dano: 10
+  TransfDisp: {fileID: 0}
+  puedeTransformarse: 0
   anim: {fileID: 0}
   combo: 0
   atacando: 0
