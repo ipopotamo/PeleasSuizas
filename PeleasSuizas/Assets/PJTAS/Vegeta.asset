@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Vegeta
   m_EditorClassIdentifier: 
   PersonajeJugable: {fileID: 7383952479993217851, guid: 4b7dbd3e24011634691501ef64c93281, type: 3}
-  Imagen: {fileID: 21300000, guid: 2635b44a7dfcf2c48a51857dec0efbfb, type: 3}
+  Imagen: {fileID: 3238162964887894725, guid: 61a21485a24e459438f3b4e8bcbaea69, type: 3}
   nombre: Vegeta

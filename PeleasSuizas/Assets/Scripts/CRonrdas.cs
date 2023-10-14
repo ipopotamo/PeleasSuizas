@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI; 
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class CRonrdas : MonoBehaviour
 {
@@ -13,6 +14,8 @@ public class CRonrdas : MonoBehaviour
 
     [SerializeField] private GameObject controlador;
     [SerializeField] private PausaYOtros pausa;
+
+    [SerializeField]private TextMeshProUGUI  MostrarResultados;
 
     private Movimiento  PJ1;
     private Movimiento2 PJ2;
@@ -53,6 +56,7 @@ public class CRonrdas : MonoBehaviour
 
     void Update()
     {
+        MostrarResultados.text = (win1P1.ToString("F0")+ " - " + win1P2.ToString("F0"));
         vidaUwU2   = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<VidaPJ2>();
         vidaUwU1   = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<VidaPJ1>();
 
@@ -63,7 +67,7 @@ public class CRonrdas : MonoBehaviour
         PJ2 = GameObject.FindGameObjectWithTag("Jugador2").GetComponent<Movimiento2>();
         PJ1 = GameObject.FindGameObjectWithTag("Jugador1").GetComponent<Movimiento>();
 
-        if (vidaUwU1.vida <= 0)
+        if (vidaUwU1.vida <= 0 && win1P2 < 3f)
         {        
             win1P2++;     
             if(win1P2 == 1f){
@@ -80,13 +84,14 @@ public class CRonrdas : MonoBehaviour
                 {
                     Debug.Log("Nada");
                 }
+                
                 PJ2.velocidadDeMovimiento = 0;
                 CartelVictoria.SetActive(true);
                 Debug.Log(win1P1 + "/" + win1P2);
             }  
         }
 
-        if (vidaUwU2.vida <= 0)
+        if (vidaUwU2.vida <= 0 && win1P1 < 3f)
         {
             win1P1++;
         
@@ -107,6 +112,7 @@ public class CRonrdas : MonoBehaviour
                 PJ1.velocidadDeMovimiento = 0; 
                 CartelVictoria.SetActive(true);
                 Debug.Log(win1P1 + "/" + win1P2);
+                
             }   
         
         }

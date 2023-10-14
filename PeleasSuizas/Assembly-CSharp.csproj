@@ -42,6 +42,7 @@
      <Compile Include="Assets\agarrePJ1.cs" />
      <Compile Include="Assets\Scripts\PJ1\Combo.cs" />
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\AtaqueCortaDistancia2.cs" />
+     <Compile Include="Assets\Estela.cs" />
      <Compile Include="Assets\Scripts\PJ1\VidaPJ1.cs" />
      <Compile Include="Assets\Scripts\Rotar.cs" />
      <Compile Include="Assets\Scripts\PJ1\Movimiento.cs" />
@@ -73,6 +74,7 @@
      <Compile Include="Assets\Scripts\PJ2\comboPJ2.cs" />
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;X&apos; u &apos;O&apos;\InstanciarAtaqueDistancia.cs" />
      <Compile Include="Assets\Scripts\testeosNacho\MovimientoIA.cs" />
+     <Compile Include="Assets\SonidoManager.cs" />
      <Compile Include="Assets\Scripts\PJ2\caragarEnergiaPJ2.cs" />
      <Compile Include="Assets\Scripts\SelectorScript\InicioJugador2.cs" />
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;Z&apos; o 0\AtaqueRapidoPJ2.cs" />
@@ -86,7 +88,7 @@
      <Compile Include="Assets\Scripts\Habilidades\Con &apos;Z&apos; o 0\AtaqueRapido.cs" />
      <Compile Include="Assets\Scripts\Musica.cs" />
      <Compile Include="Assets\Scripts\IAgeneral.cs" />
-     <Compile Include="Assets\Estela.cs" />
+     <Compile Include="Assets\CineMachineControlMovimientoCamara.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

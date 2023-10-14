@@ -33,6 +33,9 @@ TagManager:
   - ContHabX2
   - TextZ2
   - TextX2
+  - ManagerSonidos
+  - TextTP1
+  - TextTP2
   layers:
   - Default
   - TransparentFX

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class TPJ2 : MonoBehaviour
 {
@@ -14,16 +15,23 @@ public class TPJ2 : MonoBehaviour
     private float tiempoEntreTP = 3;
     private float tiempoSiguienteTP;
     private Transform TPaca;
+
+    private Text textoCant;
+    private string texto;
+    
     // Start is called before the first frame update
     void Start()
     {
         cantTP = maxTP;
         TPaca = GameObject.FindGameObjectWithTag("TPPJ1").GetComponent<Transform>();
+        textoCant = GameObject.FindGameObjectWithTag("TextTP2").GetComponent<Text>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        texto = cantTP.ToString("F0");
+        textoCant.text = texto; 
         if (tiempoSiguienteTP>0)
         {
             tiempoSiguienteTP -= Time.deltaTime;

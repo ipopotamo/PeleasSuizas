@@ -8,6 +8,7 @@ using UnityEngine.SceneManagement;
 public class PausaYOtros : MonoBehaviour
 {
     [SerializeField] public GameObject cartelPausa;
+    [SerializeField] private GameObject Config;
     public bool juegopausado = false;
     [SerializeField] private CRonrdas rondas;
     void Start()
@@ -56,6 +57,7 @@ public class PausaYOtros : MonoBehaviour
         juegopausado = false;
         Time.timeScale = 1f;
         cartelPausa.SetActive(false);
+        Config.SetActive(false);
     }
     private void Pausa(){
         cartelPausa.SetActive(true);
@@ -71,6 +73,7 @@ public class PausaYOtros : MonoBehaviour
         Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         cartelPausa.SetActive(false);
+        Config.SetActive(false);
     }
 
     public void Salir_al_Menu()
@@ -79,7 +82,17 @@ public class PausaYOtros : MonoBehaviour
         rondas.WINSPJ2 = 0;
         SceneManager.LoadScene("Seletor");
         cartelPausa.SetActive(false);
+        Config.SetActive(false);
         Time.timeScale = 1f;
         Destroy(rondas.gameObject);
+    }
+
+    public void MostrarConfig(){
+        cartelPausa.SetActive(false);
+        Config.SetActive(true);
+    }
+    public void VolverMenuOpcionesEnJuego(){
+        cartelPausa.SetActive(true);
+        Config.SetActive(false);    
     }
 }

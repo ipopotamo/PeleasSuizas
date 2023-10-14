@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Gokucito 1
   m_EditorClassIdentifier: 
   PersonajeJugable: {fileID: 5286355087761165382, guid: aedac28f3045f6f4a991acb4369eb3e0, type: 3}
-  Imagen: {fileID: -626356056089049423, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
+  Imagen: {fileID: -6165427413234158231, guid: ba16e2ee495dfd844a1f712b305806b5, type: 3}
   nombre: Goku SSB
