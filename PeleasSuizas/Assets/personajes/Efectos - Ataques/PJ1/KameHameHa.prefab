@@ -4955,7 +4955,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidad: 20
   VeloRotacion: 0
-  Ataque: {fileID: 4048993794858683085}
+  Ataque: {fileID: 3081751878318074425}
   Rotacion: 0
   TiempoDeVida: 1
   Dano: 25
